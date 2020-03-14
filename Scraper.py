@@ -69,12 +69,18 @@ class Weather_Data():
         self.week_start = week_start
         self.week_end = week_end
         self.master_list = []
-        self.wind_format = [str(integer) + "m " for integer in range(10)] #wind substrings always contain a number followed by an m
-        self.forecast_format = [str(integer) + "f " for integer in range(10)] #forecast substrings always contain a number followed by an f
         
-        self.data_folder = str(os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))) #Import from same folder as python file
-        self.team_list = [y for x in list(csv.reader(open(self.data_folder + "\\NFL Team List.csv", "rt", encoding = "utf-8"))) for y in x if x != []] #List of all NFL team names
-        self.headers = ["game_id", "year", "week", "away", "home", "away_score", "home_score", "temp", "forecast", "is_dome", "wind_speed", "wind_direct"]
+        #wind substrings always contain a number followed by an m
+        #forecast substrings always contain a number followed by an f
+        self.wind_format = [str(integer) + "m " for integer in range(10)] 
+        self.forecast_format = [str(integer) + "f " for integer in range(10)] 
+        
+        #Import from list of all 32 NFL teams from same folder as Python file
+        self.data_folder = str(os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))) 
+        self.team_list = [y for x in list(csv.reader(open(self.data_folder + "\\NFL Team List.csv", "rt", encoding = "utf-8")))
+                          for y in x if x != []]
+        self.headers = ["game_id", "year", "week", "away", "home", "away_score", "home_score", "temp", "forecast", "is_dome",
+                        "wind_speed", "wind_direct"]
 
         
     #Get text from given url
@@ -121,8 +127,9 @@ class Weather_Data():
         matchup_list = []
         current_game = game_info(year, week)
         
-        #Since some matchups are missing scores, wind data, or forecast data, the only thing we know is that each matchup starts with two teams followed by data
-        #Therefore, we need to reverse the list and add data to the class instance until we reach the second team name
+        #Some matchups are missing scores, wind data, or forecast data,
+        #We only know that all matchups start with two teams followed by data
+        #Therefore, we need to reverse the list and add data to the class instance until we reach a second team name
         for element in reversed(text_list):
         
             #Check if element contains one of the the 32 NFL teams
@@ -178,5 +185,5 @@ class Weather_Data():
 
 
 #Run program - year start, year end, week start, week end - Max (2009, 2019, 1, 18)
-data = Weather_Data(2009, 2019, 1, 18) #
+data = Weather_Data(2009, 2019, 1, 18)
 data.run()
