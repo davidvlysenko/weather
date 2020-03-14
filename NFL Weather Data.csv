@@ -1,0 +1,2560 @@
+game_id,year,week,away,home,away_score,home_score,temp,forecast,is_dome,wind_speed,wind_direct
+1086584894,2009,1,Titans,Steelers,10,13,67,Mostly Cloudy,FALSE,,
+4138138083,2009,1,Lions,Saints,27,45,72,DOME,TRUE,,
+3227653171,2009,1,Dolphins,Falcons,7,19,72,DOME,TRUE,,
+432642399,2009,1,Chiefs,Ravens,24,38,68,Mostly Cloudy,FALSE,,
+883612473,2009,1,Eagles,Panthers,38,10,77,Mostly Cloudy,FALSE,,
+4253727100,2009,1,Cowboys,Buccaneers,34,21,85,Mostly Cloudy,FALSE,,
+2498682532,2009,1,Jets,Texans,24,7,82,Mostly Cloudy,FALSE,,
+2608384369,2009,1,Broncos,Bengals,12,7,71,Fair,FALSE,,
+2802141796,2009,1,Vikings,Browns,34,20,70,Fair,FALSE,,
+3678434764,2009,1,Redskins,Giants,17,23,80,Fair,FALSE,,
+1303256861,2009,1,49ers,Cardinals,20,16,72,DOME,TRUE,,
+392098013,2009,1,Rams,Seahawks,0,28,74,Fair,FALSE,,
+440473058,2009,1,Bears,Packers,15,21,80,Mostly Cloudy,FALSE,,
+2257375529,2009,1,Bills,Patriots,24,25,73,Fair,FALSE,,
+3978309577,2009,1,Chargers,Raiders,24,20,67,Partly Cloudy,FALSE,,
+19530927,2009,2,Texans,Titans,34,31,76,Overcast,FALSE,,
+482070719,2009,2,Panthers,Falcons,20,28,72,DOME,TRUE,,
+2728201242,2009,2,Vikings,Lions,27,13,72,DOME,TRUE,,
+3658714725,2009,2,Cardinals,Jaguars,31,17,87,Mostly Cloudy,FALSE,,
+2454406575,2009,2,Raiders,Chiefs,13,10,70,Overcast,FALSE,,
+3190182744,2009,2,Saints,Eagles,48,22,69,A Few Clouds,FALSE,,
+981317664,2009,2,Bengals,Packers,31,24,68,Mostly Cloudy,FALSE,,
+2706719221,2009,2,Rams,Redskins,7,9,68,Fair,FALSE,,
+1870522217,2009,2,Patriots,Jets,9,16,68,Fair,FALSE,,
+3142950805,2009,2,Buccaneers,Bills,20,33,75,Partly Cloudy,FALSE,,
+2493021541,2009,2,Seahawks,49ers,10,23,68,Fair,FALSE,,
+1973990340,2009,2,Ravens,Chargers,31,26,81,Fair,FALSE,,
+1972447438,2009,2,Steelers,Bears,14,17,70,Overcast,FALSE,,
+457683540,2009,2,Browns,Broncos,6,27,82,Partly Cloudy,FALSE,,
+3229891489,2009,2,Giants,Cowboys,33,31,88,Partly Cloudy,FALSE,,
+1443861225,2009,2,Colts,Dolphins,27,23,85,Fair,FALSE,,
+669457925,2009,3,Redskins,Lions,14,19,72,DOME,TRUE,,
+3724250137,2009,3,Packers,Rams,36,17,72,DOME,TRUE,,
+2047893021,2009,3,49ers,Vikings,24,27,72,DOME,TRUE,,
+4028319641,2009,3,Falcons,Patriots,10,26,64,Light Rain,FALSE,,
+1823067769,2009,3,Titans,Jets,17,24,66,Light Rain Fog Mist,FALSE,,
+1193436991,2009,3,Chiefs,Eagles,14,34,68,Fog Mist,FALSE,,
+2762492023,2009,3,Giants,Buccaneers,24,0,89,Partly Cloudy,FALSE,,
+1836183382,2009,3,Browns,Ravens,3,34,71,Light Rain,FALSE,,
+2353732777,2009,3,Jaguars,Texans,31,24,84,Partly Cloudy,FALSE,,
+2455087058,2009,3,Saints,Bills,27,7,66,Mostly Cloudy,FALSE,,
+2234997778,2009,3,Bears,Seahawks,25,19,61,Fair,FALSE,,
+548984117,2009,3,Dolphins,Chargers,13,23,78,Fair,FALSE,,
+2023500992,2009,3,Steelers,Bengals,20,23,63,Overcast,FALSE,,
+2154102418,2009,3,Broncos,Raiders,23,3,77,Fair,FALSE,,
+2126785376,2009,3,Colts,Cardinals,31,10,72,DOME,TRUE,,
+1138111984,2009,3,Panthers,Cowboys,7,21,81,Clear,FALSE,,
+3935334459,2009,4,Lions,Bears,24,48,52,Mostly Cloudy,FALSE,,
+306696596,2009,4,Bengals,Browns,23,20,56,Overcast,FALSE,,
+732245501,2009,4,Seahawks,Colts,17,34,72,DOME,TRUE,,
+1143896693,2009,4,Giants,Chiefs,27,16,56,Fair,FALSE,,
+4140035768,2009,4,Ravens,Patriots,21,27,65,Fog Mist,FALSE,,
+4121931755,2009,4,Buccaneers,Redskins,13,16,68,Clear,FALSE,,
+3309394888,2009,4,Titans,Jaguars,17,37,82,Overcast,FALSE,,
+2546497492,2009,4,Raiders,Texans,6,29,78,Light Rain,FALSE,,
+1693130579,2009,4,Jets,Saints,10,24,72,DOME,TRUE,,
+3583244813,2009,4,Bills,Dolphins,10,38,89,Fair,FALSE,,
+2557240820,2009,4,Rams,49ers,0,35,60,A Few Clouds,FALSE,,
+1095367742,2009,4,Cowboys,Broncos,10,17,54,Mostly Cloudy,FALSE,,
+2815562369,2009,4,Chargers,Steelers,28,38,54,Overcast,FALSE,,
+3926027271,2009,4,Packers,Vikings,23,30,72,DOME,TRUE,,
+2284626496,2009,5,Browns,Bills,6,3,45,A Few Clouds,FALSE,,
+4200967312,2009,5,Cowboys,Chiefs,26,20,39,Overcast,FALSE,,
+2119411868,2009,5,Vikings,Rams,38,10,72,DOME,TRUE,,
+3883694176,2009,5,Raiders,Giants,7,44,61,Fair,FALSE,,
+1995348822,2009,5,Buccaneers,Eagles,14,33,62,Partly Cloudy,FALSE,,
+2141650482,2009,5,Steelers,Lions,28,20,72,DOME,TRUE,,
+471924343,2009,5,Redskins,Panthers,17,20,64,Overcast,FALSE,,
+2471800361,2009,5,Bengals,Ravens,17,14,66,Fair,FALSE,,
+205401191,2009,5,Falcons,49ers,45,10,58,Overcast,FALSE,,
+2471829959,2009,5,Jaguars,Seahawks,0,41,54,Fair,FALSE,,
+1014369925,2009,5,Texans,Cardinals,21,28,72,DOME,TRUE,,
+3759972734,2009,5,Patriots,Broncos,17,20,28,Overcast with Haze,FALSE,,
+2126026488,2009,5,Colts,Titans,31,9,60,Mostly Cloudy,FALSE,,
+1626980161,2009,5,Jets,Dolphins,27,31,84,Fair,FALSE,,
+553128661,2009,6,Texans,Bengals,28,17,48,Fair,FALSE,,
+2647984427,2009,6,Lions,Packers,0,26,43,Fair,FALSE,,
+186513385,2009,6,Ravens,Vikings,31,33,72,DOME,TRUE,,
+1318272675,2009,6,Giants,Saints,27,48,72,DOME,TRUE,,
+2285496536,2009,6,Browns,Steelers,14,27,42,Partly Cloudy,FALSE,,
+872970090,2009,6,Panthers,Buccaneers,28,21,64,A Few Clouds,FALSE,,
+2378940402,2009,6,Chiefs,Redskins,14,6,44,Overcast,FALSE,,
+3234161079,2009,6,Rams,Jaguars,20,23,59,A Few Clouds,FALSE,,
+2124602351,2009,6,Cardinals,Seahawks,27,3,60,Overcast,FALSE,,
+308817242,2009,6,Eagles,Raiders,9,13,62,Mostly Cloudy,FALSE,,
+568613403,2009,6,Titans,Patriots,0,59,40,Rain Fog Mist,FALSE,,
+2872651614,2009,6,Bills,Jets,16,13,44,Overcast,FALSE,,
+3195698725,2009,6,Bears,Falcons,14,21,72,DOME,TRUE,,
+453054929,2009,6,Broncos,Chargers,34,23,70,Overcast,FALSE,,
+3255605616,2009,7,Packers,Browns,31,3,54,Overcast,FALSE,,
+4279668899,2009,7,Chargers,Chiefs,37,7,59,Fair,FALSE,,
+641458121,2009,7,Colts,Rams,42,6,72,DOME,TRUE,,
+924049389,2009,7,49ers,Texans,21,24,79,Partly Cloudy,FALSE,,
+931865545,2009,7,Vikings,Steelers,17,27,51,Fair,FALSE,,
+1121375978,2009,7,Patriots,Buccaneers,35,7,61,Partly Cloudy,FALSE,,
+3331183745,2009,7,Bills,Panthers,20,9,59,Mostly Cloudy,FALSE,,
+3010194669,2009,7,Jets,Raiders,38,0,67,A Few Clouds,FALSE,,
+96069617,2009,7,Bears,Bengals,10,45,55,Fair,FALSE,,
+2033087181,2009,7,Saints,Dolphins,46,34,86,Fair,FALSE,,
+822141267,2009,7,Falcons,Cowboys,21,37,73,Overcast,FALSE,,
+2669400109,2009,7,Cardinals,Giants,24,17,58,Fair,FALSE,,
+1367044091,2009,7,Eagles,Redskins,27,17,55,Fair,FALSE,,
+894285509,2009,8,Texans,Bills,31,10,48,Mostly Cloudy,FALSE,,
+1549292359,2009,8,Browns,Bears,6,30,48,Mostly Cloudy,FALSE,,
+1418802993,2009,8,Seahawks,Cowboys,17,38,72,Clear,FALSE,,
+3477095452,2009,8,Rams,Lions,17,10,72,DOME,TRUE,,
+4113755208,2009,8,Vikings,Packers,38,26,44,A Few Clouds,FALSE,,
+1272581108,2009,8,49ers,Colts,14,18,72,DOME,TRUE,,
+2951066057,2009,8,Dolphins,Jets,30,25,54,Fair,FALSE,,
+3058165298,2009,8,Broncos,Ravens,7,30,50,Light Rain,FALSE,,
+2477384573,2009,8,Raiders,Chargers,16,24,79,Fair,FALSE,,
+3714987432,2009,8,Jaguars,Titans,13,30,60,Fair,FALSE,,
+1865489809,2009,8,Giants,Eagles,17,40,54,Mostly Cloudy,FALSE,,
+286828167,2009,8,Panthers,Cardinals,34,21,72,DOME,TRUE,,
+2379324477,2009,8,Falcons,Saints,27,35,72,DOME,TRUE,,
+1713514610,2009,9,Redskins,Falcons,17,31,72,DOME,TRUE,,
+3137759714,2009,9,Cardinals,Bears,41,21,62,Mostly Cloudy,FALSE,,
+899607804,2009,9,Ravens,Bengals,7,17,66,Fair,FALSE,,
+525655478,2009,9,Texans,Colts,17,20,72,DOME,TRUE,,
+1407509016,2009,9,Dolphins,Patriots,17,27,65,Fair,FALSE,,
+3348674138,2009,9,Packers,Buccaneers,28,38,81,Mostly Cloudy,FALSE,,
+948313016,2009,9,Chiefs,Jaguars,21,24,79,Partly Cloudy,FALSE,,
+1854682971,2009,9,Lions,Seahawks,20,32,50,Overcast,FALSE,,
+254098772,2009,9,Panthers,Saints,20,30,72,DOME,TRUE,,
+2816207834,2009,9,Chargers,Giants,21,20,71,Fair,FALSE,,
+468122362,2009,9,Titans,49ers,34,27,62,Partly Cloudy,FALSE,,
+3936958301,2009,9,Cowboys,Eagles,20,16,58,Fair,FALSE,,
+3504030342,2009,9,Steelers,Broncos,28,10,50,A Few Clouds,FALSE,,
+2166297243,2009,10,Bears,49ers,6,10,60,A Few Clouds,FALSE,,
+1279789767,2009,10,Bills,Titans,17,41,66,Partly Cloudy,FALSE,,
+1406967628,2009,10,Saints,Rams,28,23,72,DOME,TRUE,,
+500228227,2009,10,Buccaneers,Dolphins,23,25,0,Clear,FALSE,,
+1707404815,2009,10,Lions,Vikings,10,27,72,DOME,TRUE,,
+1355373926,2009,10,Jaguars,Jets,24,22,63,Overcast,FALSE,,
+2697513250,2009,10,Bengals,Steelers,18,12,63,Mostly Cloudy,FALSE,,
+2985642587,2009,10,Broncos,Redskins,17,27,67,Fair,FALSE,,
+1364057914,2009,10,Falcons,Panthers,19,28,71,Mostly Cloudy,FALSE,,
+4185715927,2009,10,Chiefs,Raiders,16,10,57,A Few Clouds,FALSE,,
+344782180,2009,10,Cowboys,Packers,7,17,47,Fair,FALSE,,
+741441105,2009,10,Seahawks,Cardinals,20,31,72,DOME,TRUE,,
+1667056648,2009,10,Eagles,Chargers,23,31,70,Fair,FALSE,,
+3442779064,2009,10,Patriots,Colts,34,35,72,DOME,TRUE,,
+2235749207,2009,10,Ravens,Browns,16,0,46,Overcast,FALSE,,
+2612833602,2009,11,Dolphins,Panthers,24,17,61,Partly Sunny,FALSE,,
+1605930022,2009,11,Redskins,Cowboys,6,7,61,Partly Cloudy,FALSE,,
+2306058637,2009,11,Browns,Lions,37,38,72,DOME,TRUE,,
+1032057116,2009,11,49ers,Packers,24,30,53,Overcast with Haze,FALSE,,
+1848181917,2009,11,Steelers,Chiefs,24,27,55,Overcast,FALSE,,
+134919088,2009,11,Falcons,Giants,31,34,53,Fair,FALSE,,
+3130643257,2009,11,Saints,Buccaneers,38,7,79,Overcast,FALSE,,
+3229067894,2009,11,Bills,Jaguars,15,18,72,Overcast,FALSE,,
+3610284404,2009,11,Colts,Ravens,17,15,55,Partly Sunny,FALSE,,
+3912497883,2009,11,Seahawks,Vikings,9,35,72,DOME,TRUE,,
+1993727862,2009,11,Cardinals,Rams,21,13,72,DOME,TRUE,,
+2596965509,2009,11,Jets,Patriots,14,31,47,Overcast,FALSE,,
+2566167213,2009,11,Bengals,Raiders,17,20,52,Mostly Cloudy,FALSE,,
+1740579587,2009,11,Chargers,Broncos,32,3,46,Partly Cloudy,FALSE,,
+1350617907,2009,11,Eagles,Bears,24,20,49,Partly Cloudy,FALSE,,
+558872189,2009,11,Titans,Texans,20,17,66,A Few Clouds,FALSE,,
+3224521011,2009,12,Packers,Lions,34,12,72,DOME,TRUE,,
+89296277,2009,12,Raiders,Cowboys,7,24,61,Clear,FALSE,,
+2358097636,2009,12,Giants,Broncos,6,26,52,A Few Clouds,FALSE,,
+2368930109,2009,12,Buccaneers,Falcons,17,20,72,DOME,TRUE,,
+310872718,2009,12,Dolphins,Bills,14,31,48,Partly Cloudy,FALSE,,
+2733732612,2009,12,Browns,Bengals,7,16,58,Partly Cloudy,FALSE,,
+1852007835,2009,12,Seahawks,Rams,27,17,72,DOME,TRUE,,
+2193224152,2009,12,Panthers,Jets,6,17,52,Fair,FALSE,,
+2468999366,2009,12,Redskins,Eagles,24,27,56,Fair,FALSE,,
+2588381825,2009,12,Colts,Texans,35,27,77,Mostly Cloudy,FALSE,,
+3910963842,2009,12,Cardinals,Titans,17,20,57,Mostly Cloudy,FALSE,,
+2988535396,2009,12,Bears,Vikings,10,36,72,DOME,TRUE,,
+2338254346,2009,12,Chiefs,Chargers,14,43,63,Partly Cloudy,FALSE,,
+3912340346,2009,12,Jaguars,49ers,3,20,66,A Few Clouds,FALSE,,
+2788728540,2009,12,Steelers,Ravens,17,20,52,Partly Sunny,FALSE,,
+4084218526,2009,12,Patriots,Saints,17,38,72,DOME,TRUE,,
+3312701199,2009,13,Jets,Bills,19,13,42,Overcast,FALSE,,
+3876238086,2009,13,Eagles,Falcons,34,7,72,DOME,TRUE,,
+933511926,2009,13,Rams,Bears,9,17,33,Mostly Cloudy,FALSE,,
+3201785861,2009,13,Lions,Bengals,13,23,33,Fair,FALSE,,
+4069810306,2009,13,Titans,Colts,17,27,72,DOME,TRUE,,
+2705808916,2009,13,Broncos,Chiefs,44,13,37,Fair,FALSE,,
+962617026,2009,13,Saints,Redskins,33,30,34,Fair,FALSE,,
+1989874857,2009,13,Buccaneers,Panthers,6,16,39,Overcast,FALSE,,
+3876443314,2009,13,Texans,Jaguars,18,23,54,Mostly Cloudy,FALSE,,
+95380952,2009,13,Raiders,Steelers,27,24,26,Fair,FALSE,,
+1728418987,2009,13,Patriots,Dolphins,21,22,70,Light Rain,FALSE,,
+2426742210,2009,13,Chargers,Browns,30,23,39,Fair,FALSE,,
+1270266344,2009,13,49ers,Seahawks,17,20,35,Mostly Cloudy,FALSE,,
+1243996196,2009,13,Cowboys,Giants,24,31,39,Fair,FALSE,,
+1666566053,2009,13,Vikings,Cardinals,17,30,72,DOME,TRUE,,
+211257147,2009,13,Ravens,Packers,14,27,24,Fair,FALSE,,
+287659312,2009,14,Steelers,Browns,6,13,16,Overcast and Windy,FALSE,,
+140782936,2009,14,Saints,Falcons,26,23,72,DOME,TRUE,,
+291254050,2009,14,Packers,Bears,21,14,35,Overcast,FALSE,,
+754473175,2009,14,Broncos,Colts,16,28,72,DOME,TRUE,,
+1883192153,2009,14,Bills,Chiefs,16,10,42,Overcast,FALSE,,
+2518855309,2009,14,Jets,Buccaneers,26,3,75,Mostly Cloudy,FALSE,,
+3657610716,2009,14,Dolphins,Jaguars,14,10,77,Mostly Cloudy,FALSE,,
+362809738,2009,14,Lions,Ravens,3,48,32,Light Rain,FALSE,,
+2929331865,2009,14,Seahawks,Texans,7,34,50,Fog,FALSE,,
+1642280316,2009,14,Bengals,Vikings,10,30,72,DOME,TRUE,,
+2333095542,2009,14,Panthers,Patriots,10,20,40,Overcast,FALSE,,
+2104635573,2009,14,Rams,Titans,7,47,51,Overcast,FALSE,,
+564682473,2009,14,Redskins,Raiders,34,13,52,Light Rain Fog Mist,FALSE,,
+3224299403,2009,14,Chargers,Cowboys,20,17,64,Clear,FALSE,,
+2812538669,2009,14,Eagles,Giants,45,38,42,Light Rain Fog Mist,FALSE,,
+731134461,2009,14,Cardinals,49ers,9,24,53,Mostly Cloudy,FALSE,,
+3314672113,2009,15,Colts,Jaguars,35,31,60,Mostly Cloudy,FALSE,,
+1707812881,2009,15,Cowboys,Saints,24,17,72,DOME,TRUE,,
+120941190,2009,15,Patriots,Bills,17,10,29,Mostly Cloudy,FALSE,,
+1014174087,2009,15,Cardinals,Lions,31,24,72,DOME,TRUE,,
+2472136941,2009,15,Dolphins,Titans,24,27,35,Overcast,FALSE,,
+1463217115,2009,15,Browns,Chiefs,41,34,38,Fair,FALSE,,
+2119043516,2009,15,Texans,Rams,16,13,72,DOME,TRUE,,
+389596563,2009,15,Falcons,Jets,10,7,29,A Few Clouds,FALSE,,
+476322387,2009,15,Bengals,Chargers,24,27,70,Mostly Cloudy,FALSE,,
+287650980,2009,15,Raiders,Broncos,20,19,55,A Few Clouds,FALSE,,
+2388992895,2009,15,49ers,Eagles,13,27,34,A Few Clouds,FALSE,,
+1185262254,2009,15,Packers,Steelers,36,37,27,Overcast,FALSE,,
+681348668,2009,15,Bears,Ravens,7,31,30,Few Clouds,FALSE,,
+659538791,2009,15,Buccaneers,Seahawks,24,7,54,Overcast,FALSE,,
+1412204097,2009,15,Vikings,Panthers,7,26,38,A Few Clouds,FALSE,,
+2766336418,2009,15,Giants,Redskins,45,12,35,Overcast,FALSE,,
+1119835336,2009,16,Chargers,Titans,42,17,34,Overcast,FALSE,,
+3784086804,2009,16,Bills,Falcons,3,31,72,DOME,TRUE,,
+602680569,2009,16,Chiefs,Bengals,10,17,41,Fair,FALSE,,
+981448843,2009,16,Raiders,Browns,9,23,32,Overcast,FALSE,,
+2743212399,2009,16,Seahawks,Packers,10,48,17,Fog Mist,FALSE,,
+2462808795,2009,16,Ravens,Steelers,20,23,38,Partly Cloudy,FALSE,,
+4091897438,2009,16,Texans,Dolphins,27,20,75,Fair,FALSE,,
+3675634371,2009,16,Jaguars,Patriots,7,35,55,Overcast,FALSE,,
+910308488,2009,16,Buccaneers,Saints,20,17,72,DOME,TRUE,,
+2990003707,2009,16,Panthers,Giants,41,9,49,Fair,FALSE,,
+2198460942,2009,16,Broncos,Eagles,27,30,49,A Few Clouds,FALSE,,
+2144030014,2009,16,Rams,Cardinals,10,31,72,DOME,TRUE,,
+1936159319,2009,16,Lions,49ers,6,20,54,Mostly Cloudy,FALSE,,
+198171140,2009,16,Jets,Colts,29,15,72,DOME,TRUE,,
+4170083852,2009,16,Cowboys,Redskins,17,0,38,Fair,FALSE,,
+2052921927,2009,16,Vikings,Bears,,,26,A Few Clouds,FALSE,,
+908299618,2009,17,Colts,Bills,7,30,14,Snow,FALSE,,
+1344879053,2009,17,Jaguars,Browns,17,23,18,Overcast and Breezy,FALSE,,
+4211199010,2009,17,Bears,Lions,37,23,72,DOME,TRUE,,
+566386102,2009,17,Falcons,Buccaneers,20,10,44,Overcast,FALSE,,
+3040003046,2009,17,Saints,Panthers,10,23,31,Mostly Cloudy,FALSE,,
+100945843,2009,17,Patriots,Texans,27,34,44,Overcast,FALSE,,
+291562235,2009,17,49ers,Rams,28,6,72,DOME,TRUE,,
+3060139222,2009,17,Steelers,Dolphins,30,24,60,Fair,FALSE,,
+1408394933,2009,17,Giants,Vikings,7,44,72,DOME,TRUE,,
+2268082742,2009,17,Eagles,Cowboys,0,24,48,Mostly Cloudy,FALSE,,
+967296039,2009,17,Packers,Cardinals,33,7,72,DOME,TRUE,,
+505694053,2009,17,Redskins,Chargers,20,23,78,Fair,FALSE,,
+2777323053,2009,17,Titans,Seahawks,17,13,47,Mostly Cloudy,FALSE,,
+3575701799,2009,17,Ravens,Raiders,21,13,52,Partly Cloudy,FALSE,,
+912933326,2009,17,Chiefs,Broncos,44,24,36,Overcast,FALSE,,
+3701115231,2009,17,Bengals,Jets,0,37,20,Overcast,FALSE,,
+1252409120,2010,1,Vikings,Saints,9,14,72,DOME,TRUE,,
+2906164847,2010,1,Dolphins,Bills,15,10,64,Overcast,FALSE,,
+2588210286,2010,1,Colts,Texans,24,34,88,Partly Cloudy,FALSE,,
+1429327656,2010,1,Lions,Bears,14,19,73,Fair,FALSE,,
+2653706229,2010,1,Falcons,Steelers,9,15,64,Overcast,FALSE,,
+1092356977,2010,1,Browns,Buccaneers,14,17,87,A Few Clouds,FALSE,,
+511215175,2010,1,Bengals,Patriots,24,38,63,A Few Clouds,FALSE,,
+1320954674,2010,1,Broncos,Jaguars,17,24,91,Partly Cloudy,FALSE,,
+78568606,2010,1,Raiders,Titans,13,38,76,A Few Clouds,FALSE,,
+68087251,2010,1,Panthers,Giants,18,31,65,Light Rain,FALSE,,
+1693016752,2010,1,49ers,Seahawks,6,31,64,Overcast,FALSE,,
+2856359708,2010,1,Cardinals,Rams,17,13,72,DOME,TRUE,,
+633544361,2010,1,Packers,Eagles,27,20,67,Overcast,FALSE,,
+3931785380,2010,1,Cowboys,Redskins,7,13,65,Overcast,FALSE,,
+760047191,2010,1,Ravens,Jets,10,9,73,Thunderstorm Light Rain,FALSE,,
+1996165913,2010,1,Chargers,Chiefs,14,21,81,Fair,FALSE,,
+70638520,2010,2,Ravens,Bengals,10,15,73,Fair,FALSE,,
+2262985972,2010,2,Buccaneers,Panthers,20,7,84,Mostly Cloudy,FALSE,,
+1354563971,2010,2,Bills,Packers,7,34,58,Partly Cloudy,FALSE,,
+3625897384,2010,2,Dolphins,Vikings,14,10,72,DOME,TRUE,,
+2749325739,2010,2,Bears,Cowboys,27,20,88,Clear,FALSE,,
+3015945011,2010,2,Eagles,Lions,35,32,72,DOME,TRUE,,
+3876948744,2010,2,Cardinals,Falcons,7,41,72,DOME,TRUE,,
+2194547309,2010,2,Chiefs,Browns,16,14,63,Overcast,FALSE,,
+3377724030,2010,2,Steelers,Titans,19,11,84,A Few Clouds,FALSE,,
+3679372742,2010,2,Seahawks,Broncos,14,31,90,Clear,FALSE,,
+3245209325,2010,2,Rams,Raiders,14,16,71,Mostly Cloudy,FALSE,,
+2127892023,2010,2,Patriots,Jets,14,28,82,Mostly Cloudy,FALSE,,
+3249165562,2010,2,Texans,Redskins,30,27,82,Fair,FALSE,,
+1837177393,2010,2,Jaguars,Chargers,13,38,74,Fair,FALSE,,
+1108955646,2010,2,Giants,Colts,14,38,72,DOME,TRUE,,
+3162875719,2010,2,Saints,49ers,25,22,72,A Few Clouds and Breezy,FALSE,,
+1689601015,2010,3,Bills,Patriots,30,38,67,Fair,FALSE,,
+1748511180,2010,3,Falcons,Saints,27,24,72,DOME,TRUE,,
+13024996,2010,3,Lions,Vikings,10,24,72,DOME,TRUE,,
+3374656033,2010,3,Browns,Ravens,17,24,77,Rain Showers,FALSE,,
+677375884,2010,3,Cowboys,Texans,27,13,82,Mostly Cloudy,FALSE,,
+1135727977,2010,3,49ers,Chiefs,10,31,57,Mostly Cloudy,FALSE,,
+1901456887,2010,3,Titans,Giants,29,10,70,Fair,FALSE,,
+2435601908,2010,3,Steelers,Buccaneers,38,13,86,Mostly Cloudy,FALSE,,
+3549629018,2010,3,Bengals,Panthers,20,7,65,Thunderstorm Rain Fog Mist,FALSE,,
+1396311839,2010,3,Eagles,Jaguars,28,3,90,Mostly Cloudy,FALSE,,
+1446371136,2010,3,Redskins,Rams,16,30,72,DOME,TRUE,,
+4078501557,2010,3,Raiders,Cardinals,23,24,72,DOME,TRUE,,
+1154332280,2010,3,Chargers,Seahawks,20,27,66,Fog Mist,FALSE,,
+2024064004,2010,3,Colts,Broncos,27,13,82,Clear,FALSE,,
+809246190,2010,3,Jets,Dolphins,31,23,84,Fair,FALSE,,
+787432010,2010,3,Packers,Bears,17,20,55,Mostly Cloudy,FALSE,,
+3806149371,2010,4,Jets,Bills,38,14,48,Light Rain,FALSE,,
+3507733002,2010,4,Seahawks,Rams,3,20,72,DOME,TRUE,,
+3068981470,2010,4,Panthers,Saints,14,16,72,DOME,TRUE,,
+3713113616,2010,4,Lions,Packers,26,28,52,A Few Clouds,FALSE,,
+1927360420,2010,4,Bengals,Browns,20,23,52,Overcast,FALSE,,
+345616905,2010,4,Ravens,Steelers,17,14,51,Overcast,FALSE,,
+3451087865,2010,4,Broncos,Titans,26,20,53,Overcast,FALSE,,
+556379481,2010,4,49ers,Falcons,14,16,72,DOME,TRUE,,
+1761681816,2010,4,Colts,Jaguars,28,31,81,A Few Clouds,FALSE,,
+1175561737,2010,4,Texans,Raiders,31,24,67,Mostly Cloudy,FALSE,,
+2720158653,2010,4,Redskins,Eagles,17,12,62,Mostly Cloudy,FALSE,,
+1166580889,2010,4,Cardinals,Chargers,10,41,70,Overcast with Haze,FALSE,,
+3877083386,2010,4,Bears,Giants,3,17,59,Partly Cloudy,FALSE,,
+602938411,2010,4,Patriots,Dolphins,41,14,81,Fair,FALSE,,
+2354979183,2010,5,Buccaneers,Bengals,24,21,78,Fair,FALSE,,
+4006422916,2010,5,Falcons,Browns,20,10,66,Fair,FALSE,,
+2175705249,2010,5,Giants,Texans,34,10,79,A Few Clouds,FALSE,,
+2276070175,2010,5,Chiefs,Colts,9,19,72,DOME,TRUE,,
+1381426034,2010,5,Packers,Redskins,13,16,69,Fair,FALSE,,
+165555852,2010,5,Jaguars,Bills,36,26,63,Partly Cloudy,FALSE,,
+3591405418,2010,5,Broncos,Ravens,17,31,70,Mostly Sunny,FALSE,,
+2039108380,2010,5,Bears,Panthers,23,6,80,Fair,FALSE,,
+1707822552,2010,5,Rams,Lions,6,44,72,DOME,TRUE,,
+2004939709,2010,5,Saints,Cardinals,20,30,72,DOME,TRUE,,
+2620802548,2010,5,Chargers,Raiders,27,35,71,A Few Clouds,FALSE,,
+642842500,2010,5,Titans,Cowboys,34,27,84,Clear,FALSE,,
+2312494038,2010,5,Eagles,49ers,27,24,75,Fair and Breezy,FALSE,,
+1542289621,2010,5,Vikings,Jets,20,29,70,A Few Clouds,FALSE,,
+2393969652,2010,6,Browns,Steelers,10,28,60,Fair,FALSE,,
+3977810373,2010,6,Saints,Buccaneers,31,6,79,Partly Cloudy,FALSE,,
+2045644516,2010,6,Dolphins,Packers,23,20,54,Fair,FALSE,,
+2261357221,2010,6,Chargers,Rams,17,20,72,DOME,TRUE,,
+3652661518,2010,6,Ravens,Patriots,20,23,57,Overcast,FALSE,,
+4216753779,2010,6,Chiefs,Texans,31,35,78,Mostly Cloudy,FALSE,,
+1921622084,2010,6,Lions,Giants,20,28,63,Fair,FALSE,,
+2129051172,2010,6,Falcons,Eagles,17,31,66,Partly Cloudy,FALSE,,
+2210974275,2010,6,Seahawks,Bears,23,20,61,Partly Cloudy,FALSE,,
+3638144695,2010,6,Raiders,49ers,9,17,59,Overcast,FALSE,,
+2331113872,2010,6,Jets,Broncos,24,20,73,Partly Cloudy,FALSE,,
+891314790,2010,6,Cowboys,Vikings,21,24,72,DOME,TRUE,,
+4273468204,2010,6,Colts,Redskins,27,24,65,Fair,FALSE,,
+3200644639,2010,6,Titans,Jaguars,30,3,75,Partly Cloudy,FALSE,,
+382368573,2010,7,Jaguars,Chiefs,20,42,64,Overcast,FALSE,,
+1597995737,2010,7,Bills,Ravens,34,37,72,Mostly Cloudy,FALSE,,
+1610601405,2010,7,Eagles,Titans,19,37,76,Mostly Cloudy,FALSE,,
+3601400655,2010,7,Bengals,Falcons,32,39,72,DOME,TRUE,,
+242981526,2010,7,Browns,Saints,30,17,72,DOME,TRUE,,
+421634069,2010,7,Steelers,Dolphins,23,22,78,Heavy Rain Fog Mist,FALSE,,
+435212099,2010,7,Rams,Buccaneers,17,18,84,A Few Clouds,FALSE,,
+383261446,2010,7,49ers,Panthers,20,23,70,Partly Cloudy,FALSE,,
+3599851842,2010,7,Redskins,Bears,17,14,63,Mostly Cloudy,FALSE,,
+459492349,2010,7,Cardinals,Seahawks,10,22,52,Light Rain,FALSE,,
+600481405,2010,7,Raiders,Broncos,59,14,59,Mostly Cloudy,FALSE,,
+1428630251,2010,7,Patriots,Chargers,23,20,68,Partly Cloudy,FALSE,,
+476943738,2010,7,Vikings,Packers,24,28,59,Fog Mist,FALSE,,
+833600594,2010,7,Giants,Cowboys,41,35,86,Mostly Cloudy,FALSE,,
+3494395364,2010,8,Packers,Jets,9,0,55,Overcast,FALSE,,
+658850755,2010,8,Broncos,49ers,16,24,54,Overcast,FALSE,,
+736406563,2010,8,Jaguars,Cowboys,35,17,63,Clear,FALSE,,
+3510682696,2010,8,Dolphins,Bengals,22,14,52,Fair,FALSE,,
+3133073605,2010,8,Panthers,Rams,10,20,72,DOME,TRUE,,
+1582770366,2010,8,Redskins,Lions,25,37,72,DOME,TRUE,,
+3332922335,2010,8,Bills,Chiefs,10,13,48,Fair,FALSE,,
+2841923707,2010,8,Titans,Chargers,25,33,64,Mostly Cloudy,FALSE,,
+745540220,2010,8,Vikings,Patriots,18,28,52,Partly Cloudy,FALSE,,
+3125586812,2010,8,Seahawks,Raiders,3,33,64,Partly Cloudy,FALSE,,
+2912111841,2010,8,Buccaneers,Cardinals,38,35,72,DOME,TRUE,,
+3197812024,2010,8,Steelers,Saints,10,20,72,DOME,TRUE,,
+3758030030,2010,8,Texans,Colts,17,30,72,DOME,TRUE,,
+2801281074,2010,9,Buccaneers,Falcons,21,27,72,DOME,TRUE,,
+1906643856,2010,9,Saints,Panthers,34,3,50,Fair,FALSE,,
+4266844346,2010,9,Bears,Bills,22,19,72,DOME,TRUE,,
+1282532581,2010,9,Jets,Lions,23,20,72,DOME,TRUE,,
+2465155157,2010,9,Dolphins,Ravens,10,26,43,Fair,FALSE,,
+812624431,2010,9,Patriots,Browns,14,34,44,Fair,FALSE,,
+3614901761,2010,9,Chargers,Texans,29,23,64,Fair,FALSE,,
+1256691584,2010,9,Cardinals,Vikings,24,27,72,DOME,TRUE,,
+1897701927,2010,9,Giants,Seahawks,41,7,56,Mostly Cloudy,FALSE,,
+2923432736,2010,9,Chiefs,Raiders,20,23,63,Light Rain Fog Mist,FALSE,,
+1072576380,2010,9,Colts,Eagles,24,26,51,Partly Cloudy,FALSE,,
+3573677716,2010,9,Cowboys,Packers,7,45,40,Fair,FALSE,,
+856678515,2010,9,Steelers,Bengals,27,21,46,Fair,FALSE,,
+1173050342,2010,10,Ravens,Falcons,21,26,72,DOME,TRUE,,
+2748955773,2010,10,Texans,Jaguars,24,31,70,A Few Clouds,FALSE,,
+1310213302,2010,10,Vikings,Bears,13,27,42,Mostly Cloudy and Breezy,FALSE,,
+632090512,2010,10,Panthers,Buccaneers,16,31,75,A Few Clouds,FALSE,,
+412094867,2010,10,Lions,Bills,12,14,58,Mostly Cloudy,FALSE,,
+199158799,2010,10,Jets,Browns,26,20,45,Overcast,FALSE,,
+1627342120,2010,10,Titans,Dolphins,17,29,80,Fair,FALSE,,
+493738024,2010,10,Bengals,Colts,17,23,72,DOME,TRUE,,
+2059931929,2010,10,Chiefs,Broncos,29,49,39,Mostly Cloudy,FALSE,,
+3479656297,2010,10,Cowboys,Giants,33,20,63,Fair,FALSE,,
+2449290113,2010,10,Seahawks,Cardinals,36,18,72,DOME,TRUE,,
+4057470302,2010,10,Rams,49ers,20,23,69,Partly Cloudy,FALSE,,
+1035401212,2010,10,Patriots,Steelers,39,26,50,Light Rain,FALSE,,
+144748806,2010,10,Eagles,Redskins,59,28,48,Mostly Cloudy,FALSE,,
+3458209764,2010,11,Bears,Dolphins,16,0,80,Fair,FALSE,,
+695816709,2010,11,Packers,Vikings,31,3,72,DOME,TRUE,,
+1606586674,2010,11,Redskins,Titans,19,16,65,Partly Cloudy,FALSE,,
+2207496586,2010,11,Cardinals,Chiefs,13,31,66,Overcast,FALSE,,
+2984335547,2010,11,Ravens,Panthers,37,13,65,A Few Clouds,FALSE,,
+2827954044,2010,11,Bills,Bengals,49,31,64,A Few Clouds,FALSE,,
+109493353,2010,11,Lions,Cowboys,19,35,73,Mostly Cloudy and Breezy,FALSE,,
+3209698306,2010,11,Texans,Jets,27,30,45,Fair,FALSE,,
+464469548,2010,11,Raiders,Steelers,3,35,53,Overcast,FALSE,,
+965680911,2010,11,Browns,Jaguars,20,24,75,Partly Cloudy,FALSE,,
+1733504632,2010,11,Seahawks,Saints,19,34,72,DOME,TRUE,,
+2997192124,2010,11,Falcons,Rams,34,17,72,DOME,TRUE,,
+1782730757,2010,11,Buccaneers,49ers,21,0,54,Mostly Cloudy and Breezy,FALSE,,
+3011574748,2010,11,Colts,Patriots,28,31,37,Fair,FALSE,,
+2038013261,2010,11,Giants,Eagles,17,27,45,Partly Cloudy,FALSE,,
+1463941343,2010,11,Broncos,Chargers,14,35,57,Partly Cloudy,FALSE,,
+1463644156,2010,12,Patriots,Lions,45,24,72,DOME,TRUE,,
+3152720388,2010,12,Saints,Cowboys,30,27,39,Overcast and Breezy,FALSE,,
+2933440467,2010,12,Bengals,Jets,10,26,38,Overcast,FALSE,,
+3890278013,2010,12,Titans,Texans,0,20,62,Partly Cloudy,FALSE,,
+1752768168,2010,12,Jaguars,Giants,20,24,43,Fair,FALSE,,
+3709999467,2010,12,Panthers,Browns,23,24,37,Fair,FALSE,,
+1470737497,2010,12,Steelers,Bills,19,16,35,Overcast,FALSE,,
+3528059689,2010,12,Vikings,Redskins,17,13,45,Fair,FALSE,,
+120656211,2010,12,Packers,Falcons,17,20,72,DOME,TRUE,,
+1706095770,2010,12,Chiefs,Seahawks,42,24,43,Mostly Cloudy,FALSE,,
+1357520412,2010,12,Dolphins,Raiders,33,17,52,Mostly Cloudy,FALSE,,
+1224828565,2010,12,Buccaneers,Ravens,10,17,52,Sunny,FALSE,,
+130931320,2010,12,Eagles,Bears,26,31,40,A Few Clouds,FALSE,,
+1643486742,2010,12,Rams,Broncos,36,33,43,Mostly Cloudy and Breezy,FALSE,,
+69158757,2010,12,Chargers,Colts,36,14,72,DOME,TRUE,,
+535244690,2010,12,49ers,Cardinals,27,6,72,DOME,TRUE,,
+563615073,2010,13,Texans,Eagles,24,34,37,Fair,FALSE,,
+3781357529,2010,13,Jaguars,Titans,17,6,35,Mostly Cloudy,FALSE,,
+2571582128,2010,13,Broncos,Chiefs,6,10,26,Fair,FALSE,,
+3675987657,2010,13,Redskins,Giants,7,31,34,A Few Clouds,FALSE,,
+2692642046,2010,13,Bears,Lions,24,20,72,DOME,TRUE,,
+3829467953,2010,13,Falcons,Buccaneers,28,24,70,A Few Clouds,FALSE,,
+2435893607,2010,13,Saints,Bengals,34,30,32,Overcast,FALSE,,
+4133683363,2010,13,Bills,Vikings,14,38,72,DOME,TRUE,,
+1906471635,2010,13,Browns,Dolphins,13,10,76,Fair,FALSE,,
+3028923420,2010,13,49ers,Packers,16,34,26,Overcast,FALSE,,
+3732243023,2010,13,Raiders,Chargers,28,13,66,Partly Cloudy,FALSE,,
+449182313,2010,13,Rams,Cardinals,19,6,72,DOME,TRUE,,
+3799729243,2010,13,Cowboys,Colts,38,35,72,DOME,TRUE,,
+612791070,2010,13,Panthers,Seahawks,14,31,48,Mostly Cloudy,FALSE,,
+1123399067,2010,13,Steelers,Ravens,13,10,28,Overcast,FALSE,,
+3595788333,2010,13,Jets,Patriots,3,45,28,Overcast,FALSE,,
+4292724984,2010,14,Colts,Titans,30,28,41,Mostly Cloudy,FALSE,,
+2943065308,2010,14,Bengals,Steelers,7,23,41,Light Rain,FALSE,,
+140329711,2010,14,Falcons,Panthers,31,10,47,Overcast,FALSE,,
+3697569006,2010,14,Packers,Lions,3,7,72,DOME,TRUE,,
+867548771,2010,14,Browns,Bills,6,13,35,Light Rain Fog Mist,FALSE,,
+3090842628,2010,14,Raiders,Jaguars,31,38,54,Rain,FALSE,,
+3929419407,2010,14,Buccaneers,Redskins,17,16,42,Overcast,FALSE,,
+2956471809,2010,14,Seahawks,49ers,21,40,54,Fog Mist,FALSE,,
+1681566728,2010,14,Rams,Saints,13,31,72,DOME,TRUE,,
+1829964318,2010,14,Patriots,Bears,36,7,27,Blizzard,FALSE,,
+2209891794,2010,14,Dolphins,Jets,10,6,54,Mostly Cloudy,FALSE,,
+2371807460,2010,14,Chiefs,Chargers,0,31,85,Fair,FALSE,,
+2162337249,2010,14,Broncos,Cardinals,13,43,72,DOME,TRUE,,
+3138278427,2010,14,Eagles,Cowboys,30,27,45,Clear,FALSE,,
+510504818,2010,14,Giants,Vikings,21,3,72,DOME,TRUE,,
+2793738925,2010,14,Ravens,Texans,34,28,50,Fair,FALSE,,
+2737160578,2010,15,49ers,Chargers,7,34,59,Partly Cloudy,FALSE,,
+1223610888,2010,15,Bills,Dolphins,17,14,65,Fair,FALSE,,
+2126886537,2010,15,Eagles,Giants,38,31,33,Fair,FALSE,,
+1736140925,2010,15,Redskins,Cowboys,30,33,48,Clear,FALSE,,
+3664521548,2010,15,Browns,Bengals,17,19,28,Overcast,FALSE,,
+1713889321,2010,15,Jaguars,Colts,24,34,72,DOME,TRUE,,
+1827347658,2010,15,Texans,Titans,17,31,35,Fair,FALSE,,
+3531530787,2010,15,Saints,Ravens,24,30,23,Decreasing Clouds,FALSE,,
+2515688536,2010,15,Chiefs,Rams,27,13,72,DOME,TRUE,,
+621317412,2010,15,Cardinals,Panthers,12,19,42,Partly Cloudy,FALSE,,
+2589693612,2010,15,Lions,Buccaneers,23,20,54,Overcast,FALSE,,
+80899179,2010,15,Falcons,Seahawks,34,18,45,Partly Cloudy,FALSE,,
+2329891723,2010,15,Broncos,Raiders,23,39,55,Light Rain,FALSE,,
+1147382227,2010,15,Jets,Steelers,22,17,25,Overcast,FALSE,,
+1733306761,2010,15,Packers,Patriots,27,31,32,Overcast,FALSE,,
+4045768181,2010,15,Bears,Vikings,40,14,22,Light Snow Fog Mist,FALSE,,
+2589206877,2010,16,Panthers,Steelers,3,27,27,Overcast,FALSE,,
+4279518386,2010,16,Cowboys,Cardinals,26,27,72,DOME,TRUE,,
+2485847395,2010,16,Patriots,Bills,34,3,21,Light Snow,FALSE,,
+3438715237,2010,16,49ers,Rams,17,25,72,DOME,TRUE,,
+1939716972,2010,16,Ravens,Browns,20,10,24,Overcast,FALSE,,
+643621653,2010,16,Lions,Dolphins,34,27,66,Fair and Breezy,FALSE,,
+3253601738,2010,16,Jets,Bears,34,38,30,Overcast,FALSE,,
+2465054034,2010,16,Redskins,Jaguars,20,17,37,Overcast,FALSE,,
+462115910,2010,16,Titans,Chiefs,14,34,19,Overcast,FALSE,,
+1192265929,2010,16,Texans,Broncos,23,24,48,Mostly Cloudy,FALSE,,
+1883755038,2010,16,Colts,Raiders,31,26,57,Partly Cloudy,FALSE,,
+2700916190,2010,16,Chargers,Bengals,20,34,30,Overcast,FALSE,,
+1536385020,2010,16,Seahawks,Buccaneers,15,38,51,Mostly Cloudy and Breezy,FALSE,,
+1798218607,2010,16,Giants,Packers,17,45,26,Fair,FALSE,,
+3537688353,2010,16,Saints,Falcons,17,14,72,DOME,TRUE,,
+3953398408,2010,16,Vikings,Eagles,24,14,37,Partly Cloudy,FALSE,,
+4290171285,2010,17,Dolphins,Patriots,7,38,46,Fog,FALSE,,
+699502002,2010,17,Buccaneers,Saints,23,13,72,DOME,TRUE,,
+2780592723,2010,17,Panthers,Falcons,10,31,72,DOME,TRUE,,
+1264063841,2010,17,Raiders,Chiefs,31,1,30,Fair,FALSE,,
+788451354,2010,17,Bengals,Ravens,7,13,41,Overcast,FALSE,,
+3577144857,2010,17,Vikings,Lions,13,20,72,DOME,TRUE,,
+555641159,2010,17,Steelers,Browns,41,9,25,Fair,FALSE,,
+2380025840,2010,17,Bills,Jets,7,38,42,Shallow Fog,FALSE,,
+4202345410,2010,17,Cowboys,Eagles,14,13,48,Light Rain,FALSE,,
+3826939276,2010,17,Titans,Colts,20,23,72,DOME,TRUE,,
+2706238033,2010,17,Jaguars,Texans,17,34,57,Partly Cloudy,FALSE,,
+2513143609,2010,17,Bears,Packers,3,10,19,Fair,FALSE,,
+1035938952,2010,17,Giants,Redskins,17,14,44,Rain,FALSE,,
+2632689286,2010,17,Chargers,Broncos,33,28,45,Mostly Cloudy,FALSE,,
+3194225628,2010,17,Cardinals,49ers,7,38,50,Overcast,FALSE,,
+4044752951,2010,17,Rams,Seahawks,6,16,42,Fair,FALSE,,
+1727974092,2011,1,Saints,Packers,34,42,63,Fair,FALSE,,
+4203142736,2011,1,Titans,Jaguars,14,16,90,Partly Cloudy,FALSE,,
+377770863,2011,1,Bills,Chiefs,41,7,80,A Few Clouds,FALSE,,
+945264018,2011,1,Falcons,Bears,12,30,78,Partly Cloudy,FALSE,,
+1199826284,2011,1,Lions,Buccaneers,27,20,88,Partly Cloudy,FALSE,,
+3256207838,2011,1,Steelers,Ravens,7,35,70,Light Rain,FALSE,,
+29960353,2011,1,Colts,Texans,7,34,92,A Few Clouds,FALSE,,
+3459874646,2011,1,Bengals,Browns,27,17,72,Partly Cloudy,FALSE,,
+3665658448,2011,1,Eagles,Rams,31,13,72,DOME,TRUE,,
+2455051064,2011,1,Giants,Redskins,14,28,82,Fair,FALSE,,
+4023087343,2011,1,Panthers,Cardinals,21,28,72,DOME,TRUE,,
+2132547090,2011,1,Seahawks,49ers,17,33,71,Partly Cloudy,FALSE,,
+487063672,2011,1,Vikings,Chargers,17,24,74,Fair,FALSE,,
+2096181821,2011,1,Cowboys,Jets,24,27,71,Fair,FALSE,,
+1754834631,2011,1,Patriots,Dolphins,38,24,82,Fair,FALSE,,
+3048605432,2011,1,Raiders,Broncos,23,20,73,Mostly Cloudy,FALSE,,
+599754966,2011,2,Chiefs,Lions,3,48,72,DOME,TRUE,,
+3273934718,2011,2,Raiders,Bills,35,38,66,Partly Cloudy,FALSE,,
+1417482360,2011,2,Ravens,Titans,13,26,79,Mostly Cloudy,FALSE,,
+4016824894,2011,2,Jaguars,Jets,3,32,71,Fair,FALSE,,
+1216107261,2011,2,Browns,Colts,27,19,72,DOME,TRUE,,
+2939247580,2011,2,Cardinals,Redskins,21,22,64,Overcast,FALSE,,
+1243399162,2011,2,Buccaneers,Vikings,24,20,72,DOME,TRUE,,
+3450359111,2011,2,Packers,Panthers,30,23,67,Mostly Cloudy,FALSE,,
+1310261072,2011,2,Bears,Saints,13,30,72,DOME,TRUE,,
+327689502,2011,2,Seahawks,Steelers,0,24,63,Overcast,FALSE,,
+3761096312,2011,2,Cowboys,49ers,27,24,72,Fair,FALSE,,
+3949545157,2011,2,Chargers,Patriots,21,35,63,Fair,FALSE,,
+3941055108,2011,2,Bengals,Broncos,22,24,73,Partly Cloudy,FALSE,,
+2805353873,2011,2,Texans,Dolphins,23,13,87,A Few Clouds,FALSE,,
+955505877,2011,2,Eagles,Falcons,31,35,72,DOME,TRUE,,
+1765735595,2011,2,Rams,Giants,16,28,68,A Few Clouds with Haze,FALSE,,
+2138921136,2011,3,Jaguars,Panthers,10,16,75,Light Rain,FALSE,,
+1894319125,2011,3,Texans,Saints,33,40,72,DOME,TRUE,,
+2485673189,2011,3,Patriots,Bills,31,34,81,Partly Cloudy,FALSE,,
+119636669,2011,3,Dolphins,Browns,16,17,77,Mostly Cloudy,FALSE,,
+1824040177,2011,3,Broncos,Titans,14,17,78,Partly Cloudy,FALSE,,
+3225158892,2011,3,Giants,Eagles,29,16,79,Partly Cloudy,FALSE,,
+3997266836,2011,3,Lions,Vikings,26,23,72,DOME,TRUE,,
+3949156766,2011,3,49ers,Bengals,13,8,75,Partly Cloudy,FALSE,,
+2626765552,2011,3,Jets,Raiders,24,34,69,Mostly Cloudy,FALSE,,
+2980490982,2011,3,Chiefs,Chargers,17,20,71,Partly Cloudy,FALSE,,
+3733838054,2011,3,Ravens,Rams,37,7,72,DOME,TRUE,,
+1043356153,2011,3,Packers,Bears,27,17,63,Mostly Cloudy,FALSE,,
+2291076099,2011,3,Cardinals,Seahawks,10,13,66,Overcast,FALSE,,
+2514260081,2011,3,Falcons,Buccaneers,13,16,79,Overcast,FALSE,,
+2978747083,2011,3,Steelers,Colts,23,20,72,DOME,TRUE,,
+2032076005,2011,3,Redskins,Cowboys,16,18,86,Clear,FALSE,,
+265611043,2011,4,Bills,Bengals,20,23,59,Fair,FALSE,,
+4284248626,2011,4,Titans,Browns,31,13,55,Overcast and Breezy,FALSE,,
+1601313197,2011,4,Steelers,Texans,10,17,79,A Few Clouds,FALSE,,
+442095038,2011,4,Lions,Cowboys,34,30,79,Clear,FALSE,,
+2419588105,2011,4,49ers,Eagles,24,23,50,Light Rain Fog Mist,FALSE,,
+2580987093,2011,4,Panthers,Bears,29,34,60,A Few Clouds,FALSE,,
+2907817196,2011,4,Redskins,Rams,17,10,72,DOME,TRUE,,
+997106426,2011,4,Saints,Jaguars,23,10,74,A Few Clouds,FALSE,,
+2879637709,2011,4,Vikings,Chiefs,17,22,70,Fair,FALSE,,
+3583605863,2011,4,Giants,Cardinals,31,27,72,DOME,TRUE,,
+2694211785,2011,4,Falcons,Seahawks,30,28,63,Partly Cloudy,FALSE,,
+2148765708,2011,4,Broncos,Packers,23,49,68,Fair,FALSE,,
+1400750835,2011,4,Patriots,Raiders,31,19,71,Partly Cloudy,FALSE,,
+942073462,2011,4,Dolphins,Chargers,16,26,83,Fair,FALSE,,
+2941889298,2011,4,Jets,Ravens,17,34,50,Partly Cloudy,FALSE,,
+177652364,2011,4,Colts,Buccaneers,17,24,73,Fair,FALSE,,
+2633690266,2011,5,Titans,Steelers,17,38,78,Fair,FALSE,,
+1117680027,2011,5,Raiders,Texans,25,20,76,Overcast,FALSE,,
+1383000389,2011,5,Chiefs,Colts,28,24,72,DOME,TRUE,,
+2058851696,2011,5,Bengals,Jaguars,30,20,79,Mostly Cloudy and Breezy,FALSE,,
+1132316594,2011,5,Seahawks,Giants,36,25,80,Fair,FALSE,,
+1985220218,2011,5,Cardinals,Vikings,10,34,72,DOME,TRUE,,
+915061812,2011,5,Saints,Panthers,30,27,75,Mostly Cloudy,FALSE,,
+2594976477,2011,5,Eagles,Bills,24,31,75,A Few Clouds,FALSE,,
+333995635,2011,5,Buccaneers,49ers,3,48,66,Partly Sunny,FALSE,,
+1062705541,2011,5,Jets,Patriots,21,30,84,Fair,FALSE,,
+1608897793,2011,5,Chargers,Broncos,29,24,54,Mostly Cloudy,FALSE,,
+1425589037,2011,5,Packers,Falcons,25,14,72,DOME,TRUE,,
+2301522056,2011,5,Bears,Lions,13,24,72,DOME,TRUE,,
+4267269170,2011,6,Bills,Giants,24,27,67,Partly Cloudy with Haze,FALSE,,
+4048074332,2011,6,Colts,Bengals,17,27,77,Fair,FALSE,,
+295721706,2011,6,Jaguars,Steelers,13,17,64,Mostly Cloudy,FALSE,,
+89879167,2011,6,Eagles,Redskins,20,13,69,Fair,FALSE,,
+1313613503,2011,6,49ers,Lions,25,19,72,DOME,TRUE,,
+2048045621,2011,6,Rams,Packers,3,24,58,Partly Cloudy and Breezy,FALSE,,
+4267660014,2011,6,Panthers,Falcons,17,31,72,DOME,TRUE,,
+700915728,2011,6,Texans,Ravens,14,29,68,Fair,FALSE,,
+29859402,2011,6,Browns,Raiders,17,24,74,Mostly Cloudy,FALSE,,
+580388205,2011,6,Saints,Buccaneers,20,26,86,Mostly Cloudy,FALSE,,
+844394814,2011,6,Cowboys,Patriots,16,20,63,A Few Clouds,FALSE,,
+3308666602,2011,6,Vikings,Bears,10,39,53,Fair,FALSE,,
+4241478001,2011,6,Dolphins,Jets,6,24,69,Fair,FALSE,,
+2072534117,2011,7,Broncos,Dolphins,18,15,79,Partly Cloudy,FALSE,,
+1060376434,2011,7,Chargers,Jets,21,27,70,Fair with Haze,FALSE,,
+3354878488,2011,7,Texans,Titans,41,7,69,Mostly Cloudy,FALSE,,
+1165056009,2011,7,Falcons,Lions,23,16,72,DOME,TRUE,,
+1797960347,2011,7,Redskins,Panthers,20,33,67,Partly Cloudy,FALSE,,
+1246295999,2011,7,Bears,Buccaneers,24,18,67,Fair,FALSE,15,N
+3364301839,2011,7,Seahawks,Browns,3,6,63,Overcast,FALSE,,
+1589182404,2011,7,Steelers,Cardinals,32,20,72,DOME,TRUE,,
+820645060,2011,7,Chiefs,Raiders,28,0,77,A Few Clouds,FALSE,,
+1315164170,2011,7,Packers,Vikings,33,27,72,DOME,TRUE,,
+1481598831,2011,7,Rams,Cowboys,7,34,73,Partly Cloudy,FALSE,,
+4131421756,2011,7,Colts,Saints,7,62,72,DOME,TRUE,,
+692065253,2011,7,Ravens,Jaguars,7,12,69,Fair,FALSE,,
+534123662,2011,8,Dolphins,Giants,17,20,45,Fair,FALSE,,
+2058272466,2011,8,Jaguars,Texans,14,24,69,Partly Cloudy,FALSE,,
+3730652766,2011,8,Colts,Titans,10,27,59,Mostly Cloudy,FALSE,,
+2998302626,2011,8,Vikings,Panthers,24,21,59,Partly Cloudy,FALSE,,
+3259297491,2011,8,Saints,Rams,21,31,72,DOME,TRUE,,
+852820254,2011,8,Cardinals,Ravens,27,30,63,Mostly Sunny,FALSE,,
+1208806074,2011,8,Lions,Broncos,45,10,59,A Few Clouds,FALSE,,
+3113557231,2011,8,Redskins,Bills,0,23,72,DOME,TRUE,,
+2460497269,2011,8,Patriots,Steelers,17,25,40,Fair with Haze,FALSE,,
+4097008933,2011,8,Browns,49ers,10,20,63,Mostly Sunny,FALSE,,
+913604585,2011,8,Bengals,Seahawks,34,12,59,Overcast,FALSE,,
+1983390937,2011,8,Cowboys,Eagles,7,34,34,Fair,FALSE,,
+3372781900,2011,8,Chargers,Chiefs,20,23,61,Fair,FALSE,,
+95332899,2011,9,Jets,Bills,27,11,61,Partly Cloudy,FALSE,,
+2040604375,2011,9,Browns,Texans,12,30,77,Overcast,FALSE,,
+1530625256,2011,9,Dolphins,Chiefs,31,3,63,Mostly Cloudy,FALSE,,
+3766711369,2011,9,Seahawks,Cowboys,13,23,75,Partly Cloudy,FALSE,,
+4255931300,2011,9,49ers,Redskins,19,11,58,A Few Clouds,FALSE,,
+324701117,2011,9,Buccaneers,Saints,16,27,72,DOME,TRUE,,
+1801476688,2011,9,Falcons,Colts,31,7,72,DOME,TRUE,,
+1953888269,2011,9,Broncos,Raiders,38,24,62,Mostly Cloudy,FALSE,,
+401130652,2011,9,Bengals,Titans,24,17,64,A Few Clouds,FALSE,,
+809368839,2011,9,Giants,Patriots,24,20,50,Fair,FALSE,,
+2693725101,2011,9,Packers,Chargers,45,38,54,Fog Mist,FALSE,,
+2102505416,2011,9,Rams,Cardinals,13,19,72,DOME,TRUE,,
+3094771532,2011,9,Ravens,Steelers,23,20,48,Fair,FALSE,,
+3013453245,2011,9,Bears,Eagles,30,24,39,Fair,FALSE,,
+2702003841,2011,10,Raiders,Chargers,24,17,67,Fair,FALSE,,
+455271039,2011,10,Bills,Cowboys,7,44,81,Clear,FALSE,,
+690534164,2011,10,Titans,Panthers,30,3,59,Overcast,FALSE,,
+3359111947,2011,10,Texans,Buccaneers,37,9,78,A Few Clouds,FALSE,,
+1242836673,2011,10,Steelers,Bengals,24,17,65,Overcast and Breezy,FALSE,,
+2341003630,2011,10,Jaguars,Colts,17,3,72,DOME,TRUE,,
+763562147,2011,10,Broncos,Chiefs,17,10,69,Fair,FALSE,,
+437035025,2011,10,Cardinals,Eagles,21,17,61,Fair,FALSE,,
+3863650694,2011,10,Saints,Falcons,26,23,72,DOME,TRUE,,
+3208864745,2011,10,Redskins,Dolphins,9,20,78,Partly Cloudy,FALSE,,
+2351603031,2011,10,Rams,Browns,13,12,63,Mostly Cloudy,FALSE,,
+1173625380,2011,10,Ravens,Seahawks,17,22,50,Overcast,FALSE,,
+3257174725,2011,10,Lions,Bears,13,37,71,Mostly Cloudy,FALSE,,
+3865166415,2011,10,Giants,49ers,20,27,60,Partly Sunny,FALSE,,
+968359836,2011,10,Patriots,Jets,37,16,56,A Few Clouds,FALSE,,
+20793915,2011,10,Vikings,Packers,7,45,46,A Few Clouds,FALSE,,
+63773166,2011,11,Jets,Broncos,13,17,48,Partly Cloudy,FALSE,,
+2695678826,2011,11,Raiders,Vikings,27,21,72,DOME,TRUE,,
+963370174,2011,11,Bills,Dolphins,8,35,75,Light Rain,FALSE,,
+2461753813,2011,11,Jaguars,Browns,10,14,50,Overcast,FALSE,,
+2432372333,2011,11,Bengals,Ravens,24,31,64,Overcast,FALSE,,
+1421064531,2011,11,Cowboys,Redskins,27,24,67,Fair,FALSE,,
+1417238535,2011,11,Panthers,Lions,35,49,72,DOME,TRUE,,
+3564831086,2011,11,Buccaneers,Packers,26,35,32,Overcast,FALSE,,
+473143596,2011,11,Cardinals,49ers,7,23,55,Rain Showers,FALSE,,
+2170207038,2011,11,Seahawks,Rams,24,7,72,DOME,TRUE,,
+919832556,2011,11,Titans,Falcons,17,23,72,DOME,TRUE,,
+1389888358,2011,11,Chargers,Bears,20,31,41,Overcast,FALSE,,
+3316723978,2011,11,Eagles,Giants,17,10,56,Fair,FALSE,,
+1368614473,2011,11,Chiefs,Patriots,3,34,30,Fair,FALSE,,
+1788507048,2011,12,Packers,Lions,27,15,72,DOME,TRUE,,
+1161087949,2011,12,Dolphins,Cowboys,19,20,59,Clear,FALSE,,
+830538150,2011,12,49ers,Ravens,6,16,36,Fair,FALSE,,
+546930344,2011,12,Bills,Jets,24,28,62,Fair,FALSE,,
+2511779094,2011,12,Browns,Bengals,20,23,60,Light Rain,FALSE,,
+155979196,2011,12,Texans,Jaguars,20,13,79,Mostly Cloudy,FALSE,,
+726937957,2011,12,Vikings,Falcons,14,24,72,DOME,TRUE,,
+2431250199,2011,12,Cardinals,Rams,23,20,72,DOME,TRUE,,
+2671465182,2011,12,Panthers,Colts,27,19,72,DOME,TRUE,,
+1759108324,2011,12,Buccaneers,Titans,17,23,46,Overcast,FALSE,,
+123318185,2011,12,Redskins,Seahawks,23,17,49,Light Rain,FALSE,,
+95922294,2011,12,Bears,Raiders,20,25,60,Mostly Cloudy,FALSE,,
+1468547544,2011,12,Patriots,Eagles,38,20,57,Fair,FALSE,,
+4234509453,2011,12,Broncos,Chargers,16,13,82,Fair,FALSE,,
+1643131726,2011,12,Steelers,Chiefs,13,9,34,A Few Clouds,FALSE,,
+2189061852,2011,12,Giants,Saints,24,49,72,DOME,TRUE,,
+467298300,2011,13,Eagles,Seahawks,14,31,39,Fair,FALSE,,
+4047636371,2011,13,Jets,Redskins,34,19,56,Fair,FALSE,,
+2720278072,2011,13,Chiefs,Bears,10,3,41,Light Drizzle,FALSE,,
+2815184669,2011,13,Titans,Bills,23,17,58,Mostly Cloudy,FALSE,,
+1233053264,2011,13,Raiders,Dolphins,14,34,80,Partly Cloudy,FALSE,,
+2456288510,2011,13,Bengals,Steelers,7,35,60,Partly Cloudy,FALSE,,
+3124154991,2011,13,Panthers,Buccaneers,38,19,78,Partly Cloudy,FALSE,,
+3474599992,2011,13,Falcons,Texans,10,17,71,Light Rain,FALSE,,
+1661372647,2011,13,Broncos,Vikings,35,32,72,DOME,TRUE,,
+3337854507,2011,13,Colts,Patriots,24,31,54,Mostly Cloudy,FALSE,,
+712041445,2011,13,Ravens,Browns,24,10,51,Light Rain,FALSE,,
+2840298550,2011,13,Packers,Giants,38,35,52,Fair,FALSE,,
+1319918827,2011,13,Cowboys,Cardinals,13,19,72,DOME,TRUE,,
+388631817,2011,13,Rams,49ers,0,26,56,Sunny,FALSE,,
+2095043880,2011,13,Lions,Saints,17,31,72,DOME,TRUE,,
+2113875964,2011,13,Chargers,Jaguars,38,14,68,Partly Cloudy,FALSE,,
+1142772318,2011,14,Browns,Steelers,3,14,30,Partly Cloudy,FALSE,,
+1085205889,2011,14,Patriots,Redskins,34,27,40,Fair,FALSE,,
+1347838517,2011,14,Chiefs,Jets,10,37,40,Fair,FALSE,,
+1352868571,2011,14,Texans,Bengals,20,19,38,Fair,FALSE,,
+495263441,2011,14,Colts,Ravens,10,24,45,Fair,FALSE,,
+3909460096,2011,14,Vikings,Lions,28,34,72,DOME,TRUE,,
+3127261619,2011,14,Falcons,Panthers,31,23,48,Partly Cloudy,FALSE,,
+3285033504,2011,14,Eagles,Dolphins,26,10,78,Partly Cloudy,FALSE,,
+3359583659,2011,14,Buccaneers,Jaguars,14,41,60,Light Rain and Breezy,FALSE,,
+209132373,2011,14,Saints,Titans,22,17,46,Partly Cloudy,FALSE,,
+2353633240,2011,14,49ers,Cardinals,19,21,72,DOME,TRUE,,
+1965960476,2011,14,Bears,Broncos,10,13,46,A Few Clouds,FALSE,,
+3021134171,2011,14,Raiders,Packers,16,46,41,Fair,FALSE,,
+3623550981,2011,14,Bills,Chargers,10,37,57,Mostly Cloudy,FALSE,,
+3025348353,2011,14,Giants,Cowboys,37,34,52,Overcast,FALSE,,
+3973899816,2011,14,Rams,Seahawks,13,30,36,Fair,FALSE,,
+2958110916,2011,15,Jaguars,Falcons,14,41,72,DOME,TRUE,,
+493095778,2011,15,Cowboys,Buccaneers,31,15,67,Fair,FALSE,,
+3862747333,2011,15,Bengals,Rams,20,13,72,DOME,TRUE,,
+3767411693,2011,15,Dolphins,Bills,30,23,32,Light Snow,FALSE,,
+909219415,2011,15,Titans,Colts,13,27,72,DOME,TRUE,,
+921521647,2011,15,Redskins,Giants,23,10,31,Fair,FALSE,,
+3025728084,2011,15,Seahawks,Bears,38,14,40,Partly Cloudy,FALSE,,
+1942196647,2011,15,Saints,Vikings,42,20,72,DOME,TRUE,,
+2489086257,2011,15,Panthers,Texans,28,13,61,Mostly Cloudy,FALSE,,
+3784564015,2011,15,Packers,Chiefs,14,19,57,Fair,FALSE,,
+2132163917,2011,15,Lions,Raiders,28,27,51,Mostly Cloudy,FALSE,,
+3848579245,2011,15,Jets,Eagles,19,45,33,Fair,FALSE,,
+297146723,2011,15,Browns,Cardinals,17,20,72,DOME,TRUE,,
+2898943302,2011,15,Patriots,Broncos,41,23,59,A Few Clouds,FALSE,,
+594786849,2011,15,Ravens,Chargers,14,34,55,Fair,FALSE,,
+2725003510,2011,15,Steelers,49ers,3,20,52,Mostly Sunny,FALSE,,
+3307817499,2011,16,Texans,Colts,16,19,72,DOME,TRUE,,
+369509527,2011,16,Broncos,Bills,14,40,31,A Few Clouds,FALSE,,
+1695427153,2011,16,Dolphins,Patriots,24,27,32,Fair,FALSE,,
+1377864560,2011,16,Browns,Ravens,14,20,45,Fair,FALSE,,
+887644308,2011,16,Jaguars,Titans,17,23,47,Mostly Cloudy,FALSE,,
+2505430031,2011,16,Raiders,Chiefs,16,13,47,Fair,FALSE,,
+1946593270,2011,16,Giants,Jets,29,14,37,Fair,FALSE,,
+1657322677,2011,16,Vikings,Redskins,33,26,44,Fair,FALSE,,
+1635558876,2011,16,Buccaneers,Panthers,16,48,51,Mostly Cloudy,FALSE,,
+3946173888,2011,16,Cardinals,Bengals,16,23,41,Fair,FALSE,,
+3321972428,2011,16,Rams,Steelers,0,27,37,Overcast,FALSE,,
+2471085756,2011,16,Chargers,Lions,10,38,72,DOME,TRUE,,
+4072474007,2011,16,Eagles,Cowboys,20,7,43,Overcast,FALSE,,
+4240981715,2011,16,49ers,Seahawks,19,17,53,Fair,FALSE,,
+453525066,2011,16,Bears,Packers,21,35,35,Overcast,FALSE,,
+990492153,2011,16,Falcons,Saints,16,45,72,DOME,TRUE,,
+2300553277,2011,17,Jets,Dolphins,17,19,77,A Few Clouds,FALSE,,
+1278611573,2011,17,Bills,Patriots,21,49,54,Fair,FALSE,,
+2639371303,2011,17,Titans,Texans,23,22,66,Fair,FALSE,,
+1442399336,2011,17,Colts,Jaguars,13,19,72,Fair,FALSE,,
+2561496242,2011,17,Redskins,Eagles,10,34,52,Fair,FALSE,,
+3239144633,2011,17,Lions,Packers,41,45,30,Overcast,FALSE,,
+4271287903,2011,17,Bears,Vikings,17,13,72,DOME,TRUE,,
+2844249996,2011,17,Panthers,Saints,17,45,72,DOME,TRUE,,
+2399324057,2011,17,49ers,Rams,34,27,72,DOME,TRUE,,
+4272903971,2011,17,Ravens,Bengals,24,16,43,Partly Cloudy and Breezy,FALSE,,
+1176014855,2011,17,Steelers,Browns,13,9,40,Overcast and Breezy,FALSE,,
+1454462783,2011,17,Buccaneers,Falcons,24,45,72,DOME,TRUE,,
+688350383,2011,17,Chiefs,Broncos,7,3,32,Mostly Cloudy,FALSE,,
+2599241113,2011,17,Chargers,Raiders,38,26,56,A Few Clouds,FALSE,,
+370231915,2011,17,Seahawks,Cardinals,20,23,72,DOME,TRUE,,
+2521450829,2011,17,Cowboys,Giants,14,31,50,Light Rain,FALSE,,
+1353472265,2012,1,Cowboys,Giants,24,17,74,Fair,FALSE,0,N
+70393124,2012,1,Dolphins,Texans,10,30,83,A Few Clouds,FALSE,10,N
+662039112,2012,1,Colts,Bears,21,41,70,Mostly Cloudy,FALSE,11,N
+2131744359,2012,1,Eagles,Browns,17,16,68,Partly Cloudy,FALSE,5,NNW
+781294636,2012,1,Patriots,Titans,34,13,77,Fair,FALSE,0,N
+4225141819,2012,1,Falcons,Chiefs,40,24,73,Fair,FALSE,6,NNE
+2044589043,2012,1,Jaguars,Vikings,23,26,72,DOME,TRUE,3,N
+1929059353,2012,1,Redskins,Saints,40,32,72,DOME,TRUE,9,N
+3857108902,2012,1,Bills,Jets,28,48,77,Fair,FALSE,4,W
+1196418421,2012,1,Rams,Lions,23,27,72,DOME,TRUE,5,NNW
+2785782756,2012,1,49ers,Packers,30,22,71,Fair,FALSE,6,NW
+3736378156,2012,1,Seahawks,Cardinals,16,20,72,DOME,TRUE,12,E
+3530847265,2012,1,Panthers,Buccaneers,10,16,80,Light Rain,FALSE,5,NW
+3888884671,2012,1,Steelers,Broncos,19,31,82,A Few Clouds,FALSE,9,SE
+3657188189,2012,1,Bengals,Ravens,13,44,60,Fair,FALSE,0,N
+2663334301,2012,1,Chargers,Raiders,22,14,60,Patchy Fog,FALSE,7,NW
+3470085981,2012,2,Bears,Packers,10,23,54,Fair,FALSE,3,WSW
+1928605331,2012,2,Chiefs,Bills,17,35,68,Mostly Cloudy,FALSE,13,SW
+240937145,2012,2,Browns,Bengals,27,34,76,Fair,FALSE,3,NW
+1492235863,2012,2,Vikings,Colts,20,23,72,DOME,TRUE,3,N
+1295892426,2012,2,Saints,Panthers,27,35,70,Overcast,FALSE,3,ESE
+2631019111,2012,2,Texans,Jaguars,27,7,85,Mostly Cloudy,FALSE,9,E
+1875434751,2012,2,Cardinals,Patriots,20,18,71,Fair,FALSE,11,WNW
+4093392020,2012,2,Buccaneers,Giants,34,41,75,Mostly Cloudy,FALSE,8,W
+2481776566,2012,2,Ravens,Eagles,23,24,74,Fair,FALSE,13,W
+1581740843,2012,2,Redskins,Rams,28,31,72,DOME,TRUE,7,SSW
+2299055410,2012,2,Cowboys,Seahawks,7,27,71,Fair,FALSE,6,WNW
+2927638179,2012,2,Raiders,Dolphins,13,35,83,Mostly Cloudy,FALSE,7,E
+3590723452,2012,2,Jets,Steelers,10,27,71,Fair,FALSE,5,ESE
+1442741336,2012,2,Titans,Chargers,10,38,80,Fair,FALSE,8,SW
+2648587688,2012,2,Lions,49ers,19,27,62,Fair,FALSE,2,SW
+3489390119,2012,2,Broncos,Falcons,21,27,72,DOME,TRUE,7,S
+4040885420,2012,3,Giants,Panthers,36,7,67,Partly Cloudy,FALSE,0,N
+4292251703,2012,3,Rams,Bears,6,23,58,Mostly Cloudy,FALSE,9,W
+1460406187,2012,3,Bills,Browns,24,14,51,Overcast,FALSE,6,SSW
+2338799573,2012,3,Buccaneers,Cowboys,10,16,88,Clear,FALSE,0,N
+2556667018,2012,3,Jets,Dolphins,23,20,79,Thunderstorm in Vicinity Light Rain Fog Mist,FALSE,6,ENE
+3663583013,2012,3,49ers,Vikings,13,24,72,DOME,TRUE,7,NW
+167778393,2012,3,Chiefs,Saints,27,24,72,DOME,TRUE,6,NNE
+4094765813,2012,3,Bengals,Redskins,38,31,67,Fair,FALSE,10,NW
+2400380079,2012,3,Lions,Titans,41,44,68,A Few Clouds,FALSE,8,NNW
+2247778100,2012,3,Jaguars,Colts,22,17,72,DOME,TRUE,10,W
+2420698300,2012,3,Eagles,Cardinals,6,27,72,DOME,TRUE,0,N
+747371780,2012,3,Falcons,Chargers,27,3,83,NA,FALSE,5,NW
+2248079365,2012,3,Texans,Broncos,31,25,86,Partly Cloudy,FALSE,11,W
+1966365901,2012,3,Steelers,Raiders,31,34,68,Mostly Cloudy,FALSE,15,WNW
+1339090664,2012,3,Patriots,Ravens,30,31,54,Overcast,FALSE,0,N
+1892964278,2012,3,Packers,Seahawks,12,14,69,Partly Cloudy,FALSE,7,NW
+2374974426,2012,4,Browns,Ravens,16,23,67,Mostly Cloudy,FALSE,0,N
+1991013018,2012,4,Panthers,Falcons,28,30,72,DOME,TRUE,3,ESE
+1467196314,2012,4,Patriots,Bills,52,28,61,Mostly Cloudy,FALSE,3,NNE
+3068586368,2012,4,Vikings,Lions,20,13,72,DOME,TRUE,11,E
+1771973106,2012,4,Chargers,Chiefs,37,20,73,Fair,FALSE,0,N
+2902727640,2012,4,Seahawks,Rams,13,19,72,DOME,TRUE,5,NE
+582963676,2012,4,49ers,Jets,34,0,67,Overcast,FALSE,9,WSW
+2837695651,2012,4,Titans,Texans,14,38,67,Light Drizzle,FALSE,13,NNW
+485607786,2012,4,Dolphins,Cardinals,21,24,72,DOME,TRUE,8,SSE
+950458319,2012,4,Bengals,Jaguars,27,10,83,Fair,FALSE,8,SE
+3871201926,2012,4,Raiders,Broncos,6,37,73,Mostly Cloudy,FALSE,10,SW
+2596437833,2012,4,Saints,Packers,27,28,65,A Few Clouds,FALSE,5,ENE
+857443689,2012,4,Redskins,Buccaneers,24,22,84,Fair,FALSE,8,SW
+835115422,2012,4,Giants,Eagles,17,19,58,Light Rain,FALSE,8,WNW
+2704701739,2012,4,Bears,Cowboys,34,18,79,Clear,FALSE,6,WNW
+3163264347,2012,5,Cardinals,Rams,3,17,72,DOME,TRUE,11,NNW
+1058059845,2012,5,Dolphins,Bengals,17,13,51,Mostly Cloudy,FALSE,7,WSW
+3408415762,2012,5,Packers,Colts,27,30,72,DOME,TRUE,9,W
+416514445,2012,5,Ravens,Chiefs,9,6,53,Fair,FALSE,3,N
+52380427,2012,5,Titans,Vikings,7,30,72,DOME,TRUE,8,SW
+3237527035,2012,5,Falcons,Redskins,24,17,52,Overcast,FALSE,4,NNE
+2075460942,2012,5,Browns,Giants,27,41,52,Overcast,FALSE,4,S
+4058084303,2012,5,Eagles,Steelers,14,16,47,Light Rain,FALSE,7,NW
+1816960562,2012,5,Seahawks,Panthers,16,12,56,Overcast,FALSE,6,NNE
+1653492445,2012,5,Bears,Jaguars,41,3,83,Fair,FALSE,6,ESE
+2781294360,2012,5,Broncos,Patriots,21,31,53,Overcast,FALSE,0,N
+2514663722,2012,5,Bills,49ers,3,45,70,Mostly Cloudy,FALSE,6,SW
+2262270020,2012,5,Chargers,Saints,24,31,72,DOME,TRUE,13,N
+2655155933,2012,5,Texans,Jets,23,17,51,Fair,FALSE,3,NNE
+2021202293,2012,6,Steelers,Titans,23,26,61,Overcast,FALSE,4,SW
+1459743947,2012,6,Raiders,Falcons,20,23,72,DOME,TRUE,5,S
+871888455,2012,6,Bengals,Browns,24,34,75,Fair and Breezy,FALSE,18,SSW
+669623076,2012,6,Rams,Dolphins,14,17,85,Mostly Cloudy,FALSE,17,ENE
+93668788,2012,6,Colts,Jets,9,35,70,Partly Cloudy,FALSE,11,SW
+2420751707,2012,6,Lions,Eagles,26,23,73,Mostly Cloudy,FALSE,14,SW
+1376215004,2012,6,Cowboys,Ravens,29,31,80,Fair,FALSE,8,SE
+3217049126,2012,6,Chiefs,Buccaneers,10,38,88,Partly Cloudy,FALSE,9,E
+2214252899,2012,6,Patriots,Seahawks,23,24,63,Lt Rain,FALSE,3,ESE
+268258673,2012,6,Bills,Cardinals,19,16,72,DOME,TRUE,5,SE
+2911807404,2012,6,Giants,49ers,26,3,77,Clear,FALSE,2,WSW
+1747585481,2012,6,Vikings,Redskins,26,38,71,Fair,FALSE,12,SSW
+292128596,2012,6,Packers,Texans,42,24,77,Partly Cloudy,FALSE,7,SSW
+2226444329,2012,6,Broncos,Chargers,35,24,70,Clear,FALSE,2,W
+1289737153,2012,7,Seahawks,49ers,6,13,73,Clear,FALSE,6,SSE
+2397516509,2012,7,Titans,Bills,35,34,55,Partly Cloudy,FALSE,14,WSW
+3151690974,2012,7,Browns,Colts,13,17,72,DOME,TRUE,7,ESE
+2422437912,2012,7,Redskins,Giants,23,27,67,A Few Clouds,FALSE,15,NW
+1884234939,2012,7,Saints,Buccaneers,35,28,81,Fair,FALSE,7,ENE
+94534468,2012,7,Cowboys,Panthers,19,14,67,Fair,FALSE,4,N
+3993186346,2012,7,Ravens,Texans,13,43,83,Mostly Cloudy,FALSE,11,SSE
+2752585256,2012,7,Packers,Rams,30,20,72,DOME,TRUE,5,SE
+3160368400,2012,7,Cardinals,Vikings,14,21,72,DOME,TRUE,11,SSE
+541101262,2012,7,Jets,Patriots,26,29,60,Partly Cloudy,FALSE,5,WNW
+2293276878,2012,7,Jaguars,Raiders,23,26,63,Mostly Cloudy,FALSE,11,W
+271602192,2012,7,Steelers,Bengals,24,17,53,Fair,FALSE,0,N
+2534600092,2012,7,Lions,Bears,7,13,66,Overcast,FALSE,9,SW
+4009509300,2012,8,Buccaneers,Vikings,36,17,72,DOME,TRUE,9,W
+2428664912,2012,8,Panthers,Bears,22,23,47,Mostly Cloudy and Breezy,FALSE,18,NNE
+1992334773,2012,8,Chargers,Browns,6,7,45,Rain Fog Mist and Breezy,FALSE,18,NNE
+4239019596,2012,8,Seahawks,Lions,24,28,72,DOME,TRUE,18,NNE
+2471621118,2012,8,Jaguars,Packers,15,24,45,Fair,FALSE,7,NNE
+806900554,2012,8,Colts,Titans,19,13,57,Mostly Cloudy,FALSE,12,N
+1737295683,2012,8,Patriots,Rams,45,7,48,Rain,FALSE,9,SSW
+121639265,2012,8,Dolphins,Jets,30,9,59,Overcast,FALSE,8,NNE
+149231398,2012,8,Falcons,Eagles,30,17,58,Light Rain,FALSE,13,NE
+1094977217,2012,8,Redskins,Steelers,12,27,45,Light Rain Fog Mist,FALSE,8,NNW
+1363422300,2012,8,Raiders,Chiefs,26,16,51,Fair,FALSE,3,N
+2678254054,2012,8,Giants,Cowboys,29,24,63,Clear,FALSE,7,NE
+1978030617,2012,8,Saints,Broncos,14,34,54,Partly Cloudy,FALSE,3,WSW
+2893075394,2012,8,49ers,Cardinals,24,3,72,DOME,TRUE,3,SSW
+251009926,2012,9,Chiefs,Chargers,13,31,61,Overcast,FALSE,3,WNW
+2852823782,2012,9,Broncos,Bengals,31,23,48,Overcast,FALSE,3,NNW
+3732097237,2012,9,Ravens,Browns,25,15,41,Overcast,FALSE,6,NNW
+1309992160,2012,9,Cardinals,Packers,17,31,39,Overcast,FALSE,0,N
+2495436419,2012,9,Bears,Titans,51,20,51,Mostly Cloudy,FALSE,5,N
+1763918584,2012,9,Dolphins,Colts,20,23,72,DOME,TRUE,11,NNE
+2488731604,2012,9,Panthers,Redskins,21,13,49,Fair,FALSE,10,WNW
+1127415642,2012,9,Lions,Jaguars,31,14,81,Fair,FALSE,9,WSW
+2186262171,2012,9,Bills,Texans,9,21,78,Partly Cloudy,FALSE,6,NE
+625764440,2012,9,Buccaneers,Raiders,42,32,73,A Few Clouds,FALSE,6,WNW
+543082778,2012,9,Vikings,Seahawks,20,30,61,Overcast,FALSE,3,SSE
+1955234810,2012,9,Steelers,Giants,24,20,45,A Few Clouds,FALSE,9,WNW
+2894982440,2012,9,Cowboys,Falcons,13,19,72,DOME,TRUE,6,WNW
+1589945710,2012,9,Eagles,Saints,13,28,72,DOME,TRUE,11,SW
+2203902869,2012,10,Colts,Jaguars,27,10,47,Fair,FALSE,0,N
+2651248564,2012,10,Giants,Bengals,13,31,67,Fair,FALSE,14,S
+1946825247,2012,10,Titans,Dolphins,37,3,79,Mostly Cloudy,FALSE,14,E
+4248815888,2012,10,Lions,Vikings,24,34,72,DOME,TRUE,9,W
+2859546005,2012,10,Bills,Patriots,31,37,64,Fair,FALSE,8,SSW
+1602431408,2012,10,Falcons,Saints,27,31,72,DOME,TRUE,16,SSE
+3824555455,2012,10,Chargers,Buccaneers,24,34,79,Mostly Cloudy,FALSE,6,N
+3282017264,2012,10,Broncos,Panthers,36,14,71,Mostly Cloudy,FALSE,7,WSW
+1676450723,2012,10,Raiders,Ravens,20,55,69,Fair,FALSE,0,N
+3945783242,2012,10,Jets,Seahawks,7,28,48,Overcast,FALSE,0,N
+1804772918,2012,10,Cowboys,Eagles,38,23,62,A Few Clouds,FALSE,4,SSE
+3631891094,2012,10,Rams,49ers,24,24,60,Fair,FALSE,4,WSW
+178174993,2012,10,Texans,Bears,13,6,54,Fog Mist,FALSE,7,S
+31006819,2012,10,Chiefs,Steelers,13,16,42,Light Rain Fog Mist,FALSE,11,SW
+763906405,2012,11,Dolphins,Bills,14,19,36,A Few Clouds,FALSE,0,N
+2272758460,2012,11,Cardinals,Falcons,19,23,72,DOME,TRUE,9,NNE
+2052694653,2012,11,Browns,Cowboys,20,23,63,Partly Cloudy,FALSE,5,SSE
+2018340964,2012,11,Packers,Lions,24,20,72,DOME,TRUE,4,E
+3798517537,2012,11,Bengals,Chiefs,28,6,60,Fair,FALSE,12,S
+2737331399,2012,11,Jets,Rams,27,13,72,DOME,TRUE,5,SSE
+4024201912,2012,11,Eagles,Redskins,6,31,52,A Few Clouds,FALSE,10,ENE
+3648785920,2012,11,Buccaneers,Panthers,27,21,55,Mostly Cloudy,FALSE,13,NE
+4072189379,2012,11,Jaguars,Texans,37,43,70,A Few Clouds,FALSE,5,SE
+772778696,2012,11,Saints,Raiders,38,17,62,Mostly Cloudy,FALSE,3,S
+2911028534,2012,11,Colts,Patriots,24,59,40,Fair,FALSE,0,N
+2413881650,2012,11,Chargers,Broncos,23,30,63,Partly Cloudy,FALSE,13,W
+3983545824,2012,11,Ravens,Steelers,13,10,44,Fair,FALSE,6,ESE
+2474039147,2012,11,Bears,49ers,7,32,56,NA,FALSE,2,SE
+561739405,2012,12,Texans,Lions,34,31,72,DOME,TRUE,11,SSW
+1502080865,2012,12,Redskins,Cowboys,38,31,75,Clear,FALSE,14,SSE
+1834201579,2012,12,Patriots,Jets,49,19,41,Fair,FALSE,0,N
+1763822684,2012,12,Vikings,Bears,10,28,40,Mostly Cloudy,FALSE,4,WNW
+2517388364,2012,12,Raiders,Bengals,10,34,45,Fair,FALSE,13,SW
+3458998820,2012,12,Steelers,Browns,14,20,38,Mostly Cloudy,FALSE,12,WSW
+4150554683,2012,12,Bills,Colts,13,20,72,DOME,TRUE,13,WSW
+2709242689,2012,12,Broncos,Chiefs,17,9,54,Fair,FALSE,4,N
+2977701009,2012,12,Seahawks,Dolphins,21,24,74,Fair,FALSE,0,N
+3084289427,2012,12,Falcons,Buccaneers,24,23,64,Fair,FALSE,4,WSW
+1289741460,2012,12,Titans,Jaguars,19,24,63,Fair,FALSE,0,N
+2206483624,2012,12,Ravens,Chargers,16,13,62,Fog,FALSE,4,WSW
+1360242285,2012,12,Rams,Cardinals,31,17,72,DOME,TRUE,0,N
+710071851,2012,12,49ers,Saints,31,21,72,DOME,TRUE,7,ENE
+1402762399,2012,12,Packers,Giants,10,38,37,Overcast,FALSE,11,WSW
+3539963488,2012,12,Panthers,Eagles,30,22,37,A Few Clouds,FALSE,0,N
+349332612,2012,13,Saints,Falcons,13,23,72,DOME,TRUE,0,N
+2802272622,2012,13,Jaguars,Bills,18,34,51,Light Rain Fog Mist,FALSE,13,SSW
+1802154162,2012,13,Seahawks,Bears,23,17,61,Mostly Cloudy,FALSE,3,W
+1555039901,2012,13,Colts,Lions,35,33,72,DOME,TRUE,10,WSW
+1053376822,2012,13,Vikings,Packers,14,23,45,Overcast with Haze,FALSE,7,NW
+3517916362,2012,13,Texans,Titans,24,10,71,Mostly Cloudy,FALSE,12,SW
+139086137,2012,13,Panthers,Chiefs,21,27,61,Fair,FALSE,0,N
+856837705,2012,13,49ers,Rams,13,16,72,DOME,TRUE,11,W
+2427324374,2012,13,Patriots,Dolphins,23,16,78,Mostly Cloudy,FALSE,13,E
+1867721510,2012,13,Cardinals,Jets,6,7,46,Fog Mist,FALSE,4,S
+669615952,2012,13,Buccaneers,Broncos,23,31,63,Mostly Cloudy,FALSE,0,N
+490198317,2012,13,Bengals,Chargers,20,13,66,Fog Mist,FALSE,4,WNW
+4288802118,2012,13,Browns,Raiders,20,17,62,Partly Cloudy,FALSE,11,W
+3809789564,2012,13,Steelers,Ravens,23,20,56,Overcast,FALSE,0,N
+2486402496,2012,13,Eagles,Cowboys,33,38,77,Clear,FALSE,8,SSE
+1397281677,2012,13,Giants,Redskins,16,17,60,Overcast,FALSE,0,N
+2131156324,2012,14,Broncos,Raiders,26,13,57,Mostly Cloudy,FALSE,0,N
+2652192768,2012,14,Rams,Bills,15,12,37,Overcast,FALSE,11,E
+2908852769,2012,14,Cowboys,Bengals,20,19,54,Overcast,FALSE,5,S
+3889197292,2012,14,Chiefs,Browns,7,30,44,Overcast,FALSE,0,N
+1469476218,2012,14,Eagles,Buccaneers,23,21,73,Mostly Cloudy,FALSE,0,N
+1362796813,2012,14,Ravens,Redskins,28,31,49,Overcast,FALSE,8,ENE
+586427368,2012,14,Falcons,Panthers,20,30,62,Fog Mist,FALSE,5,SSW
+376202624,2012,14,Jets,Jaguars,17,10,69,Fog Mist,FALSE,5,N
+2167891320,2012,14,Titans,Colts,23,27,72,DOME,TRUE,7,SE
+966931314,2012,14,Bears,Vikings,14,21,72,DOME,TRUE,12,E
+876690289,2012,14,Chargers,Steelers,34,24,51,Partly Cloudy,FALSE,6,ESE
+3990657984,2012,14,Dolphins,49ers,13,27,64,Fair,FALSE,0,N
+237999156,2012,14,Cardinals,Seahawks,0,58,42,Lt Rain Fog,FALSE,6,SSE
+3351371322,2012,14,Saints,Giants,27,52,43,Light Drizzle,FALSE,3,N
+1630910758,2012,14,Lions,Packers,20,27,32,Light Snow Fog Mist,FALSE,9,NE
+2302444015,2012,14,Texans,Patriots,14,42,59,Overcast,FALSE,5,WSW
+3449311262,2012,15,Bengals,Eagles,34,13,40,Fair,FALSE,3,SSW
+1741489825,2012,15,Giants,Falcons,0,34,72,DOME,TRUE,4,SE
+1100390664,2012,15,Packers,Bears,21,13,43,Overcast,FALSE,11,W
+1199097611,2012,15,Redskins,Browns,38,21,58,Overcast,FALSE,9,S
+2914187604,2012,15,Vikings,Rams,36,22,72,DOME,TRUE,4,NNW
+2864909727,2012,15,Jaguars,Dolphins,3,24,78,A Few Clouds,FALSE,9,SE
+3890272119,2012,15,Buccaneers,Saints,0,41,72,DOME,TRUE,9,SSW
+3939892633,2012,15,Broncos,Ravens,34,17,64,Light Rain,FALSE,10,S
+3566936869,2012,15,Colts,Texans,17,29,64,Light Rain,FALSE,10,S
+935814943,2012,15,Lions,Cardinals,10,38,72,DOME,TRUE,3,N
+2309956545,2012,15,Panthers,Chargers,31,7,59,NA,FALSE,2,SSE
+4254754300,2012,15,Seahawks,Bills,50,17,72,DOME,TRUE,,
+4147835311,2012,15,Steelers,Cowboys,24,27,72,Clear,FALSE,6,WSW
+1623229821,2012,15,Chiefs,Raiders,0,15,56,Overcast,FALSE,5,ESE
+4051605806,2012,15,49ers,Patriots,41,34,37,Fog Mist,FALSE,4,ENE
+163452233,2012,15,Jets,Titans,10,14,51,Overcast,FALSE,11,WNW
+3477943803,2012,16,Falcons,Lions,31,18,72,DOME,TRUE,7,WSW
+310300417,2012,16,Saints,Cowboys,34,31,64,Clear,FALSE,8,SW
+3611398801,2012,16,Titans,Packers,7,55,24,Fair,FALSE,7,NW
+559441438,2012,16,Colts,Chiefs,20,13,36,Fair,FALSE,4,N
+4040008572,2012,16,Bills,Dolphins,10,24,72,Partly Cloudy,FALSE,9,ESE
+2530701684,2012,16,Redskins,Eagles,27,20,44,Partly Cloudy,FALSE,9,SSW
+1212053168,2012,16,Bengals,Steelers,13,10,38,Fair,FALSE,12,SW
+1763864279,2012,16,Rams,Buccaneers,28,13,63,Mostly Cloudy,FALSE,6,WSW
+4125581160,2012,16,Raiders,Panthers,6,17,53,Mostly Cloudy,FALSE,5,SW
+2042317077,2012,16,Patriots,Jaguars,23,16,60,Fair,FALSE,0,N
+684364810,2012,16,Vikings,Texans,23,6,75,Overcast,FALSE,12,SSW
+25506317,2012,16,Chargers,Jets,27,17,41,Fair,FALSE,8,SW
+1622878948,2012,16,Browns,Broncos,12,34,48,Partly Cloudy,FALSE,3,WNW
+3182084141,2012,16,Giants,Ravens,14,33,48,Partly Cloudy,FALSE,1,S
+2477058456,2012,16,Bears,Cardinals,28,13,72,DOME,TRUE,3,WNW
+1088075257,2012,16,49ers,Seahawks,13,42,43,Lt Rain,FALSE,3,N
+3739320924,2012,17,Buccaneers,Falcons,22,17,72,DOME,TRUE,6,NW
+7255211,2012,17,Jets,Bills,9,28,27,Mostly Cloudy,FALSE,8,WNW
+1390550124,2012,17,Ravens,Bengals,17,23,28,Fair,FALSE,6,SW
+2879144622,2012,17,Bears,Lions,26,24,72,DOME,TRUE,12,WSW
+2357087626,2012,17,Jaguars,Titans,20,38,37,Partly Cloudy,FALSE,0,N
+4106533829,2012,17,Texans,Colts,16,28,72,DOME,TRUE,6,SW
+1317131859,2012,17,Panthers,Saints,44,38,72,DOME,TRUE,5,NNE
+1570486301,2012,17,Eagles,Giants,7,42,34,Blowing Snow and Breezy,FALSE,21,NW
+2263675362,2012,17,Browns,Steelers,10,24,27,Overcast,FALSE,13,WSW
+2691005363,2012,17,Rams,Seahawks,13,20,42,Mostly Cloudy,FALSE,4,NE
+4186506899,2012,17,Packers,Vikings,34,37,72,DOME,TRUE,6,SSE
+3432051702,2012,17,Dolphins,Patriots,0,28,28,Fair,FALSE,13,WNW
+3164404756,2012,17,Raiders,Chargers,21,24,54,NA,FALSE,5,W
+1405032720,2012,17,Cardinals,49ers,13,27,53,NA,FALSE,0,N
+1650013928,2012,17,Chiefs,Broncos,3,38,30,Partly Cloudy,FALSE,13,NNW
+1166217750,2012,17,Cowboys,Redskins,18,28,32,Fair,FALSE,10,W
+4141077004,2013,1,Ravens,Broncos,27,49,81,Mostly Cloudy,FALSE,3,WNW
+399330036,2013,1,Patriots,Bills,23,21,65,Partly Cloudy,FALSE,6,N
+2462471387,2013,1,Bengals,Bears,21,24,77,Mostly Cloudy,FALSE,13,NE
+2084649502,2013,1,Dolphins,Browns,23,10,72,Partly Cloudy,FALSE,16,NNE
+1188091534,2013,1,Falcons,Saints,17,23,72,DOME,TRUE,9,E
+4136773750,2013,1,Buccaneers,Jets,17,18,82,Partly Cloudy,FALSE,14,WNW
+1617163006,2013,1,Titans,Steelers,16,9,74,Mostly Cloudy,FALSE,5,ENE
+354839313,2013,1,Vikings,Lions,24,34,72,DOME,TRUE,8,ENE
+42266189,2013,1,Raiders,Colts,17,21,72,DOME,TRUE,5,SSW
+3446675578,2013,1,Seahawks,Panthers,12,7,87,Mostly Cloudy,FALSE,5,NNE
+2772430361,2013,1,Chiefs,Jaguars,28,2,87,A Few Clouds,FALSE,10,NNE
+3988377488,2013,1,Cardinals,Rams,24,27,72,DOME,TRUE,7,SE
+3126730813,2013,1,Packers,49ers,28,34,66,NA,FALSE,0,N
+2514893803,2013,1,Giants,Cowboys,31,36,86,Fair,FALSE,3,SE
+2784372032,2013,1,Eagles,Redskins,33,27,72,Mostly Cloudy,FALSE,4,SSE
+4028565023,2013,1,Texans,Chargers,31,28,66,NA,FALSE,3,WNW
+2445607194,2013,2,Jets,Patriots,10,13,72,Thunderstorm Rain Fog Mist,FALSE,4,SW
+2995628750,2013,2,Rams,Falcons,24,31,72,DOME,TRUE,0,N
+1563345569,2013,2,Panthers,Bills,23,24,66,Mostly Cloudy,FALSE,10,SW
+3617429749,2013,2,Vikings,Bears,30,31,62,Light Rain,FALSE,0,N
+2605642197,2013,2,Redskins,Packers,20,38,62,Overcast,FALSE,3,N
+3545519628,2013,2,Dolphins,Colts,24,20,72,DOME,TRUE,12,SSW
+4022931213,2013,2,Cowboys,Chiefs,16,17,79,A Few Clouds,FALSE,3,N
+3805078500,2013,2,Browns,Ravens,6,14,78,Partly Cloudy,FALSE,0,N
+1984463292,2013,2,Titans,Texans,24,30,91,Mostly Cloudy,FALSE,9,E
+1075954448,2013,2,Chargers,Eagles,33,30,72,Mostly Cloudy,FALSE,7,SW
+2631735994,2013,2,Lions,Cardinals,21,25,72,DOME,TRUE,4,N
+168764405,2013,2,Saints,Buccaneers,16,14,75,Overcast,FALSE,7,SE
+3440626826,2013,2,Jaguars,Raiders,9,19,72,Fair,FALSE,9,WSW
+3790053388,2013,2,Broncos,Giants,41,23,67,Fair,FALSE,3,W
+2222933167,2013,2,49ers,Seahawks,3,29,64,Thunder Lt Rain,FALSE,6,SE
+916541024,2013,2,Steelers,Bengals,10,20,58,Fair,FALSE,3,NNE
+2042770653,2013,3,Chiefs,Eagles,26,16,64,Fair,FALSE,5,SW
+341766034,2013,3,Packers,Bengals,30,34,67,Fair,FALSE,7,NE
+3448495976,2013,3,Rams,Cowboys,7,31,79,Clear,FALSE,6,ENE
+3324096147,2013,3,Chargers,Titans,17,20,76,Fair,FALSE,7,NNE
+3466150565,2013,3,Browns,Vikings,31,27,72,DOME,TRUE,16,ESE
+2221059098,2013,3,Buccaneers,Patriots,3,23,72,Fair,FALSE,12,W
+3788463966,2013,3,Cardinals,Saints,7,31,72,DOME,TRUE,10,NE
+697551361,2013,3,Lions,Redskins,27,20,71,Overcast,FALSE,11,NW
+587365688,2013,3,Giants,Panthers,0,38,77,Partly Cloudy,FALSE,10,NNE
+3966646604,2013,3,Texans,Ravens,9,30,72,Mostly Clear,FALSE,0,N
+801251235,2013,3,Falcons,Dolphins,23,27,85,Fair,FALSE,4,SE
+2616725605,2013,3,Bills,Jets,20,27,64,Mostly Cloudy,FALSE,9,WNW
+2452684201,2013,3,Colts,49ers,27,7,64,NA,FALSE,0,N
+2670021149,2013,3,Jaguars,Seahawks,17,45,61,Mostly Cloudy,FALSE,15,S
+3186354563,2013,3,Bears,Steelers,40,23,52,Overcast,FALSE,4,N
+2167528555,2013,3,Raiders,Broncos,21,37,57,Partly Cloudy,FALSE,15,W
+1161420120,2013,4,49ers,Rams,35,11,72,DOME,TRUE,5,ESE
+248677703,2013,4,Ravens,Bills,20,23,74,Mostly Cloudy,FALSE,8,SW
+601948221,2013,4,Bengals,Browns,6,17,0,Overcast,FALSE,5,S
+3876029819,2013,4,Bears,Lions,32,40,72,DOME,TRUE,3,SSW
+2389443480,2013,4,Giants,Chiefs,7,31,73,Fair,FALSE,5,ENE
+2871816306,2013,4,Steelers,Vikings,27,34,60,Mostly Cloudy,FALSE,,
+3264223186,2013,4,Cardinals,Buccaneers,13,10,84,Partly Cloudy,FALSE,7,WSW
+3744329546,2013,4,Colts,Jaguars,37,3,80,Mostly Cloudy,FALSE,11,NE
+2748212002,2013,4,Seahawks,Texans,23,20,82,Mostly Cloudy,FALSE,9,N
+3574300499,2013,4,Jets,Titans,13,38,68,Light Rain,FALSE,4,SSW
+3155684711,2013,4,Eagles,Broncos,20,52,73,Mostly Cloudy,FALSE,6,NW
+600186666,2013,4,Cowboys,Chargers,21,30,80,NA,FALSE,6,WNW
+3208850874,2013,4,Redskins,Raiders,24,14,72,A Few Clouds,FALSE,5,SW
+3891588144,2013,4,Patriots,Falcons,30,23,72,DOME,TRUE,0,N
+896422327,2013,4,Dolphins,Saints,17,38,72,DOME,TRUE,4,E
+3003961601,2013,5,Bills,Browns,24,37,63,Light Rain,FALSE,8,S
+91541694,2013,5,Saints,Bears,26,18,61,Mostly Cloudy,FALSE,12,WSW
+4146451643,2013,5,Patriots,Bengals,6,13,74,Mostly Cloudy,FALSE,16,S
+1244253993,2013,5,Jaguars,Rams,20,34,72,DOME,TRUE,13,W
+2686413192,2013,5,Ravens,Dolphins,26,23,87,A Few Clouds,FALSE,6,SSE
+2824398085,2013,5,Eagles,Giants,36,21,69,Fog Mist,FALSE,9,ESE
+38516382,2013,5,Lions,Packers,9,22,61,Fair,FALSE,12,WSW
+3537571684,2013,5,Chiefs,Titans,26,17,63,Light Rain,FALSE,6,WNW
+1523815238,2013,5,Seahawks,Colts,28,34,72,DOME,TRUE,9,SW
+3870035336,2013,5,Panthers,Cardinals,6,22,72,DOME,TRUE,0,N
+532885061,2013,5,Broncos,Cowboys,51,48,75,Clear,FALSE,7,NW
+2925219206,2013,5,Texans,49ers,3,34,73,A Few Clouds,FALSE,0,N
+231804154,2013,5,Chargers,Raiders,17,27,63,Partly Cloudy,FALSE,0,N
+2654009900,2013,5,Jets,Falcons,30,28,72,DOME,TRUE,0,N
+1334872700,2013,6,Giants,Bears,21,27,63,Fair,FALSE,6,E
+984550083,2013,6,Bengals,Bills,27,24,68,Overcast,FALSE,5,SSW
+3731565320,2013,6,Lions,Browns,31,17,67,Overcast,FALSE,8,N
+1939201883,2013,6,Raiders,Chiefs,7,24,70,Fair,FALSE,11,E
+3029446713,2013,6,Panthers,Vikings,35,10,72,DOME,TRUE,5,SW
+3870042842,2013,6,Eagles,Buccaneers,31,20,84,Mostly Cloudy,FALSE,4,N
+832582819,2013,6,Packers,Ravens,19,17,68,Areas Drizzle,FALSE,0,N
+3931489594,2013,6,Rams,Texans,38,13,76,Overcast,FALSE,5,ENE
+4294732096,2013,6,Steelers,Jets,19,6,65,Fair,FALSE,10,E
+1144241056,2013,6,Jaguars,Broncos,19,35,59,Partly Cloudy with Haze,FALSE,4,NNW
+45641617,2013,6,Titans,Seahawks,13,20,57,Partly Cloudy,FALSE,3,N
+2843553339,2013,6,Saints,Patriots,27,30,47,Fair,FALSE,0,N
+849638220,2013,6,Cardinals,49ers,20,32,67,Clear,FALSE,0,N
+3294570124,2013,6,Redskins,Cowboys,16,31,72,Fair,FALSE,6,E
+1568644096,2013,6,Colts,Chargers,9,19,65,NA,FALSE,3,WSW
+202702491,2013,7,Seahawks,Cardinals,34,22,72,DOME,TRUE,5,SSW
+1124441004,2013,7,Buccaneers,Falcons,23,31,72,DOME,TRUE,0,N
+3147393153,2013,7,Bengals,Lions,27,24,72,DOME,TRUE,8,SW
+703305989,2013,7,Texans,Chiefs,16,17,70,Fair,FALSE,10,SW
+229881397,2013,7,Bills,Dolphins,23,21,87,Mostly Cloudy,FALSE,11,E
+2371954718,2013,7,Patriots,Jets,27,30,65,Fair,FALSE,12,W
+1185119758,2013,7,Cowboys,Eagles,17,3,62,A Few Clouds,FALSE,12,NW
+2154417844,2013,7,Bears,Redskins,41,45,62,Fair,FALSE,8,WNW
+636856956,2013,7,Rams,Panthers,15,30,64,Partly Cloudy,FALSE,0,N
+3157774826,2013,7,Chargers,Jaguars,24,6,77,Fair,FALSE,7,NNE
+2669747420,2013,7,49ers,Titans,31,17,58,Fair,FALSE,4,E
+1641345161,2013,7,Ravens,Steelers,16,19,52,Fair,FALSE,7,SSW
+3884581389,2013,7,Browns,Packers,13,31,43,Overcast,FALSE,6,SE
+190784559,2013,7,Broncos,Colts,33,39,72,DOME,TRUE,9,S
+1795090667,2013,7,Vikings,Giants,7,23,57,Fair,FALSE,7,S
+2154011159,2013,8,Panthers,Buccaneers,31,13,65,Mostly Cloudy,FALSE,3,NNE
+3260021458,2013,8,Cowboys,Lions,30,31,72,DOME,TRUE,9,WSW
+3693878797,2013,8,Browns,Chiefs,17,23,61,Fair,FALSE,9,SSW
+3166307482,2013,8,Dolphins,Patriots,17,27,53,Partly Cloudy,FALSE,14,W
+972782201,2013,8,Bills,Saints,17,35,72,DOME,TRUE,6,SSE
+2368707857,2013,8,Giants,Eagles,15,7,58,A Few Clouds,FALSE,13,W
+175557096,2013,8,49ers,Jaguars,42,10,73,Fair,FALSE,0,N
+2376067510,2013,8,Steelers,Raiders,18,21,59,Mostly Cloudy,FALSE,15,W
+1910143704,2013,8,Jets,Bengals,9,49,48,Fair,FALSE,0,N
+3821416761,2013,8,Redskins,Broncos,21,45,68,Partly Cloudy,FALSE,8,NW
+68272057,2013,8,Falcons,Cardinals,13,27,72,DOME,TRUE,8,S
+2368893202,2013,8,Packers,Vikings,44,31,72,DOME,TRUE,14,N
+3697138693,2013,8,Seahawks,Rams,14,9,72,DOME,TRUE,4,ESE
+904922994,2013,9,Bengals,Dolphins,20,22,78,A Few Clouds,FALSE,5,ESE
+4256759333,2013,9,Chiefs,Bills,23,13,38,A Few Clouds,FALSE,5,NNW
+465378377,2013,9,Chargers,Redskins,24,30,49,Mostly Cloudy,FALSE,10,N
+2098235333,2013,9,Falcons,Panthers,10,34,62,A Few Clouds,FALSE,12,N
+3918985395,2013,9,Vikings,Cowboys,23,27,64,Clear,FALSE,7,SE
+3217765190,2013,9,Titans,Rams,28,21,72,DOME,TRUE,13,SE
+4004164232,2013,9,Saints,Jets,20,26,53,Overcast,FALSE,8,N
+17180513,2013,9,Buccaneers,Seahawks,24,27,52,Mostly Cloudy,FALSE,4,N
+2127951743,2013,9,Eagles,Raiders,49,20,62,Overcast,FALSE,10,W
+2798565002,2013,9,Steelers,Patriots,31,55,42,Fair,FALSE,3,NNW
+1159966484,2013,9,Ravens,Browns,18,24,0,A Few Clouds,FALSE,15,NE
+2586948519,2013,9,Colts,Texans,27,24,59,A Few Clouds,FALSE,8,E
+3093758253,2013,9,Bears,Packers,27,20,48,Overcast,FALSE,6,S
+2399491983,2013,10,Redskins,Vikings,27,34,72,DOME,TRUE,0,N
+1694190952,2013,10,Seahawks,Falcons,33,10,72,DOME,TRUE,6,N
+4049002535,2013,10,Lions,Bears,21,19,47,A Few Clouds,FALSE,4,WNW
+947100611,2013,10,Eagles,Packers,27,13,46,Partly Cloudy,FALSE,9,WSW
+1464186616,2013,10,Jaguars,Titans,29,27,65,Fair,FALSE,5,NNW
+3003218422,2013,10,Rams,Colts,38,8,72,DOME,TRUE,7,NW
+157813923,2013,10,Raiders,Giants,20,24,53,Light Rain,FALSE,14,NW
+331562595,2013,10,Bills,Steelers,10,23,45,Overcast,FALSE,17,WNW
+2485090001,2013,10,Bengals,Ravens,17,20,62,Breezy,FALSE,0,N
+2972168672,2013,10,Panthers,49ers,10,9,61,NA,FALSE,0,N
+1925642174,2013,10,Broncos,Chargers,28,20,77,NA,FALSE,6,SW
+1173724146,2013,10,Texans,Cardinals,24,27,72,DOME,TRUE,0,N
+1151077888,2013,10,Cowboys,Saints,17,49,72,DOME,TRUE,0,N
+2429918424,2013,10,Dolphins,Buccaneers,19,22,72,Partly Cloudy,FALSE,0,N
+2765469951,2013,11,Colts,Titans,30,27,40,Partly Cloudy,FALSE,5,S
+4249944908,2013,11,Raiders,Texans,28,23,85,Mostly Cloudy,FALSE,14,SSW
+3666381856,2013,11,Redskins,Eagles,16,24,67,Mostly Cloudy,FALSE,7,SSW
+2346307703,2013,11,Lions,Steelers,27,37,59,Light Rain,FALSE,11,S
+836037297,2013,11,Jets,Bills,14,37,62,Mostly Cloudy,FALSE,17,S
+2670194093,2013,11,Ravens,Bears,20,23,68,Overcast and Windy,FALSE,24,S
+463217736,2013,11,Browns,Bengals,20,41,64,Overcast,FALSE,13,S
+145706099,2013,11,Falcons,Buccaneers,28,41,79,Overcast,FALSE,3,W
+1147045684,2013,11,Cardinals,Jaguars,27,14,79,Overcast,FALSE,4,SSE
+3684049462,2013,11,Chargers,Dolphins,16,20,80,A Few Clouds,FALSE,8,ESE
+2811867193,2013,11,Vikings,Seahawks,20,41,47,Overcast,FALSE,5,SSW
+265435589,2013,11,49ers,Saints,20,23,72,DOME,TRUE,7,S
+4121000297,2013,11,Packers,Giants,13,27,61,Fog Mist,FALSE,0,N
+2050184580,2013,11,Chiefs,Broncos,17,27,51,Breezy,FALSE,,
+3518729285,2013,11,Patriots,Panthers,20,24,56,Fair and Breezy,FALSE,20,N
+1354760710,2013,12,Saints,Falcons,17,13,72,DOME,TRUE,4,E
+3697146139,2013,12,Steelers,Browns,27,11,33,Snow and Breezy,FALSE,22,WNW
+3777688313,2013,12,Buccaneers,Lions,24,21,72,DOME,TRUE,11,WNW
+2957909995,2013,12,Vikings,Packers,26,26,20,Fair,FALSE,10,SW
+82276212,2013,12,Chargers,Chiefs,41,38,28,Fair,FALSE,4,N
+4186726305,2013,12,Bears,Rams,21,42,72,DOME,TRUE,4,N
+899107881,2013,12,Panthers,Dolphins,20,16,80,Light Rain,FALSE,17,NNE
+3961889974,2013,12,Jets,Ravens,3,19,34,Breezy,FALSE,0,N
+628174317,2013,12,Jaguars,Texans,13,6,50,Overcast,FALSE,9,N
+2734075955,2013,12,Colts,Cardinals,11,40,72,DOME,TRUE,0,N
+474715517,2013,12,Titans,Raiders,23,19,59,A Few Clouds,FALSE,5,W
+1938690456,2013,12,Cowboys,Giants,24,21,26,Fair,FALSE,7,WNW
+1997510576,2013,12,Broncos,Patriots,31,34,23,Fair,FALSE,16,WNW
+764554619,2013,12,49ers,Redskins,27,6,32,A Few Clouds,FALSE,8,S
+1701490901,2013,13,Packers,Lions,10,40,72,DOME,TRUE,6,S
+1176303769,2013,13,Raiders,Cowboys,24,31,52,Clear,FALSE,0,N
+656226364,2013,13,Steelers,Ravens,20,22,37,Mostly Clear,FALSE,0,N
+1401404133,2013,13,Buccaneers,Panthers,6,27,57,Partly Cloudy,FALSE,5,SW
+142876711,2013,13,Jaguars,Browns,32,28,44,Overcast,FALSE,8,SW
+3921550690,2013,13,Titans,Colts,14,22,72,DOME,TRUE,9,WSW
+3314145194,2013,13,Broncos,Chiefs,35,28,53,Fair with Haze,FALSE,0,N
+3391310853,2013,13,Bears,Vikings,20,23,72,DOME,TRUE,0,N
+3539117146,2013,13,Dolphins,Jets,23,3,49,Overcast,FALSE,5,WNW
+3919853837,2013,13,Cardinals,Eagles,21,24,47,Mostly Cloudy,FALSE,5,SW
+2538939727,2013,13,Falcons,Bills,34,31,72,DOME,TRUE,,
+3038744233,2013,13,Rams,49ers,13,23,66,Areas Fog,FALSE,0,N
+3147894975,2013,13,Patriots,Texans,34,31,67,Mostly Cloudy,FALSE,6,SSE
+2371795025,2013,13,Bengals,Chargers,17,10,76,Mostly Clear,FALSE,3,W
+3878582741,2013,13,Giants,Redskins,24,17,37,Overcast,FALSE,3,S
+1530112370,2013,13,Saints,Seahawks,7,34,42,Partly Cloudy,FALSE,3,SSE
+1471625148,2013,14,Texans,Jaguars,20,27,70,Fair,FALSE,4,SSE
+2519169301,2013,14,Colts,Bengals,28,42,28,Overcast,FALSE,7,E
+1543246255,2013,14,Bills,Buccaneers,6,27,83,Partly Cloudy,FALSE,11,SE
+2040752777,2013,14,Chiefs,Redskins,45,10,28,Light Freezing Rain,FALSE,5,NE
+3295875013,2013,14,Vikings,Ravens,26,29,30,Wintry Mix,FALSE,0,N
+1905317084,2013,14,Browns,Patriots,26,27,31,Fair,FALSE,3,NNW
+3547997409,2013,14,Raiders,Jets,27,37,34,Overcast,FALSE,5,N
+3769937864,2013,14,Lions,Eagles,20,34,27,Heavy Snow Freezing Fog,FALSE,7,NE
+493773694,2013,14,Dolphins,Steelers,34,28,26,Light Snow Fog Mist,FALSE,4,ENE
+1285202732,2013,14,Falcons,Packers,21,22,10,Light Snow,FALSE,9,NE
+959196826,2013,14,Titans,Broncos,28,51,19,A Few Clouds with Haze,FALSE,7,E
+268488502,2013,14,Giants,Chargers,14,37,53,Partly Cloudy,FALSE,7,WSW
+735906971,2013,14,Seahawks,49ers,17,19,45,Clear,FALSE,0,N
+971482662,2013,14,Rams,Cardinals,10,30,72,DOME,TRUE,10,SSW
+1247500717,2013,14,Panthers,Saints,13,31,72,DOME,TRUE,4,N
+1165412241,2013,14,Cowboys,Bears,28,45,7,Overcast,FALSE,9,W
+211092291,2013,15,Chargers,Broncos,27,20,39,A Few Clouds,FALSE,6,NNW
+1638671265,2013,15,Redskins,Falcons,26,27,72,DOME,TRUE,12,NW
+309728557,2013,15,Bears,Browns,38,31,22,Light Snow,FALSE,11,W
+2853527002,2013,15,Cardinals,Titans,37,34,34,Overcast,FALSE,5,W
+1118797458,2013,15,Texans,Colts,3,25,72,DOME,TRUE,15,WSW
+3180564201,2013,15,Saints,Rams,16,27,72,DOME,TRUE,5,SW
+2227733348,2013,15,Patriots,Dolphins,20,24,85,Partly Cloudy,FALSE,12,SW
+3206176503,2013,15,Eagles,Vikings,30,48,72,DOME,TRUE,6,NW
+1569380246,2013,15,Seahawks,Giants,23,0,40,A Few Clouds,FALSE,11,WNW
+1266773655,2013,15,Bills,Jaguars,27,20,66,Overcast,FALSE,8,NW
+2910964499,2013,15,49ers,Buccaneers,33,14,69,Overcast,FALSE,7,NNW
+3398011755,2013,15,Jets,Panthers,20,30,44,A Few Clouds,FALSE,5,NW
+1959295479,2013,15,Chiefs,Raiders,56,31,55,A Few Clouds,FALSE,4,SW
+2862824600,2013,15,Packers,Cowboys,37,36,59,Clear,FALSE,0,N
+4134042692,2013,15,Bengals,Steelers,20,30,27,Overcast and Breezy,FALSE,18,W
+2385253591,2013,15,Ravens,Lions,18,16,72,DOME,TRUE,0,N
+1065138927,2013,16,Dolphins,Bills,0,19,36,Light Rain Fog Mist,FALSE,5,SSW
+2156211048,2013,16,Vikings,Bengals,14,42,53,Partly Cloudy,FALSE,13,SSW
+1273592288,2013,16,Colts,Chiefs,23,7,25,Overcast with Haze,FALSE,8,NW
+1288743303,2013,16,Buccaneers,Rams,13,23,72,DOME,TRUE,12,W
+2369139871,2013,16,Browns,Jets,13,24,70,Overcast,FALSE,11,S
+3580056012,2013,16,Cowboys,Redskins,24,23,62,A Few Clouds,FALSE,9,S
+2229811181,2013,16,Saints,Panthers,13,17,70,Light Rain Fog Mist,FALSE,12,S
+3969655280,2013,16,Titans,Jaguars,20,16,82,Mostly Cloudy,FALSE,12,SW
+1770634896,2013,16,Broncos,Texans,37,13,59,Overcast,FALSE,10,NNW
+496940670,2013,16,Cardinals,Seahawks,17,10,50,Fog,FALSE,0,N
+882220703,2013,16,Giants,Lions,23,20,72,DOME,TRUE,8,WSW
+1679609097,2013,16,Steelers,Packers,38,31,22,Light Snow Fog Mist,FALSE,5,NNE
+2515517027,2013,16,Raiders,Chargers,13,26,69,A few Clouds,FALSE,2,W
+3110832802,2013,16,Patriots,Ravens,41,7,63,Showers,FALSE,0,N
+3865796213,2013,16,Bears,Eagles,11,54,60,Mostly Cloudy,FALSE,5,WSW
+3160889702,2013,16,Falcons,49ers,24,34,57,A Few Clouds,FALSE,0,N
+3369872702,2013,17,Panthers,Falcons,21,20,72,DOME,TRUE,9,WNW
+2924384523,2013,17,Ravens,Bengals,17,34,59,Overcast,FALSE,9,SW
+2895455602,2013,17,Texans,Titans,10,16,53,A Few Clouds,FALSE,3,N
+3302614567,2013,17,Jaguars,Colts,10,30,72,DOME,TRUE,19,WNW
+42910492,2013,17,Browns,Steelers,7,20,41,Light Rain Fog Mist,FALSE,7,NNW
+3939842912,2013,17,Jets,Dolphins,20,7,79,Mostly Cloudy,FALSE,10,S
+2523946703,2013,17,Lions,Vikings,13,14,72,DOME,TRUE,11,NW
+1836854343,2013,17,Redskins,Giants,6,20,42,Heavy Rain Fog Mist,FALSE,5,NE
+3995399699,2013,17,Packers,Bears,33,28,24,Overcast,FALSE,10,NW
+3648765415,2013,17,Bills,Patriots,20,34,41,Rain Fog Mist,FALSE,8,ENE
+2692883300,2013,17,Buccaneers,Saints,17,42,72,DOME,TRUE,3,N
+4290821229,2013,17,49ers,Cardinals,23,20,72,DOME,TRUE,5,N
+2877140480,2013,17,Chiefs,Chargers,24,27,71,Sunny,FALSE,2,WSW
+2671837066,2013,17,Rams,Seahawks,9,27,44,Overcast,FALSE,0,N
+405632880,2013,17,Broncos,Raiders,34,14,71,A Few Clouds,FALSE,10,NE
+3311257050,2013,17,Eagles,Cowboys,24,22,32,Overcast,FALSE,6,NNW
+1406511314,2014,1,Packers,Seahawks,16,36,70,Fair,FALSE,5,NW
+676903498,2014,1,Saints,Falcons,34,37,72,DOME,TRUE,6,W
+1162727047,2014,1,Bills,Bears,23,20,77,Partly Cloudy,FALSE,7,ESE
+2924898738,2014,1,Titans,Chiefs,26,10,77,Fair,FALSE,5,E
+3611323765,2014,1,Vikings,Rams,34,6,72,DOME,TRUE,6,ESE
+1714038424,2014,1,Patriots,Dolphins,20,33,89,Fair,FALSE,13,SE
+1468598662,2014,1,Raiders,Jets,14,19,80,Partly Cloudy,FALSE,3,N
+2020451555,2014,1,Jaguars,Eagles,17,34,80,Partly Cloudy,FALSE,6,N
+1742847710,2014,1,Browns,Steelers,27,30,72,A Few Clouds,FALSE,6,N
+2092926915,2014,1,Bengals,Ravens,23,16,78,Mostly Cloudy,FALSE,0,N
+3469586702,2014,1,Redskins,Texans,6,17,82,Thunderstorm,FALSE,12,SSE
+3591631237,2014,1,Panthers,Buccaneers,20,14,79,Overcast,FALSE,7,SE
+3516679437,2014,1,49ers,Cowboys,28,17,84,Partly Cloudy,FALSE,0,N
+790225401,2014,1,Colts,Broncos,24,31,70,Partly Cloudy,FALSE,6,SSW
+273854191,2014,1,Giants,Lions,14,35,72,DOME,TRUE,3,E
+3771600414,2014,1,Chargers,Cardinals,17,18,72,DOME,TRUE,4,ENE
+211533176,2014,2,Steelers,Ravens,6,26,80,Mostly Cloudy,FALSE,0,N
+3549236557,2014,2,Dolphins,Bills,10,29,61,Mostly Cloudy,FALSE,4,W
+2109238043,2014,2,Falcons,Bengals,10,24,68,A Few Clouds,FALSE,4,N
+4192168746,2014,2,Saints,Browns,24,26,62,Mostly Cloudy,FALSE,5,NW
+707547124,2014,2,Cowboys,Titans,26,10,77,Mostly Cloudy,FALSE,6,NNE
+4268758329,2014,2,Patriots,Vikings,30,7,65,Mostly Cloudy,FALSE,11,W
+2960749011,2014,2,Cardinals,Giants,25,14,71,Fair,FALSE,5,N
+1089043676,2014,2,Jaguars,Redskins,10,41,67,Fair,FALSE,4,W
+4283832005,2014,2,Lions,Panthers,7,24,68,Overcast,FALSE,7,N
+2781763894,2014,2,Seahawks,Chargers,21,30,85,Sunny,FALSE,6,SW
+2466106728,2014,2,Rams,Buccaneers,19,17,78,Mostly Cloudy,FALSE,0,N
+3833946936,2014,2,Chiefs,Broncos,17,24,82,Showers in Vicinity,FALSE,14,WNW
+1040035330,2014,2,Jets,Packers,24,31,63,Fair,FALSE,11,SSW
+2435244086,2014,2,Texans,Raiders,30,14,73,A Few Clouds,FALSE,10,WNW
+1572734912,2014,2,Bears,49ers,28,20,73,A Few Clouds,FALSE,9,WNW
+1943805138,2014,2,Eagles,Colts,30,27,72,DOME,TRUE,6,N
+4061572651,2014,3,Buccaneers,Falcons,14,56,72,DOME,TRUE,3,ESE
+1249567914,2014,3,Chargers,Bills,22,10,72,Partly Cloudy,FALSE,16,SW
+3319254837,2014,3,Titans,Bengals,7,33,79,Fair,FALSE,14,W
+3663638111,2014,3,Ravens,Browns,23,21,69,Partly Cloudy and Breezy,FALSE,19,W
+1249872919,2014,3,Packers,Lions,7,19,72,DOME,TRUE,6,WNW
+3827187080,2014,3,Cowboys,Rams,34,31,72,DOME,TRUE,15,WNW
+1538218009,2014,3,Raiders,Patriots,9,16,78,A Few Clouds,FALSE,7,SSE
+43641052,2014,3,Vikings,Saints,9,20,72,DOME,TRUE,11,NNE
+800247393,2014,3,Texans,Giants,17,30,76,Fog Mist,FALSE,0,N
+667654489,2014,3,Redskins,Eagles,34,37,76,Mostly Cloudy,FALSE,4,ESE
+739454789,2014,3,Colts,Jaguars,44,17,85,Fair,FALSE,5,E
+990907718,2014,3,49ers,Cardinals,14,23,72,DOME,TRUE,3,NNW
+3650514330,2014,3,Chiefs,Dolphins,34,15,84,Fair,FALSE,8,SSE
+4052473694,2014,3,Broncos,Seahawks,20,26,83,Fair,FALSE,6,N
+3874309234,2014,3,Steelers,Panthers,37,19,74,Overcast,FALSE,3,WSW
+260937731,2014,3,Bears,Jets,27,19,56,Fair,FALSE,4,NNW
+3129160488,2014,4,Giants,Redskins,45,14,63,Overcast,FALSE,7,NNE
+1393200579,2014,4,Packers,Bears,38,17,78,Mostly Cloudy,FALSE,6,E
+3599570331,2014,4,Titans,Colts,17,41,72,DOME,TRUE,0,N
+1500600917,2014,4,Dolphins,Raiders,38,14,68,Partly Cloudy,FALSE,,
+3012410358,2014,4,Lions,Jets,24,17,85,Fair,FALSE,6,S
+1953462258,2014,4,Buccaneers,Steelers,27,24,73,Fair,FALSE,6,SSW
+1089047510,2014,4,Panthers,Ravens,10,38,79,Partly Cloudy,FALSE,0,N
+1181382535,2014,4,Bills,Texans,17,23,86,Mostly Cloudy,FALSE,4,ESE
+919787188,2014,4,Jaguars,Chargers,14,33,72,NA,FALSE,7,W
+2130882097,2014,4,Falcons,Vikings,28,41,80,Partly Cloudy,FALSE,8,SSW
+3743311963,2014,4,Eagles,49ers,21,26,75,Mostly Cloudy,FALSE,7,WNW
+4171585935,2014,4,Saints,Cowboys,17,38,79,Fair,FALSE,3,ENE
+3533823677,2014,4,Patriots,Chiefs,14,41,72,Fair,FALSE,3,E
+672872481,2014,5,Vikings,Packers,10,42,63,Fog Mist,FALSE,7,SSE
+2703074841,2014,5,Texans,Cowboys,17,20,81,Clear,FALSE,0,N
+1815711523,2014,5,Bills,Lions,17,14,72,DOME,TRUE,11,SW
+2612393200,2014,5,Browns,Titans,29,28,71,Mostly Cloudy,FALSE,13,S
+3168378264,2014,5,Ravens,Colts,13,20,72,DOME,TRUE,19,SSW
+2162800371,2014,5,Buccaneers,Saints,31,37,72,DOME,TRUE,5,ESE
+1322691924,2014,5,Falcons,Giants,20,30,61,Fair,FALSE,6,WNW
+132407061,2014,5,Rams,Eagles,28,34,60,Partly Cloudy,FALSE,6,W
+2711919789,2014,5,Bears,Panthers,24,31,63,A Few Clouds,FALSE,7,S
+2486828484,2014,5,Steelers,Jaguars,17,9,73,Fair,FALSE,4,NNE
+909295334,2014,5,Cardinals,Broncos,20,41,72,Partly Cloudy,FALSE,8,ENE
+1845975845,2014,5,Jets,Chargers,0,31,83,NA,FALSE,6,WSW
+170439091,2014,5,Chiefs,49ers,17,22,88,A Few Clouds,FALSE,6,WNW
+2095150818,2014,5,Bengals,Patriots,17,43,35,Fog,FALSE,0,N
+3523854191,2014,5,Seahawks,Redskins,27,17,63,Partly Cloudy,FALSE,11,S
+3250882123,2014,6,Colts,Texans,33,28,77,Partly Cloudy,FALSE,3,SE
+2795208964,2014,6,Patriots,Bills,37,22,59,A Few Clouds,FALSE,3,N
+1257303678,2014,6,Panthers,Bengals,37,37,62,Overcast,FALSE,6,S
+1025945271,2014,6,Steelers,Browns,10,31,64,Fair,FALSE,7,E
+2165599129,2014,6,Jaguars,Titans,14,16,74,Mostly Cloudy,FALSE,7,SSW
+2141633788,2014,6,Packers,Dolphins,27,24,88,Mostly Cloudy,FALSE,12,E
+1691322453,2014,6,Lions,Vikings,17,3,61,Partly Cloudy and Breezy,FALSE,20,SSE
+812514228,2014,6,Broncos,Jets,31,17,64,Fair,FALSE,3,NW
+4264849482,2014,6,Ravens,Buccaneers,48,17,87,Mostly Cloudy,FALSE,4,ESE
+2259127272,2014,6,Chargers,Raiders,31,28,86,A Few Clouds,FALSE,7,NW
+3854957202,2014,6,Bears,Falcons,27,13,72,DOME,TRUE,7,NE
+496108254,2014,6,Redskins,Cardinals,20,30,72,DOME,TRUE,14,S
+2723638893,2014,6,Cowboys,Seahawks,30,23,66,Overcast,FALSE,5,SSW
+662961767,2014,6,Giants,Eagles,0,27,57,Mostly Cloudy,FALSE,5,SSE
+659676771,2014,6,49ers,Rams,31,17,72,DOME,TRUE,11,S
+3719031360,2014,7,Jets,Patriots,25,27,63,Overcast,FALSE,5,S
+1714399807,2014,7,Vikings,Bills,16,17,45,Mostly Cloudy,FALSE,8,WSW
+64104327,2014,7,Dolphins,Bears,27,14,55,Mostly Cloudy,FALSE,12,SW
+3210722911,2014,7,Saints,Lions,23,24,72,DOME,TRUE,9,WSW
+2670430127,2014,7,Panthers,Packers,17,38,53,A Few Clouds,FALSE,11,SSW
+57900534,2014,7,Bengals,Colts,0,27,72,DOME,TRUE,9,SW
+3511653681,2014,7,Seahawks,Rams,26,28,72,DOME,TRUE,4,N
+1008860446,2014,7,Titans,Redskins,17,19,57,Fair,FALSE,16,W
+2577738326,2014,7,Browns,Jaguars,6,24,74,Mostly Cloudy,FALSE,10,NE
+1241039185,2014,7,Falcons,Ravens,7,29,57,Mostly Clear,FALSE,0,N
+3083366082,2014,7,Chiefs,Chargers,23,20,71,NA,FALSE,6,WNW
+115344076,2014,7,Giants,Cowboys,21,31,75,Clear,FALSE,0,N
+2146109956,2014,7,Cardinals,Raiders,24,13,70,A Few Clouds,FALSE,14,W
+1978661301,2014,7,49ers,Broncos,17,42,63,A Few Clouds,FALSE,0,N
+3208264919,2014,7,Texans,Steelers,23,30,51,Light Rain,FALSE,8,SSW
+174975064,2014,8,Chargers,Broncos,21,35,61,Partly Cloudy,FALSE,3,SW
+966771950,2014,8,Lions,Falcons,22,21,58,Cloudy,FALSE,,
+3312669374,2014,8,Ravens,Bengals,24,27,67,Fair,FALSE,5,WSW
+484387355,2014,8,Texans,Titans,30,16,79,Fair,FALSE,5,E
+2830130984,2014,8,Rams,Chiefs,7,34,85,Fair,FALSE,13,S
+1161561607,2014,8,Bears,Patriots,23,51,57,Mostly Cloudy,FALSE,14,WNW
+2814268274,2014,8,Bills,Jets,43,23,61,Overcast and Breezy,FALSE,19,NW
+3163957540,2014,8,Vikings,Buccaneers,19,13,78,Fair,FALSE,7,WSW
+3686319097,2014,8,Seahawks,Panthers,13,9,81,Fair,FALSE,11,W
+1313969136,2014,8,Dolphins,Jaguars,27,13,81,Fair,FALSE,0,N
+1182378008,2014,8,Eagles,Cardinals,20,24,72,DOME,TRUE,6,WSW
+3110511124,2014,8,Raiders,Browns,13,23,54,Fair,FALSE,9,W
+724394375,2014,8,Colts,Steelers,34,51,56,Fair,FALSE,7,W
+3772461626,2014,8,Packers,Saints,23,44,72,DOME,TRUE,6,S
+344249513,2014,8,Redskins,Cowboys,20,17,76,Fair,FALSE,9,SSE
+588222756,2014,9,Saints,Panthers,28,10,53,Fair,FALSE,3,NNE
+3540991263,2014,9,Jaguars,Bengals,23,33,46,Fair,FALSE,4,SSE
+1133154482,2014,9,Buccaneers,Browns,17,22,0,Mostly Cloudy,FALSE,10,W
+3997740459,2014,9,Cardinals,Cowboys,28,17,64,Clear,FALSE,0,N
+3202351180,2014,9,Jets,Chiefs,10,24,64,Fair and Breezy,FALSE,20,S
+762754409,2014,9,Chargers,Dolphins,0,37,69,Fair,FALSE,5,N
+3938824390,2014,9,Redskins,Vikings,26,29,54,Partly Cloudy,FALSE,12,SSE
+1955638979,2014,9,Eagles,Texans,31,21,71,Mostly Cloudy,FALSE,8,SSE
+2562567395,2014,9,Rams,49ers,13,10,64,A Few Clouds,FALSE,10,NW
+278424586,2014,9,Broncos,Patriots,21,43,41,Fair and Breezy,FALSE,18,NW
+2434911354,2014,9,Raiders,Seahawks,24,30,56,Lt Rain,FALSE,7,SSE
+3020895867,2014,9,Ravens,Steelers,23,43,37,Fair,FALSE,5,WNW
+757325901,2014,9,Colts,Giants,40,24,53,Overcast,FALSE,8,SW
+1084697278,2014,10,Browns,Bengals,24,3,43,Overcast,FALSE,0,N
+2231227886,2014,10,Chiefs,Bills,17,13,41,Light Rain,FALSE,11,SSW
+422912484,2014,10,Dolphins,Lions,16,20,72,DOME,TRUE,15,SW
+2798197021,2014,10,49ers,Saints,27,24,72,DOME,TRUE,8,NE
+2997279289,2014,10,Steelers,Jets,13,20,57,Fair,FALSE,9,SW
+2209133693,2014,10,Falcons,Buccaneers,27,17,66,Overcast,FALSE,5,NE
+367837005,2014,10,Cowboys,Jaguars,31,17,53,Chance Showers,FALSE,,
+70661846,2014,10,Titans,Ravens,7,21,57,Sunny,FALSE,0,N
+2602999079,2014,10,Broncos,Raiders,41,17,69,A Few Clouds,FALSE,7,WNW
+3859333317,2014,10,Rams,Cardinals,14,31,72,DOME,TRUE,6,E
+1674674002,2014,10,Giants,Seahawks,17,38,56,Lt Rain,FALSE,0,N
+1778309279,2014,10,Bears,Packers,14,55,32,Fair,FALSE,6,NNW
+546418970,2014,10,Panthers,Eagles,21,45,49,Fair,FALSE,0,N
+2094081401,2014,11,Bills,Dolphins,9,22,71,Fair,FALSE,0,N
+3702311477,2014,11,Vikings,Bears,13,21,32,Light Snow,FALSE,10,SSW
+444899510,2014,11,Texans,Browns,23,7,34,Overcast,FALSE,7,SSW
+1849025989,2014,11,Eagles,Packers,20,53,27,Overcast,FALSE,9,SSW
+2346882611,2014,11,Seahawks,Chiefs,20,24,21,Fair,FALSE,10,W
+2592735882,2014,11,Broncos,Rams,7,22,72,DOME,TRUE,6,W
+2111559520,2014,11,Bengals,Saints,27,10,72,DOME,TRUE,19,SSE
+973772346,2014,11,49ers,Giants,16,10,43,Overcast,FALSE,4,SSW
+1481544337,2014,11,Buccaneers,Redskins,27,7,46,Overcast,FALSE,7,S
+3037912122,2014,11,Falcons,Panthers,19,17,52,Overcast,FALSE,3,ESE
+1327041971,2014,11,Raiders,Chargers,6,13,71,NA,FALSE,7,WNW
+1200107493,2014,11,Lions,Cardinals,6,14,72,DOME,TRUE,12,N
+3856074740,2014,11,Patriots,Colts,42,20,72,DOME,TRUE,4,WNW
+4221138453,2014,11,Steelers,Titans,27,24,25,A Few Clouds,FALSE,0,N
+3224456314,2014,12,Chiefs,Raiders,20,24,55,Mod Rain Fog,FALSE,11,ENE
+2158855814,2014,12,Browns,Falcons,26,24,72,DOME,TRUE,10,ENE
+534299290,2014,12,Buccaneers,Bears,13,21,53,Light Rain,FALSE,10,S
+304179836,2014,12,Jaguars,Colts,3,23,72,DOME,TRUE,9,SE
+1116409288,2014,12,Packers,Vikings,24,21,46,Fog Mist,FALSE,6,NW
+1297879675,2014,12,Lions,Patriots,9,34,61,Fair,FALSE,6,WSW
+2340058690,2014,12,Titans,Eagles,24,43,53,Mostly Cloudy,FALSE,6,S
+1338090915,2014,12,Bengals,Texans,22,13,76,Fair,FALSE,14,SW
+1222137228,2014,12,Rams,Chargers,24,27,72,NA,FALSE,3,S
+3910470772,2014,12,Cardinals,Seahawks,3,19,57,Partly Cloudy,FALSE,6,S
+1790148936,2014,12,Dolphins,Broncos,36,39,36,Showers in Vicinity,FALSE,7,NNE
+1439776641,2014,12,Redskins,49ers,13,17,63,Mostly Cloudy,FALSE,4,WNW
+3155666993,2014,12,Cowboys,Giants,31,28,48,Fair,FALSE,0,N
+3952341710,2014,12,Jets,Bills,3,38,72,DOME,TRUE,21,WSW
+2593184385,2014,12,Ravens,Saints,34,27,72,DOME,TRUE,9,N
+81525828,2014,13,Bears,Lions,17,34,72,DOME,TRUE,9,WNW
+3486827671,2014,13,Eagles,Cowboys,33,10,57,Clear,FALSE,0,N
+2889873748,2014,13,Seahawks,49ers,19,3,58,A Few Clouds,FALSE,0,N
+2826091230,2014,13,Browns,Bills,10,26,57,Overcast,FALSE,11,SSW
+1993330152,2014,13,Redskins,Colts,27,49,72,DOME,TRUE,17,SSW
+2082073999,2014,13,Raiders,Rams,0,52,72,DOME,TRUE,12,WSW
+4066090948,2014,13,Panthers,Vikings,13,31,15,Overcast,FALSE,15,WNW
+258945836,2014,13,Saints,Steelers,35,32,61,Overcast,FALSE,12,SW
+2627675279,2014,13,Bengals,Buccaneers,14,13,76,Mostly Cloudy,FALSE,7,E
+2574291170,2014,13,Giants,Jaguars,24,25,72,Partly Cloudy,FALSE,7,SSE
+3359681312,2014,13,Chargers,Ravens,34,33,58,Mostly Sunny,FALSE,0,N
+1449324467,2014,13,Titans,Texans,21,45,78,Partly Cloudy,FALSE,10,S
+95676677,2014,13,Cardinals,Falcons,18,29,72,DOME,TRUE,3,SSE
+3222910978,2014,13,Patriots,Packers,21,26,23,Fair,FALSE,7,NW
+4253712427,2014,13,Broncos,Chiefs,29,16,25,Fair,FALSE,12,N
+3539328836,2014,13,Dolphins,Jets,16,13,43,A Few Clouds,FALSE,9,NNW
+2605202755,2014,14,Cowboys,Bears,41,28,34,Overcast,FALSE,6,SE
+3487578736,2014,14,Steelers,Bengals,42,21,42,Clear,FALSE,3,NE
+2978328115,2014,14,Colts,Browns,25,24,38,Mostly Cloudy,FALSE,11,NE
+4191039284,2014,14,Buccaneers,Lions,17,34,72,DOME,TRUE,5,E
+2000774141,2014,14,Giants,Titans,36,7,47,Mostly Cloudy,FALSE,7,NE
+3267081105,2014,14,Ravens,Dolphins,28,13,77,Partly Cloudy,FALSE,12,NNW
+3437537801,2014,14,Jets,Vikings,24,30,34,Mostly Cloudy,FALSE,11,SSE
+3351863958,2014,14,Panthers,Saints,41,10,72,DOME,TRUE,5,N
+3249073583,2014,14,Rams,Redskins,24,0,46,Clear,FALSE,10,N
+4010986215,2014,14,Texans,Jaguars,27,13,58,Overcast,FALSE,9,N
+4031356150,2014,14,Bills,Broncos,17,24,55,Clear,FALSE,3,NW
+1679368899,2014,14,Chiefs,Cardinals,14,17,72,DOME,TRUE,1,NW
+1415888484,2014,14,49ers,Raiders,13,24,61,Overcast,FALSE,2,SSW
+3160634388,2014,14,Seahawks,Eagles,24,14,39,Clear,FALSE,6,N
+2036823173,2014,14,Patriots,Chargers,23,14,64,Mostly Cloudy,FALSE,2,N
+671861725,2014,14,Falcons,Packers,37,43,32,Overcast,FALSE,4,NW
+2840223852,2014,15,Cardinals,Rams,12,6,72,DOME,TRUE,1,SSE
+1814081678,2014,15,Steelers,Falcons,27,20,72,DOME,TRUE,8,WNW
+490749188,2014,15,Packers,Bills,13,21,34,Overcast,FALSE,9,W
+3891884495,2014,15,Bengals,Browns,30,0,45,Overcast,FALSE,5,W
+3468803847,2014,15,Texans,Colts,10,17,72,DOME,TRUE,4,S
+3015161516,2014,15,Raiders,Chiefs,13,31,60,Overcast,FALSE,10,S
+3260682495,2014,15,Dolphins,Patriots,13,41,43,Clear,FALSE,5,WNW
+4289056400,2014,15,Redskins,Giants,13,24,43,Overcast,FALSE,7,NW
+3112941203,2014,15,Buccaneers,Panthers,17,19,58,Clear,FALSE,2,NNW
+1186963698,2014,15,Jaguars,Ravens,12,20,49,Mostly Cloudy,FALSE,7,NW
+2105218046,2014,15,Jets,Titans,16,11,49,Mostly Cloudy,FALSE,1,E
+1848341883,2014,15,Broncos,Chargers,22,10,62,Partly Cloudy,FALSE,5,WNW
+1306872401,2014,15,49ers,Seahawks,7,17,49,Clear,FALSE,2,ENE
+1736315660,2014,15,Vikings,Lions,14,16,72,DOME,TRUE,1,W
+3687905350,2014,15,Cowboys,Eagles,38,27,42,Mostly Cloudy,FALSE,6,NNW
+4101090692,2014,15,Saints,Bears,31,15,42,Overcast,FALSE,6,SSE
+930638536,2014,16,Titans,Jaguars,13,21,54,Partly Cloudy,FALSE,3,W
+324091713,2014,16,Eagles,Redskins,24,27,35,Mostly Cloudy,FALSE,1,W
+2947846182,2014,16,Chargers,49ers,38,35,58,Overcast,FALSE,1,SW
+3840947249,2014,16,Lions,Bears,20,14,36,Mostly Cloudy,FALSE,7,S
+3795331924,2014,16,Vikings,Dolphins,35,37,78,Mostly Cloudy,FALSE,7,SE
+1831853728,2014,16,Falcons,Saints,30,14,72,DOME,TRUE,2,NE
+1312129339,2014,16,Patriots,Jets,17,16,35,Mostly Cloudy,FALSE,4,NW
+3316744365,2014,16,Chiefs,Steelers,12,20,34,Mostly Cloudy,FALSE,0,NE
+2872326968,2014,16,Packers,Buccaneers,20,3,76,Mostly Cloudy,FALSE,4,S
+2519223708,2014,16,Browns,Panthers,13,17,50,Mostly Cloudy,FALSE,4,NE
+1220203710,2014,16,Ravens,Texans,13,25,58,Mostly Cloudy,FALSE,2,E
+2975148431,2014,16,Giants,Rams,37,27,72,DOME,TRUE,7,SE
+448235927,2014,16,Colts,Cowboys,7,42,51,Overcast,FALSE,9,S
+508721607,2014,16,Bills,Raiders,24,26,62,Mostly Cloudy,FALSE,6,WNW
+3883361831,2014,16,Seahawks,Cardinals,35,6,72,DOME,TRUE,1,W
+3945301067,2014,16,Broncos,Bengals,28,37,46,Partly Cloudy,FALSE,7,ESE
+3578500388,2014,17,Colts,Titans,27,10,41,Overcast,FALSE,5,NW
+4137044427,2014,17,Chargers,Chiefs,7,19,37,Clear,FALSE,5,SW
+2512010276,2014,17,Jets,Dolphins,37,24,80,Partly Cloudy,FALSE,7,SE
+3954502398,2014,17,Bears,Vikings,9,13,22,Mostly Cloudy,FALSE,4,N
+3821014542,2014,17,Bills,Patriots,17,9,49,Overcast,FALSE,8,W
+681685775,2014,17,Eagles,Giants,34,26,51,Mostly Cloudy,FALSE,6,WNW
+3218684443,2014,17,Saints,Buccaneers,23,20,77,Partly Cloudy,FALSE,7,SSW
+1250770958,2014,17,Cowboys,Redskins,44,17,57,Mostly Cloudy,FALSE,4,WNW
+4139810085,2014,17,Browns,Ravens,10,20,56,Overcast,FALSE,3,WNW
+2382575488,2014,17,Jaguars,Texans,17,23,43,Drizzle,FALSE,8,NW
+1910726407,2014,17,Panthers,Falcons,34,3,72,DOME,TRUE,2,W
+2453269949,2014,17,Lions,Packers,20,30,25,Overcast,FALSE,6,NW
+3664853164,2014,17,Raiders,Broncos,14,47,33,Partly Cloudy,FALSE,0,NW
+3271182343,2014,17,Cardinals,49ers,17,20,56,Clear,FALSE,5,NW
+2264915698,2014,17,Rams,Seahawks,6,20,43,Mostly Cloudy,FALSE,1,SSW
+991043231,2014,17,Bengals,Steelers,17,27,35,Overcast,FALSE,1,WNW
+470132861,2015,1,Steelers,Patriots,21,28,64,Light Rain,FALSE,9,NE
+3544308649,2015,1,Packers,Bears,31,23,68,Partly Cloudy,FALSE,4,WNW
+4038140907,2015,1,Chiefs,Texans,27,20,83,Clear,FALSE,8,E
+129887513,2015,1,Browns,Jets,10,31,76,Partly Cloudy,FALSE,7,WSW
+3990155957,2015,1,Colts,Bills,14,27,53,Mostly Cloudy,FALSE,7,WSW
+2853646756,2015,1,Dolphins,Redskins,17,10,71,Partly Cloudy,FALSE,11,W
+2982353897,2015,1,Panthers,Jaguars,20,9,81,Partly Cloudy,FALSE,1,WSW
+49389595,2015,1,Seahawks,Rams,31,34,72,DOME,TRUE,3,SSW
+702220594,2015,1,Saints,Cardinals,19,31,72,DOME,TRUE,4,WSW
+1709164358,2015,1,Lions,Chargers,28,33,82,Clear,FALSE,8,W
+4155939532,2015,1,Titans,Buccaneers,42,14,81,Mostly Cloudy,FALSE,6,NNW
+3406885317,2015,1,Bengals,Raiders,33,13,75,Partly Cloudy,FALSE,9,W
+3301896342,2015,1,Ravens,Broncos,13,19,86,Partly Cloudy,FALSE,5,NNW
+3037551463,2015,1,Giants,Cowboys,26,27,78,Clear,FALSE,9,SSE
+2611429557,2015,1,Eagles,Falcons,24,26,72,DOME,TRUE,2,E
+1114024023,2015,1,Vikings,49ers,3,20,64,Mostly Cloudy,FALSE,4,SW
+2542465538,2015,2,Broncos,Chiefs,31,24,80,Mostly Cloudy,FALSE,8,SSW
+1653191059,2015,2,Texans,Panthers,17,24,88,Partly Cloudy,FALSE,2,N
+1670824757,2015,2,49ers,Steelers,18,43,69,Clear,FALSE,2,NW
+1525086823,2015,2,Buccaneers,Saints,26,19,72,DOME,TRUE,2,N
+875393389,2015,2,Lions,Vikings,16,26,70,Partly Cloudy,FALSE,12,S
+1172144494,2015,2,Cardinals,Bears,48,23,69,Partly Cloudy,FALSE,3,E
+3773965507,2015,2,Patriots,Bills,40,32,62,Clear,FALSE,4,N
+1573280883,2015,2,Chargers,Bengals,19,24,73,Partly Cloudy,FALSE,6,NE
+741063634,2015,2,Titans,Browns,14,28,66,Partly Cloudy,FALSE,11,NNE
+2483643626,2015,2,Falcons,Giants,24,20,77,Clear,FALSE,7,N
+4095084564,2015,2,Rams,Redskins,10,24,75,Partly Cloudy,FALSE,6,N
+3755926594,2015,2,Dolphins,Jaguars,20,23,83,Clear,FALSE,5,E
+608865294,2015,2,Ravens,Raiders,33,37,89,Dry and Partly Cloudy,FALSE,7,NW
+620461563,2015,2,Cowboys,Eagles,20,10,74,Clear,FALSE,7,N
+886737458,2015,2,Seahawks,Packers,17,27,54,Clear,FALSE,6,SSE
+2112951865,2015,2,Jets,Colts,20,7,72,DOME,TRUE,3,ENE
+2118822812,2015,3,Redskins,Giants,21,32,66,Clear,FALSE,2,ENE
+2790834728,2015,3,Falcons,Cowboys,39,28,89,Clear,FALSE,4,ENE
+3392360056,2015,3,Colts,Titans,35,33,77,Mostly Cloudy,FALSE,4,SE
+1645528535,2015,3,Raiders,Browns,27,20,75,Mostly Cloudy,FALSE,10,SSE
+673335223,2015,3,Bengals,Ravens,28,24,73,Mostly Cloudy,FALSE,8,ENE
+1246931833,2015,3,Jaguars,Patriots,17,51,70,Clear,FALSE,3,SSE
+1576292469,2015,3,Saints,Panthers,22,27,67,Overcast,FALSE,8,NNE
+3046453426,2015,3,Eagles,Jets,24,17,70,Partly Cloudy,FALSE,5,ESE
+2950957442,2015,3,Buccaneers,Texans,9,19,75,Mostly Cloudy,FALSE,8,NE
+2399621801,2015,3,Chargers,Vikings,14,31,80,Clear,FALSE,13,SSW
+1595941012,2015,3,Steelers,Rams,12,6,72,DOME,TRUE,4,SE
+1587853680,2015,3,49ers,Cardinals,7,47,72,DOME,TRUE,3,WSW
+1731344936,2015,3,Bills,Dolphins,41,14,80,Mostly Cloudy,FALSE,0,SW
+1228087196,2015,3,Bears,Seahawks,0,26,62,Clear,FALSE,7,NNW
+2365227534,2015,3,Broncos,Lions,24,12,72,DOME,TRUE,7,S
+2427514018,2015,3,Chiefs,Packers,28,38,62,Overcast,FALSE,3,N
+181832430,2015,4,Ravens,Steelers,23,20,54,Mostly Cloudy,FALSE,7,NE
+2965118523,2015,4,Jets,Dolphins,27,14,62,Partly Cloudy,FALSE,6,SSE
+3597648632,2015,4,Jaguars,Colts,13,16,72,DOME,TRUE,8,NE
+1408797440,2015,4,Giants,Bills,24,10,60,Mostly Cloudy,FALSE,4,E
+944252104,2015,4,Panthers,Buccaneers,37,23,75,Partly Cloudy,FALSE,7,WNW
+225944140,2015,4,Eagles,Redskins,20,23,59,Overcast,FALSE,13,NNE
+2642150257,2015,4,Raiders,Bears,20,22,56,Overcast,FALSE,8,NE
+4112027917,2015,4,Texans,Falcons,21,48,72,DOME,TRUE,9,NE
+3686985673,2015,4,Chiefs,Bengals,21,36,73,Clear,FALSE,8,ENE
+308311127,2015,4,Browns,Chargers,27,30,68,Mostly Cloudy,FALSE,7,WSW
+629042507,2015,4,Packers,49ers,17,3,76,Clear,FALSE,6,NW
+4251604736,2015,4,Rams,Cardinals,24,22,72,DOME,TRUE,14,S
+1437560828,2015,4,Vikings,Broncos,20,23,60,Mostly Cloudy,FALSE,5,NE
+2600861072,2015,4,Cowboys,Saints,20,26,72,DOME,TRUE,10,N
+1112947715,2015,4,Lions,Seahawks,10,13,61,Partly Cloudy,FALSE,2,NNE
+1541220066,2015,5,Colts,Texans,27,20,76,Mostly Cloudy,FALSE,2,SE
+836866330,2015,5,Bears,Chiefs,18,17,80,Clear,FALSE,11,SSW
+1696909938,2015,5,Seahawks,Bengals,24,27,72,Clear,FALSE,7,SSW
+3786277162,2015,5,Redskins,Falcons,19,25,72,DOME,TRUE,2,NNE
+1334485769,2015,5,Jaguars,Buccaneers,31,38,83,Clear,FALSE,9,NW
+752341594,2015,5,Saints,Eagles,17,39,67,Clear,FALSE,4,WSW
+3040173332,2015,5,Browns,Ravens,33,30,68,Clear,FALSE,0,S
+2280206542,2015,5,Rams,Packers,10,24,73,Clear,FALSE,15,SW
+3365254693,2015,5,Bills,Titans,14,13,72,Partly Cloudy,FALSE,2,SSW
+2633084080,2015,5,Cardinals,Lions,42,17,72,DOME,TRUE,15,SSW
+3457270195,2015,5,Patriots,Cowboys,30,6,92,Clear,FALSE,11,S
+1680985209,2015,5,Broncos,Raiders,16,10,76,Clear,FALSE,8,WNW
+3974142537,2015,5,49ers,Giants,27,30,57,Clear,FALSE,3,SW
+3721837201,2015,5,Steelers,Chargers,24,20,76,Partly Cloudy,FALSE,5,S
+1519669658,2015,6,Falcons,Saints,21,31,72,DOME,TRUE,2,SSE
+3756538507,2015,6,Redskins,Jets,20,34,48,Mostly Cloudy,FALSE,10,NW
+3185990013,2015,6,Cardinals,Steelers,13,25,42,Mostly Cloudy,FALSE,8,W
+3610832226,2015,6,Chiefs,Vikings,10,16,62,Clear,FALSE,15,SSE
+2849117834,2015,6,Bengals,Bills,34,21,37,Mostly Cloudy,FALSE,2,WNW
+3730472030,2015,6,Bears,Lions,34,37,72,DOME,TRUE,8,NW
+389253621,2015,6,Broncos,Browns,26,23,46,Mostly Cloudy,FALSE,11,NW
+2282974135,2015,6,Texans,Jaguars,31,20,70,Mostly Cloudy,FALSE,13,NNE
+3851884681,2015,6,Dolphins,Titans,38,10,60,Clear,FALSE,6,NE
+3455927017,2015,6,Panthers,Seahawks,27,23,59,Overcast,FALSE,4,S
+1924334331,2015,6,Chargers,Packers,20,27,49,Clear,FALSE,8,SSE
+843471263,2015,6,Ravens,49ers,20,25,68,Partly Cloudy,FALSE,10,WNW
+3033569826,2015,6,Patriots,Colts,34,27,72,DOME,TRUE,2,SSE
+2972672288,2015,6,Giants,Eagles,7,27,44,Clear,FALSE,6,SSW
+3980495879,2015,7,Seahawks,49ers,20,3,66,Clear,FALSE,3,NW
+3122003559,2015,7,Bills,Jaguars,31,34,51,Clear,FALSE,3,SSE
+2937974825,2015,7,Buccaneers,Redskins,30,31,70,Mostly Cloudy,FALSE,8,NW
+2751318122,2015,7,Falcons,Titans,10,7,61,Overcast,FALSE,8,NNE
+1543397648,2015,7,Saints,Colts,27,21,72,DOME,TRUE,7,NE
+543621571,2015,7,Vikings,Lions,28,19,72,DOME,TRUE,5,NW
+3265614938,2015,7,Steelers,Chiefs,13,23,64,Clear,FALSE,6,NE
+1576730558,2015,7,Browns,Rams,6,24,72,DOME,TRUE,7,NE
+2711671441,2015,7,Texans,Dolphins,26,44,82,Mostly Cloudy,FALSE,11,E
+845803747,2015,7,Jets,Patriots,23,30,58,Mostly Cloudy,FALSE,6,WSW
+4079249410,2015,7,Raiders,Chargers,37,29,77,Mostly Cloudy,FALSE,5,SW
+1150593285,2015,7,Cowboys,Giants,20,27,59,Partly Cloudy,FALSE,10,NNW
+2403085332,2015,7,Eagles,Panthers,16,27,64,Mostly Cloudy,FALSE,0,N
+2698714991,2015,7,Ravens,Cardinals,18,26,72,DOME,TRUE,2,WNW
+3170218907,2015,8,Dolphins,Patriots,7,36,53,Clear,FALSE,9,WSW
+3127981853,2015,8,Lions,Chiefs,10,45,57,Clear,FALSE,3,S
+2613211299,2015,8,Buccaneers,Falcons,23,20,72,DOME,TRUE,2,NNE
+991405530,2015,8,Cardinals,Browns,34,20,63,Partly Cloudy,FALSE,17,WSW
+1575415600,2015,8,49ers,Rams,6,27,72,DOME,TRUE,4,SSW
+1468824574,2015,8,Giants,Saints,49,52,72,DOME,TRUE,6,E
+779428750,2015,8,Vikings,Bears,23,20,61,Clear,FALSE,7,WSW
+895571707,2015,8,Chargers,Ravens,26,29,65,Partly Cloudy,FALSE,6,SW
+367569193,2015,8,Bengals,Steelers,16,10,63,Partly Cloudy,FALSE,9,SW
+2473828023,2015,8,Titans,Texans,6,20,68,Mostly Cloudy,FALSE,4,N
+1226648061,2015,8,Jets,Raiders,20,34,68,Partly Cloudy,FALSE,8,W
+1931609967,2015,8,Seahawks,Cowboys,13,12,63,Partly Cloudy,FALSE,0,NNE
+3997025890,2015,8,Packers,Broncos,10,29,52,Partly Cloudy,FALSE,4,WSW
+1579746174,2015,8,Colts,Panthers,26,29,62,Rain,FALSE,5,NE
+687365710,2015,9,Browns,Bengals,10,31,65,Mostly Cloudy,FALSE,5,S
+3283535168,2015,9,Packers,Panthers,29,37,53,Mostly Cloudy,FALSE,7,ENE
+1008113060,2015,9,Redskins,Patriots,10,27,54,Clear,FALSE,8,W
+2274259634,2015,9,Titans,Saints,34,28,72,DOME,TRUE,14,NNE
+1481059956,2015,9,Dolphins,Bills,17,33,47,Clear,FALSE,6,WSW
+3861060796,2015,9,Rams,Vikings,18,21,57,Clear,FALSE,14,SSW
+2966035241,2015,9,Jaguars,Jets,23,28,57,Clear,FALSE,7,WNW
+3442183489,2015,9,Raiders,Steelers,35,38,51,Clear,FALSE,0,SSE
+4001728500,2015,9,Giants,Buccaneers,32,18,77,Mostly Cloudy,FALSE,1,SE
+2487611913,2015,9,Falcons,49ers,16,17,58,Mostly Cloudy,FALSE,2,W
+1655561393,2015,9,Broncos,Colts,24,27,72,DOME,TRUE,4,ESE
+2274649326,2015,9,Eagles,Cowboys,33,27,53,Clear,FALSE,2,ENE
+3910576276,2015,9,Bears,Chargers,22,19,61,Partly Cloudy,FALSE,7,WNW
+279701424,2015,10,Bills,Jets,22,17,56,Partly Cloudy,FALSE,9,WSW
+70332496,2015,10,Lions,Packers,18,16,57,Clear,FALSE,6,SW
+935602552,2015,10,Cowboys,Buccaneers,6,10,77,Partly Cloudy,FALSE,9,E
+1413527821,2015,10,Panthers,Titans,27,10,60,Partly Cloudy,FALSE,3,ESE
+3144360461,2015,10,Bears,Rams,37,13,72,DOME,TRUE,8,SSW
+422230939,2015,10,Saints,Redskins,14,47,62,Clear,FALSE,7,SW
+1608599262,2015,10,Dolphins,Eagles,20,19,59,Clear,FALSE,9,WSW
+705579561,2015,10,Browns,Steelers,9,30,60,Clear,FALSE,6,SW
+2000979387,2015,10,Jaguars,Ravens,22,20,63,Clear,FALSE,5,WSW
+3652709642,2015,10,Vikings,Raiders,30,14,57,Clear,FALSE,15,WNW
+2852365396,2015,10,Patriots,Giants,27,26,54,Clear,FALSE,5,WSW
+2067744788,2015,10,Chiefs,Broncos,29,13,59,Partly Cloudy,FALSE,1,NE
+1535232987,2015,10,Cardinals,Seahawks,39,32,42,Partly Cloudy,FALSE,1,SSE
+2872634693,2015,10,Texans,Bengals,10,6,49,Partly Cloudy,FALSE,2,S
+3167487938,2015,11,Titans,Jaguars,13,19,71,Partly Cloudy,FALSE,2,NW
+3896050575,2015,11,Raiders,Lions,13,18,72,DOME,TRUE,10,W
+938248051,2015,11,Colts,Falcons,24,21,72,DOME,TRUE,8,NW
+165243300,2015,11,Jets,Texans,17,24,52,Clear,FALSE,5,N
+3121491062,2015,11,Buccaneers,Eagles,45,17,48,Mostly Cloudy,FALSE,10,NW
+2362146688,2015,11,Broncos,Bears,17,15,29,Clear,FALSE,6,SSW
+3674888024,2015,11,Rams,Ravens,13,16,47,Partly Cloudy,FALSE,10,NNW
+3813465557,2015,11,Cowboys,Dolphins,24,14,75,Partly Cloudy,FALSE,10,WSW
+4288534288,2015,11,Redskins,Panthers,16,44,52,Partly Cloudy,FALSE,8,N
+2201178196,2015,11,Chiefs,Chargers,33,3,78,Clear,FALSE,4,WNW
+2245821838,2015,11,Packers,Vikings,30,13,32,Mostly Cloudy,FALSE,7,S
+2824955771,2015,11,49ers,Seahawks,13,29,48,Partly Cloudy,FALSE,3,NNW
+2032135508,2015,11,Bengals,Cardinals,31,34,72,DOME,TRUE,2,N
+1319698864,2015,11,Bills,Patriots,13,20,28,Clear,FALSE,5,WNW
+2595686547,2015,12,Eagles,Lions,14,45,72,DOME,TRUE,15,SSW
+464018726,2015,12,Panthers,Cowboys,33,14,68,Humid and Mostly Cloudy,FALSE,11,SE
+73278541,2015,12,Bears,Packers,17,13,35,Light Rain,FALSE,10,N
+4113660910,2015,12,Saints,Texans,6,24,55,Overcast,FALSE,8,NNW
+2690618068,2015,12,Rams,Bengals,7,31,45,Mostly Cloudy,FALSE,6,NE
+1455007950,2015,12,Vikings,Falcons,20,10,72,DOME,TRUE,1,S
+175923092,2015,12,Giants,Redskins,14,20,46,Overcast,FALSE,5,N
+3521470610,2015,12,Buccaneers,Colts,12,25,72,DOME,TRUE,8,NE
+2013563109,2015,12,Bills,Chiefs,22,30,34,Light Rain,FALSE,5,NE
+2757850836,2015,12,Raiders,Titans,24,21,57,Overcast,FALSE,2,NNE
+1936335678,2015,12,Chargers,Jaguars,31,25,75,Clear,FALSE,6,NE
+3938724484,2015,12,Dolphins,Jets,20,38,48,Clear,FALSE,5,NNW
+2043231368,2015,12,Cardinals,49ers,19,13,57,Clear,FALSE,2,NNW
+1547056713,2015,12,Steelers,Seahawks,30,39,37,Mostly Cloudy,FALSE,2,SSW
+609882480,2015,12,Patriots,Broncos,24,30,21,Light Snow,FALSE,0,NNW
+4019344675,2015,12,Ravens,Browns,33,27,42,Mostly Cloudy,FALSE,8,E
+3447381819,2015,13,Packers,Lions,27,23,72,DOME,TRUE,11,WSW
+3676808278,2015,13,Jets,Giants,23,20,52,Clear,FALSE,5,SSW
+3212516949,2015,13,Cardinals,Rams,27,3,72,DOME,TRUE,4,SW
+2329299866,2015,13,Falcons,Buccaneers,19,23,78,Partly Cloudy,FALSE,11,NE
+102036048,2015,13,Seahawks,Vikings,38,7,36,Overcast,FALSE,3,W
+3008689313,2015,13,Texans,Bills,21,30,49,Mostly Cloudy,FALSE,4,WSW
+2791236094,2015,13,Ravens,Dolphins,13,15,78,Mostly Cloudy,FALSE,14,NE
+779198663,2015,13,Bengals,Browns,37,3,46,Mostly Cloudy,FALSE,5,SW
+4284373843,2015,13,Jaguars,Titans,39,42,56,Mostly Cloudy,FALSE,4,SSW
+1102179899,2015,13,49ers,Bears,26,20,46,Clear,FALSE,4,SSW
+163101624,2015,13,Broncos,Chargers,17,3,71,Partly Cloudy,FALSE,7,NW
+1626773640,2015,13,Chiefs,Raiders,34,20,60,Mostly Cloudy,FALSE,3,WSW
+3943875059,2015,13,Panthers,Saints,41,38,72,DOME,TRUE,3,NNE
+871150195,2015,13,Eagles,Patriots,35,28,44,Clear,FALSE,5,SSW
+906833048,2015,13,Colts,Steelers,10,45,35,Partly Cloudy,FALSE,2,S
+3980447639,2015,13,Cowboys,Redskins,19,16,44,Partly Cloudy,FALSE,2,SW
+1756677465,2015,14,Vikings,Cardinals,20,23,72,DOME,TRUE,1,NE
+850975861,2015,14,Bills,Eagles,20,23,69,Mostly Cloudy,FALSE,1,SW
+551553183,2015,14,49ers,Browns,10,24,62,Mostly Cloudy,FALSE,8,SSE
+2020825614,2015,14,Lions,Rams,14,21,72,DOME,TRUE,15,SSE
+1965608038,2015,14,Saints,Buccaneers,24,17,80,Partly Cloudy,FALSE,12,ESE
+1850145853,2015,14,Titans,Jets,8,30,65,Mostly Cloudy,FALSE,4,ENE
+19157043,2015,14,Steelers,Bengals,33,20,65,Partly Cloudy,FALSE,6,SSE
+1541970280,2015,14,Colts,Jaguars,16,51,77,Partly Cloudy,FALSE,8,E
+1647777319,2015,14,Chargers,Chiefs,3,10,60,Light Rain,FALSE,11,SSE
+785853856,2015,14,Redskins,Bears,24,21,58,Overcast,FALSE,11,S
+1410948813,2015,14,Falcons,Panthers,0,38,70,Mostly Cloudy,FALSE,6,S
+3864282273,2015,14,Seahawks,Ravens,35,6,66,Mostly Cloudy,FALSE,3,SE
+792631884,2015,14,Raiders,Broncos,15,12,39,Partly Cloudy,FALSE,2,N
+200287758,2015,14,Cowboys,Packers,7,28,52,Drizzle,FALSE,9,S
+2101597063,2015,14,Patriots,Texans,27,6,52,Partly Cloudy,FALSE,3,S
+1145882244,2015,14,Giants,Dolphins,31,24,75,Humid,FALSE,5,SE
+217578509,2015,15,Buccaneers,Rams,23,31,72,DOME,TRUE,6,WNW
+3850656241,2015,15,Jets,Cowboys,19,16,50,Clear,FALSE,7,SSE
+3051732243,2015,15,Bears,Vikings,17,38,36,Mostly Cloudy,FALSE,3,SSW
+2348078444,2015,15,Falcons,Jaguars,23,17,68,Clear,FALSE,7,ENE
+1966929135,2015,15,Texans,Colts,16,10,72,DOME,TRUE,13,S
+1717900575,2015,15,Panthers,Giants,38,35,41,Clear,FALSE,4,W
+2368703144,2015,15,Titans,Patriots,16,33,39,Clear,FALSE,5,W
+2996019128,2015,15,Bills,Redskins,25,35,45,Clear,FALSE,3,S
+4268098523,2015,15,Chiefs,Ravens,34,14,43,Clear,FALSE,3,SSW
+1245039877,2015,15,Browns,Seahawks,13,30,44,Mostly Cloudy,FALSE,8,SSW
+2914219193,2015,15,Packers,Raiders,30,20,51,Overcast,FALSE,10,S
+3122653069,2015,15,Broncos,Steelers,27,34,36,Clear,FALSE,3,SE
+3511422380,2015,15,Dolphins,Chargers,14,30,60,Partly Cloudy,FALSE,6,W
+1843619380,2015,15,Bengals,49ers,24,14,52,Mostly Cloudy,FALSE,5,S
+1110727194,2015,15,Cardinals,Eagles,40,17,34,Clear,FALSE,3,S
+2174955893,2015,15,Lions,Saints,35,27,72,DOME,TRUE,2,SSW
+770319341,2015,16,Chargers,Raiders,20,23,46,Clear,FALSE,8,WNW
+2972106817,2015,16,Redskins,Eagles,38,24,50,Overcast,FALSE,5,ENE
+3419865994,2015,16,Patriots,Jets,20,26,56,Overcast,FALSE,7,SW
+1499094903,2015,16,Texans,Titans,34,6,72,Mostly Cloudy,FALSE,10,SSW
+3011677838,2015,16,Browns,Chiefs,13,17,34,Overcast,FALSE,12,NNE
+4294536544,2015,16,Colts,Dolphins,18,12,81,Partly Cloudy,FALSE,13,ESE
+3823915819,2015,16,49ers,Lions,17,32,72,DOME,TRUE,13,NNW
+3336842921,2015,16,Cowboys,Bills,6,16,37,Mostly Cloudy,FALSE,5,NW
+2430938429,2015,16,Bears,Buccaneers,26,21,83,Clear,FALSE,11,SE
+1404157857,2015,16,Panthers,Falcons,13,20,72,DOME,TRUE,5,S
+1880774433,2015,16,Steelers,Ravens,17,20,63,Overcast,FALSE,6,SW
+926197540,2015,16,Jaguars,Saints,27,38,72,DOME,TRUE,11,SE
+1302504579,2015,16,Rams,Seahawks,23,17,37,Rain,FALSE,2,SSE
+1948226587,2015,16,Packers,Cardinals,8,38,72,DOME,TRUE,2,WSW
+2170969167,2015,16,Giants,Vikings,17,49,12,Clear,FALSE,5,N
+3080380345,2015,16,Bengals,Broncos,17,20,16,Partly Cloudy,FALSE,0,NW
+2508833853,2015,17,Jets,Bills,17,22,30,Partly Cloudy,FALSE,10,WSW
+2418198477,2015,17,Patriots,Dolphins,10,20,78,Mostly Cloudy,FALSE,4,NE
+1633450174,2015,17,Saints,Falcons,20,17,72,DOME,TRUE,8,WNW
+862684234,2015,17,Ravens,Bengals,16,24,33,Mostly Cloudy,FALSE,5,NW
+3175305787,2015,17,Steelers,Browns,28,12,34,Mostly Cloudy,FALSE,12,WNW
+3093970121,2015,17,Jaguars,Texans,6,30,56,Partly Cloudy,FALSE,4,NNW
+166338300,2015,17,Titans,Colts,24,30,72,DOME,TRUE,6,NW
+2432486148,2015,17,Redskins,Cowboys,34,23,54,Clear,FALSE,4,NNW
+2306997346,2015,17,Eagles,Giants,35,30,44,Clear,FALSE,10,W
+3790045007,2015,17,Lions,Bears,24,20,30,Mostly Cloudy,FALSE,10,NW
+2641122053,2015,17,Buccaneers,Panthers,10,38,48,Clear,FALSE,5,SSW
+1082800497,2015,17,Raiders,Chiefs,17,23,32,Clear,FALSE,7,N
+2867179126,2015,17,Chargers,Broncos,20,27,44,Clear,FALSE,0,NE
+2209357045,2015,17,Seahawks,Cardinals,36,6,72,DOME,TRUE,6,ESE
+30157317,2015,17,Rams,49ers,16,19,57,Partly Cloudy,FALSE,0,NW
+3844375233,2015,17,Vikings,Packers,20,13,23,Overcast,FALSE,5,W
+3622651812,2016,1,Panthers,Broncos,20,21,82,Clear,FALSE,2,SSE
+80061448,2016,1,Buccaneers,Falcons,31,24,72,DOME,TRUE,2,NNW
+3734826715,2016,1,Vikings,Titans,25,16,77,Clear,FALSE,3,NE
+3261125548,2016,1,Browns,Eagles,10,29,83,Clear,FALSE,9,NW
+777119243,2016,1,Bengals,Jets,23,22,80,Partly Cloudy,FALSE,9,NW
+2870232606,2016,1,Raiders,Saints,35,34,72,DOME,TRUE,3,E
+3645638689,2016,1,Chargers,Chiefs,27,33,73,Clear,FALSE,7,S
+151026554,2016,1,Bills,Ravens,7,13,82,Partly Cloudy,FALSE,7,NW
+231828708,2016,1,Bears,Texans,14,23,87,Clear,FALSE,2,NNE
+2079007213,2016,1,Packers,Jaguars,27,23,91,Partly Cloudy,FALSE,1,ESE
+3787247812,2016,1,Dolphins,Seahawks,10,12,64,Partly Cloudy,FALSE,2,W
+1190573897,2016,1,Giants,Cowboys,20,19,87,Clear,FALSE,2,N
+3075049823,2016,1,Lions,Colts,39,35,72,DOME,TRUE,0,E
+3263265937,2016,1,Patriots,Cardinals,23,21,72,DOME,TRUE,6,WSW
+2439007873,2016,1,Steelers,Redskins,38,16,76,Clear,FALSE,3,E
+3005848279,2016,1,Rams,49ers,0,28,60,Clear,FALSE,6,WNW
+3618333994,2016,2,Jets,Bills,37,31,54,Clear,FALSE,2,NE
+1503475350,2016,2,49ers,Panthers,27,46,85,Partly Cloudy,FALSE,3,SE
+542892304,2016,2,Cowboys,Redskins,27,23,84,Clear,FALSE,5,S
+4262793345,2016,2,Bengals,Steelers,16,24,71,Humid and Mostly Cloudy,FALSE,3,SSE
+1726017273,2016,2,Saints,Giants,13,16,79,Partly Cloudy,FALSE,5,SSW
+3249566775,2016,2,Dolphins,Patriots,24,31,78,Partly Cloudy,FALSE,6,SSW
+1770442959,2016,2,Chiefs,Texans,12,19,89,Partly Cloudy,FALSE,2,WSW
+3932715746,2016,2,Titans,Lions,16,15,72,DOME,TRUE,3,SSW
+1489081382,2016,2,Ravens,Browns,25,20,75,Partly Cloudy,FALSE,5,NW
+780490138,2016,2,Seahawks,Rams,3,9,85,Clear,FALSE,4,WSW
+1116025649,2016,2,Buccaneers,Cardinals,7,40,72,DOME,TRUE,1,SE
+2713126841,2016,2,Jaguars,Chargers,14,38,78,Clear,FALSE,5,WSW
+1286928539,2016,2,Falcons,Raiders,35,28,83,Clear,FALSE,3,WNW
+839961731,2016,2,Colts,Broncos,20,34,86,Clear,FALSE,1,N
+1222379004,2016,2,Packers,Vikings,14,17,72,DOME,TRUE,4,S
+2603926300,2016,2,Eagles,Bears,29,14,80,Clear,FALSE,2,S
+7384742,2016,3,Texans,Patriots,0,27,68,Clear,FALSE,3,S
+157908799,2016,3,Cardinals,Bills,18,33,62,Clear,FALSE,1,NE
+3751357029,2016,3,Raiders,Titans,17,10,89,Clear,FALSE,3,NW
+711023544,2016,3,Redskins,Giants,29,27,67,Clear,FALSE,4,NNW
+3069443902,2016,3,Browns,Dolphins,24,30,85,Partly Cloudy,FALSE,7,E
+637631798,2016,3,Ravens,Jaguars,19,17,87,Partly Cloudy,FALSE,4,NE
+3418699831,2016,3,Lions,Packers,27,34,72,Mostly Cloudy,FALSE,10,SSE
+2659810400,2016,3,Broncos,Bengals,29,17,82,Clear,FALSE,0,S
+748467064,2016,3,Vikings,Panthers,22,10,84,Mostly Cloudy,FALSE,2,NE
+2287550181,2016,3,Rams,Buccaneers,37,32,89,Partly Cloudy,FALSE,3,W
+1479830658,2016,3,49ers,Seahawks,18,37,69,Partly Cloudy,FALSE,2,NW
+1839093071,2016,3,Jets,Chiefs,3,24,65,Mostly Cloudy,FALSE,6,NW
+168373960,2016,3,Chargers,Colts,22,26,72,DOME,TRUE,4,S
+2523920758,2016,3,Steelers,Eagles,3,34,71,Clear,FALSE,1,NW
+4026356328,2016,3,Bears,Cowboys,17,31,75,Humid and Mostly Cloudy,FALSE,4,N
+3326836758,2016,3,Falcons,Saints,45,32,72,DOME,TRUE,0,NE
+624367494,2016,4,Dolphins,Bengals,7,22,59,Mostly Cloudy,FALSE,0,NNW
+255026524,2016,4,Colts,Jaguars,27,30,58,Partly Cloudy,FALSE,6,NNW
+2574906458,2016,4,Titans,Texans,20,27,82,Clear,FALSE,4,NE
+1824766067,2016,4,Browns,Redskins,20,31,70,Mostly Cloudy,FALSE,1,N
+557382127,2016,4,Seahawks,Jets,27,17,61,Overcast,FALSE,0,NNE
+2614525781,2016,4,Bills,Patriots,16,0,56,Overcast,FALSE,2,N
+1110194527,2016,4,Panthers,Falcons,33,48,72,DOME,TRUE,0,NW
+1587589258,2016,4,Raiders,Ravens,28,27,67,Mostly Cloudy,FALSE,0,ESE
+1957298190,2016,4,Lions,Bears,14,17,64,Mostly Cloudy,FALSE,2,W
+738853110,2016,4,Broncos,Buccaneers,27,7,89,Drizzle,FALSE,4,N
+524790321,2016,4,Rams,Cardinals,17,13,72,DOME,TRUE,4,E
+1993663326,2016,4,Saints,Chargers,35,34,73,Clear,FALSE,6,WSW
+4102558280,2016,4,Cowboys,49ers,24,17,68,Partly Cloudy,FALSE,8,WNW
+968542807,2016,4,Chiefs,Steelers,14,43,60,Rain,FALSE,0,SSW
+4134389536,2016,4,Giants,Vikings,10,24,72,DOME,TRUE,6,ESE
+4064590999,2016,5,Cardinals,49ers,33,21,72,Clear,FALSE,7,NW
+4111890748,2016,5,Patriots,Browns,33,13,57,Partly Cloudy,FALSE,9,NW
+915824025,2016,5,Eagles,Lions,23,24,72,DOME,TRUE,6,NNW
+893151562,2016,5,Bears,Colts,23,29,72,DOME,TRUE,0,ESE
+1825967202,2016,5,Titans,Dolphins,30,17,87,Clear,FALSE,12,NE
+1912954437,2016,5,Redskins,Ravens,16,10,61,Partly Cloudy,FALSE,12,NNW
+2980769394,2016,5,Texans,Vikings,13,31,72,DOME,TRUE,4,SSE
+912299872,2016,5,Jets,Steelers,13,31,57,Partly Cloudy,FALSE,6,NW
+3039426849,2016,5,Falcons,Broncos,23,16,73,Mostly Cloudy,FALSE,1,ENE
+4068130002,2016,5,Bengals,Cowboys,14,28,74,Clear,FALSE,3,NE
+933476192,2016,5,Bills,Rams,30,19,87,Clear,FALSE,5,WSW
+503095525,2016,5,Chargers,Raiders,31,34,78,Clear,FALSE,4,WNW
+1158643745,2016,5,Giants,Packers,16,23,48,Clear,FALSE,2,E
+3127497018,2016,5,Buccaneers,Panthers,17,14,57,Clear,FALSE,2,ENE
+1969769175,2016,6,Broncos,Chargers,13,21,69,Clear,FALSE,6,WNW
+2534335455,2016,6,49ers,Bills,16,45,72,Mostly Cloudy,FALSE,9,SW
+2954226691,2016,6,Eagles,Redskins,20,27,69,Clear,FALSE,5,SSW
+1445208452,2016,6,Browns,Titans,26,28,79,Partly Cloudy,FALSE,7,S
+2293298459,2016,6,Ravens,Giants,23,27,66,Mostly Cloudy,FALSE,6,SSW
+1099436708,2016,6,Panthers,Saints,38,41,72,DOME,TRUE,4,ENE
+565712028,2016,6,Jaguars,Bears,17,16,67,Overcast,FALSE,3,SSW
+2359628703,2016,6,Rams,Lions,28,31,72,DOME,TRUE,11,SW
+3703060232,2016,6,Steelers,Dolphins,15,30,82,Partly Cloudy,FALSE,11,ENE
+2458820088,2016,6,Bengals,Patriots,17,35,66,Clear,FALSE,7,SSW
+3547580588,2016,6,Chiefs,Raiders,26,10,61,Light Rain,FALSE,5,WSW
+1765446190,2016,6,Falcons,Seahawks,24,26,54,Mostly Cloudy,FALSE,5,S
+3812860050,2016,6,Cowboys,Packers,30,16,67,Clear,FALSE,4,NE
+124334262,2016,6,Colts,Texans,23,26,80,Clear,FALSE,6,SE
+1550338886,2016,6,Jets,Cardinals,3,28,72,DOME,TRUE,4,SW
+2921695310,2016,7,Bears,Packers,10,26,47,Mostly Cloudy,FALSE,3,NNW
+2227398611,2016,7,Giants,Rams,17,10,54,Partly Cloudy,FALSE,10,ENE
+2775355860,2016,7,Saints,Chiefs,21,27,69,Clear,FALSE,6,WSW
+3882977553,2016,7,Colts,Titans,34,26,71,Clear,FALSE,5,SW
+1175848776,2016,7,Vikings,Eagles,10,21,61,Mostly Cloudy,FALSE,10,W
+2491401840,2016,7,Browns,Bengals,17,31,66,Clear,FALSE,6,SSW
+2712589068,2016,7,Redskins,Lions,17,20,72,DOME,TRUE,5,SSW
+1099183690,2016,7,Raiders,Jaguars,33,16,72,Clear,FALSE,5,NNE
+3413647899,2016,7,Bills,Dolphins,25,28,80,Partly Cloudy,FALSE,10,NE
+2100124988,2016,7,Ravens,Jets,16,24,58,Partly Cloudy,FALSE,11,W
+2422288260,2016,7,Buccaneers,49ers,34,17,69,Clear,FALSE,2,W
+723720938,2016,7,Chargers,Falcons,33,30,72,DOME,TRUE,2,WNW
+539138304,2016,7,Patriots,Steelers,27,16,63,Clear,FALSE,6,SW
+3767943785,2016,7,Seahawks,Cardinals,6,6,72,DOME,TRUE,1,WNW
+2303141321,2016,7,Texans,Broncos,9,27,66,Partly Cloudy,FALSE,2,NE
+857710911,2016,8,Jaguars,Titans,22,36,66,Clear,FALSE,4,NNW
+2022036405,2016,8,Redskins,Bengals,27,27,52,Mostly Cloudy,FALSE,3,ESE
+4094227737,2016,8,Chiefs,Colts,30,14,72,DOME,TRUE,5,NW
+586058087,2016,8,Raiders,Buccaneers,30,24,84,Clear,FALSE,10,ENE
+2986553100,2016,8,Seahawks,Saints,20,25,72,DOME,TRUE,4,ENE
+2466950605,2016,8,Lions,Texans,13,20,80,Clear,FALSE,3,ENE
+2933971859,2016,8,Jets,Browns,31,28,54,Mostly Cloudy,FALSE,9,N
+3551202283,2016,8,Patriots,Bills,41,25,50,Drizzle,FALSE,2,NW
+4202906004,2016,8,Chargers,Broncos,19,27,75,Mostly Cloudy,FALSE,3,ESE
+1974495530,2016,8,Packers,Falcons,32,33,72,DOME,TRUE,3,WNW
+1263173885,2016,8,Cardinals,Panthers,20,30,80,Clear,FALSE,4,WSW
+3908724417,2016,8,Eagles,Cowboys,23,29,78,Clear,FALSE,3,SSE
+2056309578,2016,8,Vikings,Bears,10,20,57,Drizzle,FALSE,3,SSE
+1900862633,2016,9,Falcons,Buccaneers,43,28,75,Partly Cloudy,FALSE,2,NNE
+329217003,2016,9,Lions,Vikings,22,16,72,DOME,TRUE,5,S
+3776217347,2016,9,Eagles,Giants,23,28,57,Clear,FALSE,8,NNW
+2736012650,2016,9,Jets,Dolphins,23,27,79,Clear,FALSE,11,ENE
+3829135438,2016,9,Jaguars,Chiefs,14,19,60,Clear,FALSE,6,SSE
+4180946457,2016,9,Cowboys,Browns,35,10,56,Clear,FALSE,2,NW
+2056004119,2016,9,Steelers,Ravens,14,21,63,Mostly Cloudy,FALSE,10,NNW
+4283792752,2016,9,Saints,49ers,41,23,68,Partly Cloudy,FALSE,1,NW
+1088400211,2016,9,Panthers,Rams,13,10,72,Clear,FALSE,3,SSW
+3915669805,2016,9,Colts,Packers,31,26,67,Clear,FALSE,5,SSW
+2068474872,2016,9,Titans,Chargers,35,43,74,Clear,FALSE,3,W
+1198001909,2016,9,Broncos,Raiders,20,30,67,Partly Cloudy,FALSE,3,WNW
+1337909599,2016,9,Bills,Seahawks,25,31,60,Mostly Cloudy,FALSE,0,WNW
+470626670,2016,10,Browns,Ravens,7,28,52,Clear,FALSE,1,SW
+1097092969,2016,10,Texans,Jaguars,24,21,71,Partly Cloudy,FALSE,6,N
+2708783759,2016,10,Broncos,Saints,25,23,72,DOME,TRUE,4,N
+644423993,2016,10,Rams,Jets,9,6,55,Clear,FALSE,4,W
+2511725417,2016,10,Falcons,Eagles,15,24,54,Clear,FALSE,6,W
+3382238733,2016,10,Chiefs,Panthers,20,17,48,Partly Cloudy,FALSE,4,N
+3742929021,2016,10,Bears,Buccaneers,10,36,77,Clear,FALSE,2,SE
+3102043717,2016,10,Vikings,Redskins,20,26,55,Clear,FALSE,4,WSW
+1273395146,2016,10,Packers,Titans,25,47,55,Clear,FALSE,0,NNW
+437225219,2016,10,Dolphins,Chargers,31,24,84,Clear,FALSE,3,WNW
+2770832997,2016,10,49ers,Cardinals,20,23,72,DOME,TRUE,1,SSE
+626218825,2016,10,Cowboys,Steelers,35,30,54,Clear,FALSE,2,SW
+2156663836,2016,10,Seahawks,Patriots,31,24,45,Clear,FALSE,2,SW
+47758734,2016,10,Bengals,Giants,20,21,54,Overcast,FALSE,1,SSW
+4186272997,2016,11,Saints,Panthers,20,23,57,Clear,FALSE,2,S
+3197579327,2016,11,Steelers,Browns,24,9,35,Overcast,FALSE,16,WNW
+2861115958,2016,11,Ravens,Cowboys,17,27,53,Clear,FALSE,7,S
+1964602199,2016,11,Jaguars,Lions,19,26,72,DOME,TRUE,16,NW
+2435215001,2016,11,Titans,Colts,17,24,72,DOME,TRUE,7,WNW
+4130307264,2016,11,Bills,Bengals,16,12,37,Overcast,FALSE,7,WNW
+972023514,2016,11,Buccaneers,Chiefs,19,17,43,Partly Cloudy,FALSE,8,SE
+2780672315,2016,11,Bears,Giants,16,22,40,Mostly Cloudy,FALSE,12,W
+2619071229,2016,11,Cardinals,Vikings,24,30,72,DOME,TRUE,2,ESE
+3462048880,2016,11,Dolphins,Rams,14,10,63,Partly Cloudy,FALSE,4,SW
+4106514074,2016,11,Patriots,49ers,30,17,61,Light Rain,FALSE,1,SSW
+962356163,2016,11,Eagles,Seahawks,15,26,51,Overcast,FALSE,4,S
+979872935,2016,11,Packers,Redskins,24,42,38,Partly Cloudy,FALSE,15,W
+1693506225,2016,11,Texans,Raiders,20,27,62,Clear,FALSE,0,SW
+19499129,2016,12,Vikings,Lions,13,16,72,DOME,TRUE,7,WSW
+3612890665,2016,12,Redskins,Cowboys,26,31,69,Clear,FALSE,5,S
+3055037601,2016,12,Steelers,Colts,28,7,72,DOME,TRUE,4,W
+3341336301,2016,12,Titans,Bears,27,21,38,Foggy,FALSE,5,S
+386781076,2016,12,Jaguars,Bills,21,28,38,Mostly Cloudy,FALSE,6,W
+770017673,2016,12,Bengals,Ravens,14,19,49,Clear,FALSE,8,NW
+1876342955,2016,12,Cardinals,Falcons,19,38,72,DOME,TRUE,0,NE
+3079819057,2016,12,Giants,Browns,27,13,46,Clear,FALSE,10,SSW
+315702556,2016,12,Rams,Saints,21,49,72,DOME,TRUE,2,E
+713871166,2016,12,49ers,Dolphins,24,31,79,Clear,FALSE,10,NNE
+2211898257,2016,12,Chargers,Texans,21,13,67,Clear,FALSE,9,SE
+3550728842,2016,12,Seahawks,Buccaneers,5,14,78,Partly Cloudy,FALSE,7,E
+3896970127,2016,12,Panthers,Raiders,32,35,56,Clear,FALSE,6,NW
+2854899067,2016,12,Patriots,Jets,22,17,48,Partly Cloudy,FALSE,8,WNW
+2616272597,2016,12,Chiefs,Broncos,30,27,44,Mostly Cloudy,FALSE,6,WNW
+553224781,2016,12,Packers,Eagles,27,13,47,Partly Cloudy,FALSE,4,S
+2587575389,2016,13,Cowboys,Vikings,17,15,72,DOME,TRUE,5,NW
+2008923982,2016,13,Chiefs,Falcons,29,28,72,DOME,TRUE,5,ENE
+822660292,2016,13,Lions,Saints,28,13,72,DOME,TRUE,1,WNW
+3198442799,2016,13,Rams,Patriots,10,26,37,Partly Cloudy,FALSE,7,NNW
+2636634016,2016,13,Broncos,Jaguars,20,10,75,Partly Cloudy,FALSE,3,ESE
+1458418651,2016,13,Texans,Packers,13,21,31,Snow,FALSE,4,SSE
+2524477822,2016,13,Eagles,Bengals,14,32,41,Mostly Cloudy,FALSE,3,ESE
+546076106,2016,13,Dolphins,Ravens,6,38,45,Clear,FALSE,3,NNW
+4085365127,2016,13,49ers,Bears,6,26,35,Light Rain,FALSE,5,ESE
+899029369,2016,13,Bills,Raiders,24,38,55,Clear,FALSE,2,WNW
+3423429491,2016,13,Giants,Steelers,14,24,40,Partly Cloudy,FALSE,2,E
+3805449469,2016,13,Redskins,Cardinals,23,31,72,DOME,TRUE,1,SSW
+1779524018,2016,13,Buccaneers,Chargers,28,21,71,Clear,FALSE,3,WNW
+860991945,2016,13,Panthers,Seahawks,7,40,41,Mostly Cloudy,FALSE,1,S
+252168133,2016,13,Colts,Jets,41,10,43,Clear,FALSE,2,WNW
+3101325491,2016,14,Raiders,Chiefs,13,21,23,Clear,FALSE,4,NW
+3319185478,2016,14,Steelers,Bills,27,20,24,Snow,FALSE,6,S
+3307707912,2016,14,Broncos,Titans,10,13,48,Partly Cloudy,FALSE,11,S
+1572419714,2016,14,Saints,Buccaneers,11,16,75,Partly Cloudy,FALSE,9,E
+3364233535,2016,14,Redskins,Eagles,27,22,33,Mostly Cloudy,FALSE,2,S
+4218695135,2016,14,Cardinals,Dolphins,23,26,75,Partly Cloudy,FALSE,15,E
+5936886,2016,14,Chargers,Panthers,16,28,42,Mostly Cloudy,FALSE,2,SSE
+586276457,2016,14,Bengals,Browns,23,10,28,Light Snow,FALSE,13,SSE
+338826407,2016,14,Bears,Lions,17,20,72,DOME,TRUE,12,S
+2412579254,2016,14,Texans,Colts,22,17,72,DOME,TRUE,8,S
+1986089590,2016,14,Vikings,Jaguars,25,16,66,Clear,FALSE,1,ENE
+2061943249,2016,14,Jets,49ers,23,17,53,Partly Cloudy,FALSE,3,NNW
+2191205857,2016,14,Falcons,Rams,42,14,64,Mostly Cloudy,FALSE,2,SW
+4231583731,2016,14,Seahawks,Packers,10,38,27,Mostly Cloudy,FALSE,2,SW
+2699398532,2016,14,Cowboys,Giants,7,10,30,Mostly Cloudy,FALSE,2,SSW
+2520957201,2016,14,Ravens,Patriots,23,30,33,Clear,FALSE,1,SW
+92790720,2016,15,Rams,Seahawks,3,24,35,Mostly Cloudy,FALSE,3,NNE
+869469253,2016,15,Dolphins,Jets,34,13,34,Mostly Cloudy,FALSE,3,SW
+826403434,2016,15,Packers,Bears,30,27,9,Partly Cloudy,FALSE,7,WNW
+99877661,2016,15,Jaguars,Texans,20,21,37,Mostly Cloudy,FALSE,11,N
+2239929308,2016,15,Browns,Bills,13,33,25,Mostly Cloudy,FALSE,12,WNW
+1737997452,2016,15,Eagles,Ravens,26,27,58,Light Rain,FALSE,6,WNW
+755734231,2016,15,Titans,Chiefs,19,17,2,Clear,FALSE,2,NW
+100367975,2016,15,Lions,Giants,6,17,48,Mostly Cloudy,FALSE,4,SW
+538640617,2016,15,Colts,Vikings,34,6,72,DOME,TRUE,3,SSW
+3207122706,2016,15,Steelers,Bengals,24,20,26,Mostly Cloudy,FALSE,7,WNW
+2671586128,2016,15,Saints,Cardinals,48,41,72,DOME,TRUE,2,N
+454257171,2016,15,49ers,Falcons,13,41,72,DOME,TRUE,6,NW
+3816199855,2016,15,Patriots,Broncos,16,3,27,Clear,FALSE,3,N
+744672426,2016,15,Raiders,Chargers,19,16,60,Clear,FALSE,2,NNW
+1664316742,2016,15,Buccaneers,Cowboys,20,26,26,Clear,FALSE,7,N
+3101850875,2016,15,Panthers,Redskins,26,15,30,Partly Cloudy,FALSE,3,NNE
+3299940198,2016,16,Giants,Eagles,19,24,41,Mostly Cloudy,FALSE,8,NW
+2706134543,2016,16,Dolphins,Bills,34,31,35,Overcast,FALSE,7,W
+1101518891,2016,16,Buccaneers,Saints,24,31,72,DOME,TRUE,4,SE
+2808554837,2016,16,Jets,Patriots,3,41,40,Light Rain,FALSE,4,SW
+3005827885,2016,16,Titans,Jaguars,17,38,65,Mostly Cloudy,FALSE,2,NNW
+2532200825,2016,16,Vikings,Packers,25,38,35,Mostly Cloudy,FALSE,4,W
+3591311948,2016,16,Chargers,Browns,17,20,37,Mostly Cloudy,FALSE,10,W
+1515750415,2016,16,Redskins,Bears,41,21,35,Mostly Cloudy,FALSE,1,WNW
+3652065322,2016,16,Falcons,Panthers,33,16,52,Partly Cloudy,FALSE,4,SSW
+812955732,2016,16,Colts,Raiders,25,33,48,Clear,FALSE,5,NW
+1166790366,2016,16,Cardinals,Seahawks,34,31,39,Mostly Cloudy,FALSE,2,NNW
+3965722712,2016,16,49ers,Rams,22,21,55,Clear,FALSE,7,WNW
+1461747075,2016,16,Bengals,Texans,10,12,72,Partly Cloudy,FALSE,8,SE
+1071074119,2016,16,Ravens,Steelers,27,31,39,Partly Cloudy,FALSE,4,NNE
+2534382819,2016,16,Broncos,Chiefs,10,33,60,Heavy Rain,FALSE,11,S
+3919559570,2016,16,Lions,Cowboys,21,42,65,Mostly Cloudy,FALSE,0,NNE
+1642863122,2016,17,Browns,Steelers,24,27,38,Clear,FALSE,1,SW
+3704307052,2016,17,Ravens,Bengals,10,27,38,Foggy,FALSE,1,E
+63822765,2016,17,Texans,Titans,17,24,49,Mostly Cloudy,FALSE,2,NE
+3102693904,2016,17,Panthers,Buccaneers,16,17,76,Clear,FALSE,7,SSE
+2447976642,2016,17,Jaguars,Colts,20,24,72,DOME,TRUE,3,SSE
+37967355,2016,17,Patriots,Dolphins,35,14,80,Mostly Cloudy,FALSE,10,ESE
+3052587752,2016,17,Bears,Vikings,10,38,72,DOME,TRUE,2,WNW
+4257368391,2016,17,Bills,Jets,10,30,45,Clear,FALSE,8,NW
+465022194,2016,17,Cowboys,Eagles,13,27,48,Partly Cloudy,FALSE,6,NW
+3013779305,2016,17,Cardinals,Rams,44,6,56,Clear,FALSE,1,SSW
+3725158649,2016,17,Raiders,Broncos,6,24,48,Partly Cloudy,FALSE,3,NE
+1728153323,2016,17,Chiefs,Chargers,37,27,56,Partly Cloudy,FALSE,4,SW
+3871042066,2016,17,Seahawks,49ers,25,23,52,Partly Cloudy,FALSE,6,WNW
+900051271,2016,17,Saints,Falcons,32,38,72,DOME,TRUE,2,ENE
+1917582042,2016,17,Giants,Redskins,19,10,52,Clear,FALSE,1,WNW
+3381260943,2016,17,Packers,Lions,31,24,72,DOME,TRUE,4,SSE
+669759784,2017,1,Chiefs,Patriots,42,27,62,Clear,FALSE,1,WSW
+2073308890,2017,1,Jets,Bills,12,21,61,Partly Cloudy,FALSE,6,NNE
+2066891865,2017,1,Eagles,Redskins,30,17,69,Clear,FALSE,3,NNE
+1208542112,2017,1,Raiders,Titans,26,16,73,Clear,FALSE,4,NE
+4253114803,2017,1,Jaguars,Texans,29,7,80,Clear,FALSE,4,NE
+580325482,2017,1,Cardinals,Lions,23,35,72,DOME,TRUE,4,E
+2212367155,2017,1,Falcons,Bears,23,17,66,Clear,FALSE,5,ESE
+3608393879,2017,1,Ravens,Bengals,20,0,69,Clear,FALSE,3,ENE
+3249996332,2017,1,Steelers,Browns,21,18,65,Clear,FALSE,5,ENE
+3288449823,2017,1,Colts,Rams,9,46,85,Clear,FALSE,4,SW
+1626903991,2017,1,Seahawks,Packers,9,17,70,Clear,FALSE,6,SSE
+1911778859,2017,1,Panthers,49ers,23,3,86,Clear,FALSE,2,NW
+2122161150,2017,1,Giants,Cowboys,3,19,78,Clear,FALSE,3,ENE
+1758418896,2017,1,Saints,Vikings,19,29,72,DOME,TRUE,1,W
+380372089,2017,1,Chargers,Broncos,21,24,73,Partly Cloudy,FALSE,3,SSE
+4037288757,2017,2,Texans,Bengals,13,9,67,Mostly Cloudy,FALSE,0,SE
+1726115998,2017,2,Browns,Ravens,10,24,78,Mostly Cloudy,FALSE,1,ENE
+1978514219,2017,2,Bears,Buccaneers,7,29,88,Clear,FALSE,4,NNE
+3404980493,2017,2,Vikings,Steelers,9,26,78,Clear,FALSE,0,S
+4098963836,2017,2,Patriots,Saints,36,20,72,DOME,TRUE,3,NE
+2316114596,2017,2,Eagles,Chiefs,20,27,65,Overcast,FALSE,3,NNE
+1053744029,2017,2,Titans,Jaguars,37,16,86,Clear,FALSE,7,NNE
+2636764234,2017,2,Cardinals,Colts,16,13,72,DOME,TRUE,3,SSW
+1688801085,2017,2,Bills,Panthers,3,9,81,Partly Cloudy,FALSE,3,NE
+380191073,2017,2,Jets,Raiders,20,45,70,Clear,FALSE,3,WSW
+3210717460,2017,2,Dolphins,Chargers,19,17,71,Partly Cloudy,FALSE,3,WSW
+3710839100,2017,2,49ers,Seahawks,9,12,63,Drizzle,FALSE,5,SSW
+1560834207,2017,2,Redskins,Rams,27,20,71,Mostly Cloudy,FALSE,4,SW
+1600614865,2017,2,Cowboys,Broncos,17,42,69,Partly Cloudy,FALSE,1,NW
+1780215161,2017,2,Packers,Falcons,23,34,72,DOME,TRUE,1,NNW
+3683876684,2017,2,Lions,Giants,24,10,70,Partly Cloudy,FALSE,2,ENE
+777214355,2017,3,Rams,49ers,41,39,65,Clear,FALSE,5,W
+3841653598,2017,3,Ravens,Jaguars,7,44,70,Partly Cloudy,FALSE,7,SSE
+2593304519,2017,3,Browns,Colts,28,31,72,DOME,TRUE,2,ESE
+1978712346,2017,3,Giants,Eagles,24,27,87,Clear,FALSE,2,NE
+1399983642,2017,3,Dolphins,Jets,6,20,87,Clear,FALSE,1,NE
+1520741462,2017,3,Broncos,Bills,16,26,84,Clear,FALSE,4,NNE
+4078220071,2017,3,Saints,Panthers,34,13,81,Clear,FALSE,4,NE
+2230628601,2017,3,Steelers,Bears,17,23,87,Clear,FALSE,3,SSE
+405851711,2017,3,Falcons,Lions,30,26,72,DOME,TRUE,4,SE
+3063262703,2017,3,Buccaneers,Vikings,17,34,72,DOME,TRUE,7,S
+2838425368,2017,3,Texans,Patriots,33,36,84,Clear,FALSE,0,NE
+2773406628,2017,3,Seahawks,Titans,27,33,88,Clear,FALSE,2,S
+185181182,2017,3,Bengals,Packers,24,27,88,Clear,FALSE,7,S
+2560461707,2017,3,Chiefs,Chargers,24,10,81,Clear,FALSE,4,SW
+3240485370,2017,3,Raiders,Redskins,10,27,73,Clear,FALSE,0,SE
+2395628218,2017,3,Cowboys,Cardinals,28,17,72,DOME,TRUE,2,SW
+3590303715,2017,4,Bears,Packers,14,35,64,Partly Cloudy,FALSE,4,SW
+522073873,2017,4,Saints,Dolphins,20,0,62,Mostly Cloudy,FALSE,9,SSW
+2605128964,2017,4,Titans,Texans,14,57,84,Clear,FALSE,0,E
+1071458598,2017,4,Jaguars,Jets,20,23,64,Clear,FALSE,1,N
+204782541,2017,4,Panthers,Patriots,33,30,61,Clear,FALSE,1,NNW
+258740504,2017,4,Lions,Vikings,14,7,72,DOME,TRUE,7,SSE
+1053585053,2017,4,Bills,Falcons,23,17,72,DOME,TRUE,7,ENE
+2181468934,2017,4,Steelers,Ravens,26,9,64,Clear,FALSE,1,NNE
+1503825045,2017,4,Bengals,Browns,31,7,64,Clear,FALSE,2,SE
+3463372907,2017,4,Rams,Cowboys,35,30,80,Clear,FALSE,3,SSE
+3621754714,2017,4,Eagles,Chargers,26,24,74,Partly Cloudy,FALSE,4,SSW
+282410265,2017,4,Giants,Buccaneers,23,25,89,Rain,FALSE,4,E
+4208066253,2017,4,49ers,Cardinals,15,18,72,DOME,TRUE,2,SSE
+1201612781,2017,4,Raiders,Broncos,10,16,70,Possible Drizzle,FALSE,2,NNW
+2267304524,2017,4,Colts,Seahawks,18,46,57,Mostly Cloudy,FALSE,3,NNW
+1541346496,2017,4,Redskins,Chiefs,20,29,78,Clear,FALSE,5,SSE
+2591979452,2017,5,Patriots,Buccaneers,19,14,77,Partly Cloudy,FALSE,4,ENE
+957510082,2017,5,Jets,Browns,17,14,68,Mostly Cloudy,FALSE,5,W
+2873509092,2017,5,Panthers,Lions,27,24,72,DOME,TRUE,4,SSW
+983119828,2017,5,49ers,Colts,23,26,72,DOME,TRUE,6,ESE
+1060169947,2017,5,Titans,Dolphins,10,16,89,Clear,FALSE,6,SE
+1372947848,2017,5,Bills,Bengals,16,20,63,Rain,FALSE,2,ESE
+3245532096,2017,5,Chargers,Giants,27,22,74,Humid and Mostly Cloudy,FALSE,4,SW
+2334889127,2017,5,Jaguars,Steelers,30,9,71,Mostly Cloudy,FALSE,4,WSW
+2695548574,2017,5,Cardinals,Eagles,7,34,77,Light Rain,FALSE,3,SW
+3274531442,2017,5,Seahawks,Rams,16,10,75,Clear,FALSE,4,S
+2992704484,2017,5,Ravens,Raiders,30,17,75,Clear,FALSE,3,NNW
+2728948394,2017,5,Packers,Cowboys,35,31,88,Clear,FALSE,2,SSW
+502231683,2017,5,Chiefs,Texans,42,34,83,Clear,FALSE,2,S
+2935689939,2017,5,Vikings,Bears,20,17,64,Clear,FALSE,3,NE
+1979733112,2017,6,Eagles,Panthers,28,23,73,Mostly Cloudy,FALSE,5,ENE
+137421405,2017,6,Bears,Ravens,27,24,68,Mostly Cloudy,FALSE,4,SSW
+1939413994,2017,6,Browns,Texans,17,33,85,Clear,FALSE,2,N
+1889991320,2017,6,Packers,Vikings,10,23,72,DOME,TRUE,4,WNW
+269307673,2017,6,Lions,Saints,38,52,72,DOME,TRUE,2,SE
+497012045,2017,6,Dolphins,Falcons,20,17,72,DOME,TRUE,3,SW
+950916484,2017,6,Patriots,Jets,24,17,71,Mostly Cloudy,FALSE,5,SW
+2331238305,2017,6,49ers,Redskins,24,26,69,Mostly Cloudy,FALSE,3,SSW
+3401881028,2017,6,Buccaneers,Cardinals,33,38,72,DOME,TRUE,1,NE
+3406660450,2017,6,Rams,Jaguars,27,17,84,Partly Cloudy,FALSE,7,ENE
+483020956,2017,6,Steelers,Chiefs,19,13,60,Clear,FALSE,6,NW
+4021898031,2017,6,Chargers,Raiders,17,16,75,Dry,FALSE,1,NE
+3484826323,2017,6,Giants,Broncos,23,10,53,Clear,FALSE,0,N
+1631716473,2017,6,Colts,Titans,22,36,53,Clear,FALSE,1,NNE
+2833493106,2017,7,Chiefs,Raiders,30,31,61,Partly Cloudy,FALSE,4,SW
+3113001912,2017,7,Buccaneers,Bills,27,30,73,Clear,FALSE,3,SSW
+64483361,2017,7,Bengals,Steelers,14,29,73,Clear,FALSE,1,SSW
+3743338543,2017,7,Ravens,Vikings,16,24,72,DOME,TRUE,3,WSW
+3157384246,2017,7,Jets,Dolphins,28,31,85,Humid and Partly Cloudy,FALSE,9,ESE
+3863119765,2017,7,Cardinals,Rams,0,33,52,Clear,FALSE,4,WNW
+661634341,2017,7,Panthers,Bears,3,17,67,Overcast,FALSE,4,SSE
+4249501557,2017,7,Titans,Browns,12,9,74,Clear,FALSE,4,SSW
+562478181,2017,7,Saints,Packers,26,17,51,Mostly Cloudy,FALSE,5,WNW
+853289418,2017,7,Jaguars,Colts,27,0,72,DOME,TRUE,5,S
+1895317544,2017,7,Cowboys,49ers,40,10,69,Clear,FALSE,2,NW
+2210180306,2017,7,Seahawks,Giants,24,7,72,Clear,FALSE,2,SSE
+204410790,2017,7,Broncos,Chargers,0,21,89,Clear,FALSE,2,W
+1169604259,2017,7,Falcons,Patriots,7,23,56,Partly Cloudy,FALSE,0,E
+2576597148,2017,7,Redskins,Eagles,24,34,69,Partly Cloudy,FALSE,3,SE
+3843050641,2017,8,Dolphins,Ravens,0,40,48,Clear,FALSE,0,W
+2603872050,2017,8,Vikings,Browns,33,16,54,Clear,FALSE,5,NNE
+1232921253,2017,8,Falcons,Jets,25,20,62,Rain,FALSE,2,ENE
+3841492988,2017,8,Panthers,Buccaneers,17,3,63,Partly Cloudy,FALSE,9,NW
+4105918089,2017,8,49ers,Eagles,10,33,63,Possible Drizzle,FALSE,2,E
+3780887627,2017,8,Bears,Saints,12,20,72,DOME,TRUE,5,N
+773670062,2017,8,Chargers,Patriots,13,21,61,Light Rain,FALSE,1,SE
+3192515278,2017,8,Raiders,Bills,14,34,39,Light Rain,FALSE,2,NNE
+2460900427,2017,8,Colts,Bengals,23,24,39,Mostly Cloudy,FALSE,1,WNW
+1384556532,2017,8,Texans,Seahawks,38,41,50,Overcast,FALSE,0,NE
+144247717,2017,8,Cowboys,Redskins,33,19,60,Possible Light Rain,FALSE,0,NNE
+3413892302,2017,8,Steelers,Lions,20,15,72,DOME,TRUE,2,NW
+1652262882,2017,8,Broncos,Chiefs,19,29,41,Clear,FALSE,3,NNW
+2367997272,2017,9,Bills,Jets,21,34,64,Clear,FALSE,2,S
+1709531898,2017,9,Colts,Texans,20,14,82,Humid and Partly Cloudy,FALSE,4,SW
+2852803613,2017,9,Bengals,Jaguars,7,23,77,Mostly Cloudy,FALSE,4,NE
+3314384205,2017,9,Buccaneers,Saints,10,30,72,DOME,TRUE,3,SSW
+2468929905,2017,9,Rams,Giants,51,17,56,Overcast,FALSE,1,ENE
+37926864,2017,9,Falcons,Panthers,17,20,58,Overcast,FALSE,0,SSE
+3054495941,2017,9,Broncos,Eagles,23,51,62,Overcast,FALSE,1,SE
+255403024,2017,9,Ravens,Titans,20,23,75,Mostly Cloudy,FALSE,8,SSW
+2109602982,2017,9,Cardinals,49ers,20,10,57,Clear,FALSE,1,NW
+1226086885,2017,9,Redskins,Seahawks,17,14,35,Light Rain,FALSE,4,NNW
+501460750,2017,9,Chiefs,Cowboys,17,28,90,Clear,FALSE,4,SW
+2137628329,2017,9,Raiders,Dolphins,27,24,76,Clear,FALSE,0,NE
+3359419705,2017,9,Lions,Packers,30,17,34,Clear,FALSE,1,W
+719394014,2017,10,Seahawks,Cardinals,22,16,72,DOME,TRUE,1,WSW
+3911354900,2017,10,Packers,Bears,23,16,39,Light Rain,FALSE,0,NNW
+2482160290,2017,10,Browns,Lions,24,38,72,DOME,TRUE,1,SSW
+644942937,2017,10,Steelers,Colts,20,17,72,DOME,TRUE,0,NE
+2850703168,2017,10,Chargers,Jaguars,17,20,75,Drizzle,FALSE,5,NE
+384516829,2017,10,Saints,Bills,47,10,37,Mostly Cloudy,FALSE,0,SSW
+627731657,2017,10,Jets,Buccaneers,10,15,76,Mostly Cloudy,FALSE,6,ENE
+1275020061,2017,10,Vikings,Redskins,38,30,43,Clear,FALSE,1,SSW
+342946790,2017,10,Bengals,Titans,20,24,52,Mostly Cloudy,FALSE,2,S
+1817529563,2017,10,Texans,Rams,7,33,66,Clear,FALSE,0,SW
+1304315081,2017,10,Cowboys,Falcons,7,27,72,DOME,TRUE,1,NE
+3378624472,2017,10,Giants,49ers,21,31,63,Clear,FALSE,0,N
+2370699834,2017,10,Patriots,Broncos,41,16,48,Clear,FALSE,0,WNW
+2524098981,2017,10,Dolphins,Panthers,21,45,52,Clear,FALSE,9,NNE
+3538117356,2017,11,Titans,Steelers,17,40,37,Mostly Cloudy,FALSE,2,W
+684943970,2017,11,Buccaneers,Dolphins,30,20,80,Clear,FALSE,4,W
+2313778178,2017,11,Jaguars,Browns,19,7,38,Light Rain,FALSE,8,WNW
+2602425648,2017,11,Ravens,Packers,23,0,26,Partly Cloudy,FALSE,6,WNW
+3500483388,2017,11,Cardinals,Texans,21,31,59,Clear,FALSE,5,NNE
+3364634994,2017,11,Rams,Vikings,7,24,72,DOME,TRUE,3,SW
+2809474046,2017,11,Lions,Bears,27,24,31,Partly Cloudy,FALSE,6,WNW
+4061496105,2017,11,Redskins,Saints,31,34,72,DOME,TRUE,8,N
+2102741478,2017,11,Chiefs,Giants,9,12,49,Mostly Cloudy,FALSE,8,WNW
+2021617888,2017,11,Bills,Chargers,24,54,72,Clear,FALSE,1,WSW
+3072268083,2017,11,Bengals,Broncos,20,17,59,Clear,FALSE,0,WSW
+1013406949,2017,11,Patriots,Raiders,33,8,64,Mostly Cloudy,FALSE,3,NNW
+3904955817,2017,11,Eagles,Cowboys,37,9,52,Clear,FALSE,0,ESE
+2452557851,2017,11,Falcons,Seahawks,34,31,46,Partly Cloudy,FALSE,1,ENE
+222471041,2017,12,Vikings,Lions,30,23,72,DOME,TRUE,7,SW
+1372462481,2017,12,Chargers,Cowboys,28,6,67,Clear,FALSE,1,S
+3012522937,2017,12,Giants,Redskins,10,20,32,Clear,FALSE,0,SSE
+3314192115,2017,12,Bills,Chiefs,16,10,58,Clear,FALSE,3,SSW
+3128617826,2017,12,Titans,Colts,20,16,72,DOME,TRUE,3,W
+4212366562,2017,12,Browns,Bengals,16,30,46,Clear,FALSE,2,WSW
+486275776,2017,12,Buccaneers,Falcons,20,34,72,DOME,TRUE,4,NNW
+1261373644,2017,12,Dolphins,Patriots,17,35,46,Partly Cloudy,FALSE,4,WNW
+2347233918,2017,12,Bears,Eagles,3,31,48,Clear,FALSE,5,NW
+1355891483,2017,12,Panthers,Jets,35,27,46,Clear,FALSE,6,WNW
+740153501,2017,12,Seahawks,49ers,24,13,63,Partly Cloudy,FALSE,4,SSE
+3562248043,2017,12,Saints,Rams,20,26,67,Clear,FALSE,2,SW
+2669911713,2017,12,Jaguars,Cardinals,24,27,72,DOME,TRUE,0,SSW
+2035792906,2017,12,Broncos,Raiders,14,21,61,Partly Cloudy,FALSE,6,S
+2730433784,2017,12,Packers,Steelers,28,31,36,Clear,FALSE,1,SW
+4156865964,2017,12,Texans,Ravens,16,23,44,Clear,FALSE,0,SE
+1751331331,2017,13,Redskins,Cowboys,14,38,58,Clear,FALSE,0,NNE
+1991837947,2017,13,Vikings,Falcons,14,9,72,DOME,TRUE,1,NNE
+2755819273,2017,13,Texans,Titans,13,24,59,Clear,FALSE,2,ESE
+411252616,2017,13,Chiefs,Jets,31,38,46,Mostly Cloudy,FALSE,0,E
+3255317636,2017,13,Broncos,Dolphins,9,35,80,Clear,FALSE,5,ENE
+1380798978,2017,13,Lions,Ravens,20,44,51,Clear,FALSE,1,WSW
+514395812,2017,13,Patriots,Bills,23,3,46,Clear,FALSE,2,SW
+617809151,2017,13,49ers,Bears,15,14,50,Clear,FALSE,2,SSW
+269854118,2017,13,Buccaneers,Packers,20,26,41,Clear,FALSE,1,S
+2987532804,2017,13,Colts,Jaguars,10,30,67,Mostly Cloudy,FALSE,2,NNE
+172733403,2017,13,Browns,Chargers,10,19,66,Clear,FALSE,2,SSW
+1591553610,2017,13,Panthers,Saints,21,31,72,DOME,TRUE,3,NE
+862602017,2017,13,Giants,Raiders,17,24,55,Clear,FALSE,3,NW
+424244252,2017,13,Rams,Cardinals,32,16,72,DOME,TRUE,3,SSE
+2030017078,2017,13,Eagles,Seahawks,10,24,42,Mostly Cloudy,FALSE,0,N
+3244766633,2017,13,Steelers,Bengals,23,20,60,Partly Cloudy,FALSE,3,SSE
+4113094540,2017,14,Saints,Falcons,17,20,72,DOME,TRUE,1,WNW
+2858176350,2017,14,Colts,Bills,7,13,26,Flurries,FALSE,4,W
+2332981233,2017,14,Lions,Buccaneers,24,21,53,Clear,FALSE,4,N
+813008808,2017,14,Raiders,Chiefs,15,26,47,Clear,FALSE,5,NW
+3579667879,2017,14,Seahawks,Jaguars,24,30,46,Clear,FALSE,2,NW
+3544930367,2017,14,49ers,Texans,26,16,57,Clear,FALSE,0,SE
+320801717,2017,14,Packers,Browns,27,21,28,Mostly Cloudy,FALSE,9,WSW
+1684521476,2017,14,Bears,Bengals,33,7,30,Mostly Cloudy,FALSE,4,SSW
+3078808053,2017,14,Vikings,Panthers,24,31,39,Clear,FALSE,2,W
+1776231333,2017,14,Redskins,Chargers,13,30,79,Clear,FALSE,2,NNE
+2855310636,2017,14,Jets,Broncos,0,23,58,Clear,FALSE,0,SSW
+3750719546,2017,14,Titans,Cardinals,7,12,72,DOME,TRUE,4,ENE
+1942802899,2017,14,Cowboys,Giants,30,10,37,Drizzle,FALSE,5,WSW
+4123867626,2017,14,Eagles,Rams,43,35,79,Clear,FALSE,1,NNE
+613230572,2017,14,Ravens,Steelers,38,39,30,Mostly Cloudy,FALSE,3,SW
+1786413342,2017,14,Patriots,Dolphins,20,27,56,Clear,FALSE,3,NW
+1260586270,2017,15,Broncos,Colts,25,13,72,DOME,TRUE,0,SSE
+1491244418,2017,15,Bears,Lions,10,20,72,DOME,TRUE,5,NE
+2252013938,2017,15,Chargers,Chiefs,13,30,50,Clear,FALSE,2,S
+4008181482,2017,15,Texans,Jaguars,7,45,68,Clear,FALSE,2,ESE
+1638901671,2017,15,Ravens,Browns,27,10,34,Clear,FALSE,1,ESE
+3947766480,2017,15,Packers,Panthers,24,31,48,Partly Cloudy,FALSE,1,WSW
+2080297842,2017,15,Dolphins,Bills,16,24,25,Overcast,FALSE,0,NE
+3605957186,2017,15,Bengals,Vikings,7,34,72,DOME,TRUE,0,ESE
+3542120420,2017,15,Cardinals,Redskins,15,20,47,Clear,FALSE,0,SSW
+3863466613,2017,15,Eagles,Giants,34,29,34,Overcast,FALSE,0,N
+1190560708,2017,15,Jets,Saints,19,31,72,DOME,TRUE,1,WSW
+924793913,2017,15,Rams,Seahawks,42,7,46,Mostly Cloudy,FALSE,5,S
+2497319685,2017,15,Titans,49ers,23,25,60,Clear,FALSE,2,N
+1941687084,2017,15,Patriots,Steelers,27,24,40,Rain,FALSE,0,S
+2701502378,2017,15,Cowboys,Raiders,20,17,59,Clear,FALSE,0,N
+2900347759,2017,15,Falcons,Buccaneers,24,21,70,Clear,FALSE,1,NNW
+1658132338,2017,16,Colts,Ravens,16,23,61,Drizzle,FALSE,5,SSW
+1788121401,2017,16,Vikings,Packers,16,0,9,Clear,FALSE,1,SW
+1488054104,2017,16,Lions,Bengals,17,26,35,Mostly Cloudy,FALSE,2,SSE
+3803801171,2017,16,Dolphins,Chiefs,13,29,22,Mostly Cloudy,FALSE,5,NW
+1799048571,2017,16,Bills,Patriots,16,37,34,Clear,FALSE,1,N
+1599030955,2017,16,Browns,Bears,3,20,21,Light Snow,FALSE,0,NW
+939161815,2017,16,Buccaneers,Panthers,19,22,53,Mostly Cloudy,FALSE,1,ENE
+1750743868,2017,16,Falcons,Saints,13,23,72,DOME,TRUE,1,WNW
+1095270327,2017,16,Broncos,Redskins,11,27,41,Partly Cloudy,FALSE,2,NE
+3972420848,2017,16,Rams,Titans,27,23,41,Mostly Cloudy,FALSE,2,WSW
+1214273002,2017,16,Chargers,Jets,14,7,38,Clear,FALSE,3,NE
+1418610859,2017,16,Jaguars,49ers,33,44,52,Partly Cloudy,FALSE,0,SSE
+1382300698,2017,16,Seahawks,Cowboys,21,12,43,Partly Cloudy,FALSE,6,N
+3405764093,2017,16,Giants,Cardinals,0,23,72,DOME,TRUE,0,S
+3244982625,2017,16,Steelers,Texans,34,6,51,Mostly Cloudy,FALSE,4,ESE
+460503555,2017,16,Raiders,Eagles,10,19,28,Clear,FALSE,5,W
+583391388,2017,17,Browns,Steelers,24,28,9,Mostly Cloudy,FALSE,0,WSW
+3978799325,2017,17,Packers,Lions,11,35,72,DOME,TRUE,5,NNW
+2088044716,2017,17,Texans,Colts,13,22,72,DOME,TRUE,3,NNW
+177898297,2017,17,Bears,Vikings,10,23,72,DOME,TRUE,4,NW
+2990755502,2017,17,Jets,Patriots,6,26,11,Clear,FALSE,5,NW
+4216889240,2017,17,Redskins,Giants,10,18,15,Clear,FALSE,6,NW
+2001233515,2017,17,Cowboys,Eagles,6,0,15,Partly Cloudy,FALSE,4,NNW
+2584370355,2017,17,Panthers,Falcons,10,22,72,DOME,TRUE,3,NW
+4111127464,2017,17,Bengals,Ravens,31,27,18,Mostly Cloudy,FALSE,5,NNW
+4251635216,2017,17,Jaguars,Titans,10,15,22,Mostly Cloudy,FALSE,7,NNW
+156844161,2017,17,Saints,Buccaneers,24,31,69,Clear,FALSE,1,SSE
+2359639225,2017,17,Bills,Dolphins,22,16,71,Clear,FALSE,4,NE
+3708736121,2017,17,Raiders,Chargers,10,30,62,Clear,FALSE,0,SSW
+1179475318,2017,17,Chiefs,Broncos,27,24,16,Mostly Cloudy,FALSE,3,NNE
+4160867370,2017,17,49ers,Rams,34,13,63,Clear,FALSE,0,SSW
+2079383376,2017,17,Cardinals,Seahawks,26,24,39,Clear,FALSE,3,N
+1086463674,2018,1,Falcons,Eagles,12,18,81,Rain,FALSE,2,NW
+2978291406,2018,1,Bills,Ravens,3,47,62,Light Rain,FALSE,11,ENE
+2751019594,2018,1,Jaguars,Giants,20,15,58,Light Rain,FALSE,4,NE
+3763438482,2018,1,Buccaneers,Saints,48,40,72,DOME,TRUE,1,WSW
+1546560271,2018,1,Texans,Patriots,20,27,62,Mostly Cloudy,FALSE,6,ENE
+723004061,2018,1,49ers,Vikings,16,24,72,DOME,TRUE,9,SSE
+2083735267,2018,1,Titans,Dolphins,20,27,88,Rain,FALSE,4,SW
+3664690689,2018,1,Bengals,Colts,34,23,72,DOME,TRUE,9,NE
+2807067542,2018,1,Steelers,Browns,21,21,59,Light Rain,FALSE,4,ENE
+3133789239,2018,1,Chiefs,Chargers,38,28,85,Clear,FALSE,5,SSW
+1273916466,2018,1,Seahawks,Broncos,24,27,85,Clear,FALSE,3,NE
+199264465,2018,1,Cowboys,Panthers,8,16,83,Drizzle,FALSE,6,NE
+499976455,2018,1,Redskins,Cardinals,24,6,72,DOME,TRUE,3,WSW
+1036397644,2018,1,Bears,Packers,23,24,60,Clear,FALSE,4,NE
+81807973,2018,1,Jets,Lions,48,17,72,DOME,TRUE,7,N
+2168708375,2018,1,Rams,Raiders,33,13,71,Clear,FALSE,5,WSW
+3982416550,2018,2,Ravens,Bengals,23,34,75,Clear,FALSE,0,NNW
+2137524555,2018,2,Panthers,Falcons,24,31,72,DOME,TRUE,5,NW
+4015697293,2018,2,Colts,Redskins,21,9,73,Mostly Cloudy,FALSE,5,ENE
+3625248455,2018,2,Texans,Titans,17,20,81,Partly Cloudy,FALSE,7,NNE
+353909116,2018,2,Eagles,Buccaneers,21,27,89,Humid and Partly Cloudy,FALSE,8,SW
+316229401,2018,2,Chiefs,Steelers,42,37,79,Mostly Cloudy,FALSE,7,ESE
+997314799,2018,2,Dolphins,Jets,20,12,82,Clear,FALSE,3,SE
+2252191306,2018,2,Chargers,Bills,31,20,79,Clear,FALSE,7,S
+1184616745,2018,2,Vikings,Packers,29,29,78,Partly Cloudy,FALSE,5,SSE
+1957182343,2018,2,Browns,Saints,18,21,72,DOME,TRUE,1,NW
+1902228858,2018,2,Lions,49ers,27,30,72,Clear,FALSE,5,NW
+780222733,2018,2,Cardinals,Rams,0,34,85,Clear,FALSE,4,SSW
+3792253139,2018,2,Patriots,Jaguars,20,31,93,Drizzle,FALSE,7,SW
+2622859103,2018,2,Raiders,Broncos,19,20,90,Clear,FALSE,3,ESE
+97518879,2018,2,Giants,Cowboys,13,20,87,Partly Cloudy,FALSE,2,E
+763020939,2018,2,Seahawks,Bears,17,24,80,Clear,FALSE,2,E
+2079060964,2018,3,Jets,Browns,17,21,78,Humid,FALSE,3,SSE
+32943231,2018,3,Saints,Falcons,43,37,72,DOME,TRUE,3,SE
+1167494676,2018,3,Packers,Redskins,17,31,63,Light Rain,FALSE,4,ENE
+599780715,2018,3,Colts,Eagles,16,20,61,Rain,FALSE,3,NE
+2973381523,2018,3,Bills,Vikings,27,6,72,DOME,TRUE,6,SSE
+3522938335,2018,3,Raiders,Dolphins,20,28,88,Humid and Partly Cloudy,FALSE,6,ESE
+236601743,2018,3,Broncos,Ravens,14,27,62,Light Rain,FALSE,4,ENE
+1942145726,2018,3,Bengals,Panthers,21,31,81,Mostly Cloudy,FALSE,1,ESE
+2785623407,2018,3,Giants,Texans,27,22,79,Mostly Cloudy,FALSE,7,WSW
+1216111295,2018,3,Titans,Jaguars,9,6,87,Mostly Cloudy,FALSE,5,ESE
+3838798689,2018,3,49ers,Chiefs,27,38,72,Clear,FALSE,4,ESE
+1841856882,2018,3,Chargers,Rams,23,35,79,Clear,FALSE,4,SW
+3710526116,2018,3,Cowboys,Seahawks,13,24,62,Partly Cloudy,FALSE,1,S
+1821668742,2018,3,Bears,Cardinals,16,14,72,DOME,TRUE,4,SE
+3974251848,2018,3,Patriots,Lions,10,26,72,DOME,TRUE,5,ENE
+1855116809,2018,3,Steelers,Buccaneers,30,27,77,Humid and Mostly Cloudy,FALSE,3,N
+446659083,2018,4,Vikings,Rams,31,38,83,Clear,FALSE,3,WSW
+2014835639,2018,4,Jets,Jaguars,12,31,86,Humid and Mostly Cloudy,FALSE,10,ENE
+612106020,2018,4,Dolphins,Patriots,7,38,66,Clear,FALSE,3,W
+2463168784,2018,4,Eagles,Titans,23,26,80,Clear,FALSE,0,N
+1788404007,2018,4,Texans,Colts,37,34,72,DOME,TRUE,7,SSW
+2949294131,2018,4,Bills,Packers,0,22,48,Overcast,FALSE,4,ENE
+506859617,2018,4,Lions,Cowboys,24,26,79,Mostly Cloudy,FALSE,6,SE
+2723166520,2018,4,Buccaneers,Bears,10,48,64,Overcast,FALSE,1,NW
+2654482631,2018,4,Bengals,Falcons,37,36,72,DOME,TRUE,4,E
+3856857466,2018,4,Seahawks,Cardinals,20,17,72,DOME,TRUE,4,SW
+1128846685,2018,4,Browns,Raiders,42,45,71,Clear,FALSE,2,WNW
+1570034671,2018,4,Saints,Giants,33,18,69,Partly Cloudy,FALSE,4,S
+548833359,2018,4,49ers,Chargers,27,29,82,Partly Cloudy,FALSE,4,SW
+1055995091,2018,4,Ravens,Steelers,26,14,66,Clear,FALSE,0,N
+3471810251,2018,4,Chiefs,Broncos,27,23,65,Mostly Cloudy,FALSE,2,N
+3939683320,2018,5,Colts,Patriots,24,38,66,Mostly Cloudy,FALSE,3,SW
+2458922582,2018,5,Titans,Bills,12,13,65,Overcast,FALSE,3,ENE
+3579759322,2018,5,Falcons,Steelers,17,41,82,Partly Cloudy,FALSE,6,SSW
+3250444477,2018,5,Broncos,Jets,16,34,75,Overcast,FALSE,4,WSW
+1632289711,2018,5,Jaguars,Chiefs,14,30,58,Rain,FALSE,2,ENE
+2619687844,2018,5,Packers,Lions,23,31,72,DOME,TRUE,7,NE
+4052027360,2018,5,Ravens,Browns,9,12,70,Foggy,FALSE,2,NNE
+2380005321,2018,5,Giants,Panthers,31,33,80,Overcast,FALSE,1,NE
+3021774675,2018,5,Dolphins,Bengals,17,27,86,Clear,FALSE,2,SSW
+485881696,2018,5,Raiders,Chargers,10,26,74,Clear,FALSE,5,SSW
+1381662538,2018,5,Cardinals,49ers,28,18,76,Clear,FALSE,9,NNW
+2059429125,2018,5,Vikings,Eagles,23,21,78,Mostly Cloudy,FALSE,3,SW
+1996549833,2018,5,Rams,Seahawks,33,31,54,Drizzle,FALSE,3,SSE
+2465989819,2018,5,Cowboys,Texans,16,19,81,Humid and Partly Cloudy,FALSE,6,SE
+1264498531,2018,5,Redskins,Saints,19,43,72,DOME,TRUE,5,E
+125606916,2018,6,Eagles,Giants,34,13,70,Light Rain,FALSE,1,S
+984660815,2018,6,Buccaneers,Falcons,29,34,72,DOME,TRUE,3,ESE
+3772981869,2018,6,Panthers,Redskins,17,23,54,Partly Cloudy,FALSE,0,SE
+889310054,2018,6,Colts,Jets,34,42,57,Mostly Cloudy,FALSE,5,WSW
+1138138546,2018,6,Cardinals,Vikings,17,27,72,DOME,TRUE,7,WNW
+1281287291,2018,6,Steelers,Bengals,28,21,51,Mostly Cloudy,FALSE,2,ESE
+1348260948,2018,6,Chargers,Browns,38,14,55,Clear,FALSE,1,SSE
+1835774851,2018,6,Bills,Texans,13,20,87,Partly Cloudy,FALSE,9,SSW
+1689924934,2018,6,Bears,Dolphins,28,31,88,Humid and Partly Cloudy,FALSE,7,ESE
+4013244290,2018,6,Seahawks,Raiders,27,3,50,Light Rain,FALSE,12,NNE
+442774587,2018,6,Rams,Broncos,23,20,24,Overcast,FALSE,2,NNE
+4157675923,2018,6,Ravens,Titans,21,0,66,Overcast,FALSE,3,S
+4193548512,2018,6,Jaguars,Cowboys,7,40,78,Mostly Cloudy,FALSE,4,S
+172330928,2018,6,Chiefs,Patriots,40,43,45,Clear,FALSE,2,SW
+2706812705,2018,6,49ers,Packers,30,33,35,Partly Cloudy,FALSE,4,WSW
+1944501774,2018,7,Broncos,Cardinals,45,10,72,DOME,TRUE,1,WNW
+1735688070,2018,7,Titans,Chargers,19,20,64,Clear,FALSE,7,E
+3602885278,2018,7,Browns,Buccaneers,23,26,80,Clear,FALSE,5,SW
+310597915,2018,7,Panthers,Eagles,21,17,47,Mostly Cloudy,FALSE,9,WNW
+353081116,2018,7,Vikings,Jets,37,17,46,Overcast,FALSE,11,NNE
+2533105888,2018,7,Lions,Dolphins,32,21,88,Partly Cloudy,FALSE,5,NNW
+4268546574,2018,7,Patriots,Bears,38,31,43,Clear,FALSE,6,NW
+857801453,2018,7,Bills,Colts,5,37,72,DOME,TRUE,3,SE
+3974206886,2018,7,Texans,Jaguars,20,7,70,Partly Cloudy,FALSE,13,ENE
+1642271688,2018,7,Saints,Ravens,24,23,52,Partly Cloudy,FALSE,12,S
+568165521,2018,7,Cowboys,Redskins,17,20,51,Partly Cloudy,FALSE,11,S
+1332040697,2018,7,Rams,49ers,39,10,71,Partly Cloudy,FALSE,2,ESE
+1416912954,2018,7,Bengals,Chiefs,10,45,58,Clear,FALSE,6,E
+1220306272,2018,7,Giants,Falcons,20,23,72,DOME,TRUE,1,NW
+2003770672,2018,8,Dolphins,Texans,23,42,65,Overcast,FALSE,6,NNW
+2421079760,2018,8,Eagles,Jaguars,24,18,48,Partly Cloudy,FALSE,13,NE
+720148573,2018,8,Broncos,Chiefs,23,30,60,Clear,FALSE,8,NW
+54716365,2018,8,Browns,Steelers,18,33,48,Overcast,FALSE,7,SSW
+3646707162,2018,8,Redskins,Giants,20,13,50,Mostly Cloudy,FALSE,7,W
+1634382285,2018,8,Seahawks,Lions,28,14,72,DOME,TRUE,9,SSE
+3994759020,2018,8,Buccaneers,Bengals,34,37,56,Overcast,FALSE,7,S
+1209763931,2018,8,Jets,Bears,10,24,48,Overcast,FALSE,11,W
+1988351956,2018,8,Ravens,Panthers,21,36,61,Clear,FALSE,6,WSW
+1505037523,2018,8,Colts,Raiders,42,28,69,Partly Cloudy,FALSE,5,W
+1849658133,2018,8,49ers,Cardinals,15,18,72,DOME,TRUE,1,SW
+4025183640,2018,8,Packers,Rams,27,29,81,Partly Cloudy,FALSE,3,SSW
+3768554697,2018,8,Saints,Vikings,30,20,72,DOME,TRUE,8,NW
+3316518008,2018,8,Patriots,Bills,25,6,37,Partly Cloudy,FALSE,9,WSW
+2969402089,2018,9,Raiders,49ers,3,34,80,Partly Cloudy,FALSE,3,NNW
+2136506956,2018,9,Bears,Bills,41,9,43,Clear,FALSE,8,ESE
+3612843350,2018,9,Buccaneers,Panthers,28,42,60,Clear,FALSE,4,E
+3440073864,2018,9,Chiefs,Browns,37,21,53,Partly Cloudy,FALSE,5,ESE
+1112817309,2018,9,Jets,Dolphins,6,13,84,Humid and Mostly Cloudy,FALSE,14,SE
+3948125890,2018,9,Steelers,Ravens,23,16,52,Clear,FALSE,3,E
+4263741119,2018,9,Lions,Vikings,9,24,72,DOME,TRUE,6,NE
+1001546185,2018,9,Falcons,Redskins,38,14,53,Clear,FALSE,4,ESE
+580741722,2018,9,Texans,Broncos,19,17,53,Mostly Cloudy,FALSE,2,SSW
+3695811628,2018,9,Chargers,Seahawks,25,17,57,Mostly Cloudy,FALSE,4,S
+2062102048,2018,9,Rams,Saints,35,45,72,DOME,TRUE,7,SE
+1283742407,2018,9,Packers,Patriots,17,31,42,Clear,FALSE,2,NE
+1706369031,2018,9,Titans,Cowboys,28,14,73,Clear,FALSE,2,NW
+2854876394,2018,10,Panthers,Steelers,21,52,40,Clear,FALSE,1,NE
+698118496,2018,10,Saints,Bengals,51,14,38,Mostly Cloudy,FALSE,3,SSE
+2743852865,2018,10,Falcons,Browns,16,28,38,Partly Cloudy,FALSE,2,SSW
+230062336,2018,10,Dolphins,Packers,12,31,30,Overcast,FALSE,8,SW
+3639686534,2018,10,Jaguars,Colts,26,29,72,DOME,TRUE,10,S
+3552598258,2018,10,Lions,Bears,22,34,35,Mostly Cloudy,FALSE,7,SSW
+258124326,2018,10,Cardinals,Chiefs,14,26,42,Clear,FALSE,1,NNW
+1802943682,2018,10,Patriots,Titans,10,34,46,Clear,FALSE,2,SSE
+3927027819,2018,10,Redskins,Buccaneers,16,3,80,Clear,FALSE,6,E
+1258315469,2018,10,Bills,Jets,41,10,44,Clear,FALSE,7,NW
+3161924013,2018,10,Chargers,Raiders,20,6,66,Clear,FALSE,8,NE
+3188584521,2018,10,Seahawks,Rams,31,36,73,Clear,FALSE,1,NNE
+2179469485,2018,10,Cowboys,Eagles,27,20,37,Clear,FALSE,1,WSW
+2697424837,2018,10,Giants,49ers,27,23,68,Clear,FALSE,1,NNW
+3401681999,2018,11,Packers,Seahawks,24,27,54,Overcast,FALSE,3,S
+1608624135,2018,11,Bengals,Ravens,21,24,46,Mostly Cloudy,FALSE,4,SSE
+389934871,2018,11,Panthers,Lions,19,20,72,DOME,TRUE,0,N
+2848834455,2018,11,Titans,Colts,10,38,72,DOME,TRUE,7,N
+2486339979,2018,11,Cowboys,Falcons,22,19,72,DOME,TRUE,1,ESE
+3284271281,2018,11,Buccaneers,Giants,35,38,41,Mostly Cloudy,FALSE,0,ESE
+2156509167,2018,11,Texans,Redskins,23,21,47,Mostly Cloudy,FALSE,4,SSE
+831039875,2018,11,Steelers,Jaguars,20,16,72,Partly Cloudy,FALSE,6,NNE
+878987584,2018,11,Broncos,Chargers,23,22,70,Clear,FALSE,3,SW
+3683053273,2018,11,Raiders,Cardinals,23,21,72,DOME,TRUE,1,SSE
+4003922329,2018,11,Eagles,Saints,7,48,72,DOME,TRUE,2,N
+240755512,2018,11,Vikings,Bears,20,25,31,Clear,FALSE,3,WSW
+1807598469,2018,11,Chiefs,Rams,51,54,69,Clear,FALSE,1,W
+559942708,2018,12,Bears,Lions,23,16,72,DOME,TRUE,9,E
+39114558,2018,12,Redskins,Cowboys,23,31,63,Clear,FALSE,6,SSE
+4164422016,2018,12,Falcons,Saints,17,31,72,DOME,TRUE,2,ESE
+4044651290,2018,12,Browns,Bengals,35,20,48,Mostly Cloudy,FALSE,0,SSE
+4064426472,2018,12,Seahawks,Panthers,30,27,52,Partly Cloudy,FALSE,0,S
+2448718447,2018,12,Jaguars,Bills,21,24,39,Mostly Cloudy,FALSE,7,W
+677081690,2018,12,Raiders,Ravens,17,34,57,Clear,FALSE,5,WSW
+3292672676,2018,12,Dolphins,Colts,24,27,72,DOME,TRUE,11,ESE
+1659523049,2018,12,49ers,Buccaneers,9,27,75,Partly Cloudy,FALSE,5,WNW
+381452992,2018,12,Giants,Eagles,22,25,55,Clear,FALSE,6,WNW
+898634835,2018,12,Patriots,Jets,27,13,53,Partly Cloudy,FALSE,8,NNW
+3110614852,2018,12,Cardinals,Chargers,10,45,72,Clear,FALSE,1,NNW
+1751527748,2018,12,Steelers,Broncos,17,24,41,Clear,FALSE,4,NNW
+525262293,2018,12,Packers,Vikings,17,24,72,DOME,TRUE,8,NNW
+3493594931,2018,12,Titans,Texans,17,34,51,Clear,FALSE,7,NNW
+3042367185,2018,13,Saints,Cowboys,10,13,73,Clear,FALSE,7,SSE
+767032718,2018,13,Ravens,Falcons,26,16,72,DOME,TRUE,4,SW
+1177579627,2018,13,Panthers,Buccaneers,17,24,80,Breezy and Humid,FALSE,15,SSW
+3164763427,2018,13,Bears,Giants,27,30,50,Foggy,FALSE,2,NE
+4276708852,2018,13,Bills,Dolphins,17,21,85,Humid and Mostly Cloudy,FALSE,13,SSE
+2803780466,2018,13,Broncos,Bengals,24,10,63,Clear,FALSE,9,S
+2392207096,2018,13,Rams,Lions,30,16,72,DOME,TRUE,11,S
+3526091721,2018,13,Cardinals,Packers,20,17,34,Light Rain,FALSE,18,NNE
+1925110846,2018,13,Browns,Texans,13,29,70,Clear,FALSE,7,N
+3924533474,2018,13,Colts,Jaguars,0,6,78,Drizzle,FALSE,10,SSW
+3979274051,2018,13,Jets,Titans,22,26,68,Clear,FALSE,13,SW
+663025422,2018,13,Chiefs,Raiders,40,33,53,Clear,FALSE,1,NNE
+1706936455,2018,13,Vikings,Patriots,10,24,51,Overcast,FALSE,2,SW
+1251404097,2018,13,49ers,Seahawks,16,43,45,Mostly Cloudy,FALSE,0,WSW
+3764426951,2018,13,Chargers,Steelers,33,30,58,Mostly Cloudy,FALSE,9,S
+149531025,2018,13,Redskins,Eagles,13,28,48,Partly Cloudy,FALSE,4,WNW
+164905389,2018,14,Jaguars,Titans,9,30,44,Overcast,FALSE,4,SW
+235039397,2018,14,Jets,Bills,27,23,25,Partly Cloudy,FALSE,6,WSW
+1095130352,2018,14,Giants,Redskins,40,16,32,Clear,FALSE,4,NE
+2481493741,2018,14,Saints,Buccaneers,28,14,69,Drizzle,FALSE,6,SW
+3426498755,2018,14,Patriots,Dolphins,33,34,80,Humid and Mostly Cloudy,FALSE,12,SW
+623875062,2018,14,Ravens,Chiefs,24,27,26,Clear,FALSE,0,S
+1766737620,2018,14,Colts,Texans,24,21,45,Overcast,FALSE,10,NNW
+1436762354,2018,14,Rams,Bears,6,15,29,Clear,FALSE,1,NNW
+3016916283,2018,14,Panthers,Browns,20,26,31,Clear,FALSE,0,ESE
+427345710,2018,14,Falcons,Packers,20,34,24,Mostly Cloudy,FALSE,12,W
+3925116554,2018,14,Broncos,49ers,14,20,54,Mostly Cloudy,FALSE,1,NW
+1135861972,2018,14,Bengals,Chargers,21,26,70,Clear,FALSE,1,E
+4168106337,2018,14,Eagles,Cowboys,23,29,49,Clear,FALSE,6,NNW
+1115044957,2018,14,Lions,Cardinals,17,3,72,DOME,TRUE,0,SW
+1942052506,2018,14,Steelers,Raiders,21,24,51,Mostly Cloudy,FALSE,2,NE
+1987953523,2018,14,Vikings,Seahawks,7,21,47,Mostly Cloudy,FALSE,5,S
+3684541152,2018,15,Chargers,Chiefs,29,28,37,Overcast,FALSE,8,NNW
+2787505893,2018,15,Browns,Broncos,17,16,54,Partly Cloudy,FALSE,2,NW
+3844585477,2018,15,Texans,Jets,29,22,50,Mostly Cloudy,FALSE,8,NE
+2661713956,2018,15,Packers,Bears,17,24,40,Clear,FALSE,5,W
+1314321362,2018,15,Lions,Bills,13,14,33,Light Snow,FALSE,2,NNE
+4184749997,2018,15,Buccaneers,Ravens,12,20,43,Light Rain,FALSE,7,N
+3377257442,2018,15,Cardinals,Falcons,14,40,72,DOME,TRUE,5,NW
+2712580799,2018,15,Raiders,Bengals,16,30,42,Overcast,FALSE,1,WNW
+2744686410,2018,15,Titans,Giants,17,0,39,Overcast,FALSE,10,NE
+1526972319,2018,15,Dolphins,Vikings,17,41,72,DOME,TRUE,7,WNW
+1978511049,2018,15,Redskins,Jaguars,16,13,62,Clear,FALSE,9,W
+20369524,2018,15,Cowboys,Colts,0,23,72,DOME,TRUE,5,WNW
+138263125,2018,15,Seahawks,49ers,23,26,59,Mostly Cloudy,FALSE,7,S
+1696126091,2018,15,Patriots,Steelers,10,17,41,Overcast,FALSE,3,NW
+4235549989,2018,15,Eagles,Rams,30,23,65,Clear,FALSE,3,SW
+2997368739,2018,15,Saints,Panthers,12,9,48,Clear,FALSE,0,NNW
+34909905,2018,16,Redskins,Titans,16,25,50,Clear,FALSE,7,S
+3226469782,2018,16,Ravens,Chargers,22,10,64,Clear,FALSE,4,WSW
+2666220848,2018,16,Giants,Colts,27,28,72,DOME,TRUE,8,NW
+3039986299,2018,16,Texans,Eagles,30,32,43,Clear,FALSE,5,W
+2856887403,2018,16,Jaguars,Dolphins,17,7,71,Clear,FALSE,4,NNE
+1063869185,2018,16,Packers,Jets,44,38,41,Clear,FALSE,6,WNW
+4088740577,2018,16,Bengals,Browns,18,26,37,Overcast,FALSE,3,SW
+450923179,2018,16,Buccaneers,Cowboys,20,27,48,Clear,FALSE,9,N
+920676031,2018,16,Vikings,Lions,27,9,72,DOME,TRUE,9,W
+4264971237,2018,16,Bills,Patriots,12,24,37,Clear,FALSE,8,WNW
+3404753953,2018,16,Falcons,Panthers,24,10,49,Clear,FALSE,1,E
+453090988,2018,16,Bears,49ers,14,9,59,Partly Cloudy,FALSE,1,NNW
+3212977222,2018,16,Rams,Cardinals,31,9,72,DOME,TRUE,1,SE
+1977668551,2018,16,Steelers,Saints,28,31,72,DOME,TRUE,2,W
+3248434864,2018,16,Chiefs,Seahawks,31,38,45,Overcast,FALSE,4,SSE
+1881002229,2018,16,Broncos,Raiders,14,27,56,Overcast,FALSE,9,WSW
+1337847104,2018,17,Dolphins,Bills,17,42,28,Overcast,FALSE,7,WSW
+1963518835,2018,17,Lions,Packers,31,0,25,Mostly Cloudy,FALSE,11,SSW
+2501613932,2018,17,Jaguars,Texans,3,20,45,Overcast,FALSE,6,NNW
+1388913933,2018,17,Jets,Patriots,3,38,31,Partly Cloudy,FALSE,0,SSE
+1400113914,2018,17,Panthers,Saints,33,14,72,DOME,TRUE,1,NNE
+3002965487,2018,17,Cowboys,Giants,36,35,35,Overcast,FALSE,0,E
+2382118672,2018,17,Falcons,Buccaneers,34,32,77,Mostly Cloudy,FALSE,4,S
+2596854661,2018,17,Browns,Ravens,24,26,45,Clear,FALSE,3,SSE
+2396189793,2018,17,Eagles,Redskins,24,0,45,Clear,FALSE,3,SSE
+757647648,2018,17,Raiders,Chiefs,3,35,40,Clear,FALSE,11,S
+3900037603,2018,17,Bears,Vikings,24,10,72,DOME,TRUE,7,SSE
+2197979404,2018,17,Bengals,Steelers,13,16,41,Clear,FALSE,8,SW
+2997891109,2018,17,Chargers,Broncos,23,9,51,Partly Cloudy,FALSE,5,N
+1089591243,2018,17,49ers,Rams,32,48,62,Clear,FALSE,3,S
+909033466,2018,17,Cardinals,Seahawks,24,27,45,Mostly Cloudy,FALSE,3,SSE
+2211565995,2018,17,Colts,Titans,33,17,53,Mostly Cloudy,FALSE,1,SSE
