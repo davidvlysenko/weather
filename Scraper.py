@@ -77,8 +77,7 @@ class Weather_Data():
         
         #Import from list of all 32 NFL teams from same folder as Python file
         self.data_folder = str(os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))) 
-        self.team_list = [y for x in list(csv.reader(open(self.data_folder + "\\NFL Team List.csv", "rt", encoding = "utf-8")))
-                          for y in x if x != []]
+        self.team_list = [y for x in list(csv.reader(open("NFL Team List.csv", "rt", encoding = "utf-8"))) for y in x if x != []]
         self.headers = ["game_id", "year", "week", "away", "home", "away_score", "home_score", "temp", "forecast", "is_dome",
                         "wind_speed", "wind_direct"]
 
@@ -180,7 +179,7 @@ class Weather_Data():
                 html_text_list = self.get_html_text(year, week)
                 self.parse_page(year, week, html_text_list)
         
-        self.csv_writer([self.headers] + self.master_list, self.data_folder + "\\NFL Weather Data.csv")
+        self.csv_writer([self.headers] + self.master_list, "NFL Weather Data.csv")
 
 
 
